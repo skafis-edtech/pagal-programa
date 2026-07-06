@@ -139,6 +139,7 @@ for kl_div in root.select("div.is-clas > div.mb-3.collapse-simple"):
             process_content(content, 2, out)
 
 md = re.sub(r"\n{3,}", "\n\n", "".join(out)).strip()
+md = md.replace("\\(", "").replace("\\)", "")
 with open("page.md", "w", encoding="utf-8") as f:
     f.write(md)
 print("Saved to page.md")

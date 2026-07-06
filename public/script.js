@@ -43,7 +43,7 @@ async function init() {
   const links = pages
     .map(
       (p) =>
-        `<a href="${p.slug === "index" ? "/" : "/" + p.slug}" data-slug="${p.slug}">${p.title}</a>`
+        `<a href="${p.slug === "index" ? "/" : "/" + p.slug}" data-slug="${p.slug}">${p.title}</a>`,
     )
     .join("");
 
@@ -75,7 +75,9 @@ async function init() {
     }
   });
 
-  document.getElementById("drawer-overlay").addEventListener("click", closeDrawer);
+  document
+    .getElementById("drawer-overlay")
+    .addEventListener("click", closeDrawer);
 
   loadPage(currentSlug());
 }

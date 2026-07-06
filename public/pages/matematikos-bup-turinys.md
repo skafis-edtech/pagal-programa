@@ -1,7 +1,5 @@
 # Matematikos BUP turinys
 
-_(Nepilnai sutvarkyta)_
-
 # 1 klasė
 
 ## Skaičiai ir skaičiavimai
@@ -150,7 +148,7 @@ Praktikuojama(si) taikyti mintinio skaičiavimo strategijas. Nagrinėjamos įvai
 
 #### Trupmenos
 
-Naudojantis modeliais, piešiniais, išsiaiškinama, kad kai visuma padalijama į $n$ lygių dalių ($n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100$) ir paimama viena tos visumos dalis, tai daliai apibūdinti pasitelkiame skaičius, kurie vadinami trupmeniniais. Aptariant trupmenos, skaitiklio, vardiklio, trupmenos brūkšnio sąvokas, išsiaiškinama trupmenos $\( \frac{m}{n} \) $ prasmė, kai skaičius $m$ yra ne didesnis negu skaičius $n$. Mokoma(si) trupmenas (neviršijančias skaičiaus 1) pavaizduoti skaičių spindulyje. Mokoma(si) neviršijančias skaičiaus 1 trupmenas $\( \frac{m}{n} \) $ su vienodais vardikliais arba skaitikliais palyginti (naudojantis modeliais, pavaizduojant jas tame pačiame skaičių spindulyje); skaičius 0 ir 1 užrašyti kaip trupmenas $\( \frac{0}{n} \) $ ir $\( \frac{n}{n} \) $; paaiškinti, kokios dvi trupmenos ir kodėl laikomos lygiomis (lygiavertėmis) (pavyzdžiui, $\(\frac12=\frac24, \frac48=\frac12\). $Sprendžiami dalies ir visumos radimo uždaviniai.
+Naudojantis modeliais, piešiniais, išsiaiškinama, kad kai visuma padalijama į $n$ lygių dalių ($n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100$) ir paimama viena tos visumos dalis, tai daliai apibūdinti pasitelkiame skaičius, kurie vadinami trupmeniniais. Aptariant trupmenos, skaitiklio, vardiklio, trupmenos brūkšnio sąvokas, išsiaiškinama trupmenos $ \frac{m}{n}  $ prasmė, kai skaičius $m$ yra ne didesnis negu skaičius $n$. Mokoma(si) trupmenas (neviršijančias skaičiaus 1) pavaizduoti skaičių spindulyje. Mokoma(si) neviršijančias skaičiaus 1 trupmenas $ \frac{m}{n}  $ su vienodais vardikliais arba skaitikliais palyginti (naudojantis modeliais, pavaizduojant jas tame pačiame skaičių spindulyje); skaičius 0 ir 1 užrašyti kaip trupmenas $ \frac{0}{n}  $ ir $ \frac{n}{n}  $; paaiškinti, kokios dvi trupmenos ir kodėl laikomos lygiomis (lygiavertėmis) (pavyzdžiui, $\frac12=\frac24, \frac48=\frac12. $Sprendžiami dalies ir visumos radimo uždaviniai.
 
 ### Finansiniai skaičiavimai
 
@@ -182,7 +180,7 @@ Nagrinėjant pavyzdžius, aptariamos sąvokos: raidinis reiškinys, raidinio rei
 
 #### Laikas
 
-Apskaičiuojant laiko trukmę, mokoma(si) naudotis tvarkaraščiu, kalendoriumi. Susipažįstama su laiko matavimo vienetu sekunde (s, sek.). Mokoma(si) smulkinti ir stambinti laiko matavimo vienetus (val., h; min., min; sek., s), įskaitant ir trupmenų taikymą (pavyzdžiui, $\( \frac{1}{4} \) $ val.$\ = 15$ min.).
+Apskaičiuojant laiko trukmę, mokoma(si) naudotis tvarkaraščiu, kalendoriumi. Susipažįstama su laiko matavimo vienetu sekunde (s, sek.). Mokoma(si) smulkinti ir stambinti laiko matavimo vienetus (val., h; min., min; sek., s), įskaitant ir trupmenų taikymą (pavyzdžiui, $ \frac{1}{4}  $ val.$\ = 15$ min.).
 
 #### Ilgis
 
@@ -232,11 +230,11 @@ Praktikuojamasi taikyti mintinio skaičiavimo strategijas. Vizualizuojami, pagri
 
 #### Trupmenos
 
-Mokoma(si) natūralųjį skaičių užrašyti trupmena, kurios vardiklis lygus 1. Apibrėžiama mišriojo skaičiaus sąvoka. Mokoma(si) mišriuosius skaičius perskaityti, palyginti, apvalinti iki sveikojo skaičiaus. Trupmenas $\( \frac{m}{n} \) $, kurių vardiklyje yra $10, 100, 1000$, mokoma(si) užrašyti dešimtainiais skaičiais (su kableliu). Nagrinėjant situacijas su matiniais skaičiais, aiškinama(si), kaip suvienodinti skaitmenų skaičių po kablelio (pavyzdžiui, kodėl $1,5$ Eur $\ = 1,50$ Eur).
+Mokoma(si) natūralųjį skaičių užrašyti trupmena, kurios vardiklis lygus 1. Apibrėžiama mišriojo skaičiaus sąvoka. Mokoma(si) mišriuosius skaičius perskaityti, palyginti, apvalinti iki sveikojo skaičiaus. Trupmenas $ \frac{m}{n}  $, kurių vardiklyje yra $10, 100, 1000$, mokoma(si) užrašyti dešimtainiais skaičiais (su kableliu). Nagrinėjant situacijas su matiniais skaičiais, aiškinama(si), kaip suvienodinti skaitmenų skaičių po kablelio (pavyzdžiui, kodėl $1,5$ Eur $\ = 1,50$ Eur).
 
 #### Veiksmai su trupmenomis
 
-Mokomasi sudėti ir atimti trupmenas su vienodais vardikliais ($\( \frac{m}{n} \) $, kai $m ≤ n$, $n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100$; trupmenų suma neviršija skaičiaus 1). Aiškinama(si), kaip sudedami ir atimami mišrieji skaičiai, kurių trupmeninės dalys yra su tuo pačiu vardikliu (trupmenines dalis sudėjus, neviršijamas vienetas, o atimant nereikalaujama papildomų pertvarkų). Mokoma(si) sudėti ir atimti dešimtainius skaičius su vienu ar dviem skaitmenimis po kablelio.
+Mokomasi sudėti ir atimti trupmenas su vienodais vardikliais ($ \frac{m}{n}  $, kai $m ≤ n$, $n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100$; trupmenų suma neviršija skaičiaus 1). Aiškinama(si), kaip sudedami ir atimami mišrieji skaičiai, kurių trupmeninės dalys yra su tuo pačiu vardikliu (trupmenines dalis sudėjus, neviršijamas vienetas, o atimant nereikalaujama papildomų pertvarkų). Mokoma(si) sudėti ir atimti dešimtainius skaičius su vienu ar dviem skaitmenimis po kablelio.
 
 ### Finansiniai skaičiavimai
 
@@ -272,7 +270,7 @@ Mokoma(si) suprasti rodmenis įvairiuose matavimo prietaisuose (svarstyklėse, l
 
 #### Plotas, tūris
 
-Apibrėžiami kvadratinis centimetras ($\(\text{cm}^2\)$) ir kvadratinis metras ($\(\text{m}^2\)$). Mokoma(si) apskaičiuoti kvadrato, stačiakampio plotą ir iš kvadratų bei stačiakampių sudarytų figūrų plotus. Aptariama tūrio sąvoka. Aiškinama(si), kad statinio tūrį galima apibūdinti statinį sudarančių kubelių skaičiumi, mokoma(si) tai padaryti. Apibrėžiami tūrio matavimo vienetai kubinis centimetras ($\(\text{cm}^3\)$), kubinis metras ($\(\text{m}^3\)$), mokoma(si) suvokti, kokiais vienetais tinka apibūdinti objektus iš artimos aplinkos.
+Apibrėžiami kvadratinis centimetras ($\text{cm}^2$) ir kvadratinis metras ($\text{m}^2$). Mokoma(si) apskaičiuoti kvadrato, stačiakampio plotą ir iš kvadratų bei stačiakampių sudarytų figūrų plotus. Aptariama tūrio sąvoka. Aiškinama(si), kad statinio tūrį galima apibūdinti statinį sudarančių kubelių skaičiumi, mokoma(si) tai padaryti. Apibrėžiami tūrio matavimo vienetai kubinis centimetras ($\text{cm}^3$), kubinis metras ($\text{m}^3$), mokoma(si) suvokti, kokiais vienetais tinka apibūdinti objektus iš artimos aplinkos.
 
 ### Konstravimas, transformacijos
 
@@ -318,11 +316,11 @@ Nagrinėjami romėnų skaitmenų ir skaičių rašymo pavyzdžiai, mokoma(si) pe
 
 #### Trupmenos
 
-Nagrinėjamos trupmenos $\( \frac{m}{n} \) $, kurių skaitiklyje ir vardiklyje gali būti bet koks natūralusis skaičius. Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena. Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas. Mokoma(si) trupmenas, kurių vardiklyje yra $10, 100, 1000, … $, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai. Praktikuojamasi dešimtainius skaičius perskaityti, užrašyti žodžiais, skaitmenimis, skyrių suma, pavaizduoti skaičių tiesėje, palyginti, apvalinti.
+Nagrinėjamos trupmenos $ \frac{m}{n}  $, kurių skaitiklyje ir vardiklyje gali būti bet koks natūralusis skaičius. Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena. Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas. Mokoma(si) trupmenas, kurių vardiklyje yra $10, 100, 1000, … $, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai. Praktikuojamasi dešimtainius skaičius perskaityti, užrašyti žodžiais, skaitmenimis, skyrių suma, pavaizduoti skaičių tiesėje, palyginti, apvalinti.
 
 #### Veiksmai su trupmenomis
 
-Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės dalys išreikštos trupmenomis su skirtingais vardikliais ir kai trupmeninių dalių suma peržengia vienetą. Trupmenos $\( \frac{m}{n} \) $ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas. Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) = (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės). Pagrindžiami su trupmenomis $\( \frac{m}{n} \) $, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius. Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais. Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
+Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės dalys išreikštos trupmenomis su skirtingais vardikliais ir kai trupmeninių dalių suma peržengia vienetą. Trupmenos $ \frac{m}{n}  $ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas. Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) = (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės). Pagrindžiami su trupmenomis $ \frac{m}{n}  $, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius. Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais. Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
 
 ### Finansiniai skaičiavimai
 
@@ -402,7 +400,7 @@ Nagrinėjami kasdienių atsitiktinių įvykių, paprasčiausių bandymų (stocha
 
 Apibrėžiama įvykio tikimybės
 
-$\(\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n} \) $
+$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}  $
 
 sąvoka; vienodų baigčių atveju mokoma(si) ją taikyti, kai $n$ neviršija $10$.
 
@@ -436,7 +434,7 @@ $(a + b) + c = a + (b + c),\ \ \ a + b = b + a,\ \ \ a + 0 = 0 + a = a$,
 
 $a + (–a) = (–a) + a = 0, \ \ \ (a ⋅ b) ⋅ c = a ⋅ (b ⋅ c),\ \ \ a ⋅ b = b ⋅ a$,
 
-$a ⋅ 1 = 1 ⋅ a = a,\ \ \ a ⋅ \( \frac{1}{a} \) = \( \frac{1}{a} \) ⋅ a = 1\ (a ≠ 0),\ \ \ a ⋅ (b + c) = a ⋅ b + a ⋅ c$.
+$a ⋅ 1 = 1 ⋅ a = a,\ \ \ a ⋅  \frac{1}{a}  =  \frac{1}{a}  ⋅ a = 1\ (a ≠ 0),\ \ \ a ⋅ (b + c) = a ⋅ b + a ⋅ c$.
 
 Veiksmai su racionaliaisiais skaičiais ir jų savybės taikomi, sprendžiant įvairaus konteksto uždavinius.
 
@@ -488,7 +486,7 @@ Apibrėžiama įvykio sąvoka (galimų baigčių rinkinys). Nagrinėjami vieno d
 
 Mokoma(si) taikyti formulę
 
-$\(\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n} \) $.
+$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}  $.
 
 Aptariama, kodėl įvykio tikimybė visuomet yra skaičius iš intervalo $[0; 1]$.
 
@@ -504,7 +502,7 @@ Kuriamos ir aptariamos žaidimo taisyklės, numatančios tą pačią laimėjimo 
 
 #### Laipsnis su sveikuoju rodikliu
 
-Apibrėžiamas laipsnis su natūraliuoju rodikliu. Pagrindžiami ir taikomi laipsnių su vienodais pagrindais ir laipsnių su skirtingais pagrindais, bet tokiais pačiais rodikliais daugybos ir dalybos, taip pat laipsnio kėlimo laipsniu veiksmai. Apibrėžiama laipsnio su nuliniu ir sveikuoju neigiamuoju rodikliu sąvoka. Pagrindžiama, kad laipsniams su sveikaisiais neigiamaisiais rodikliais būdingos tos pačios savybės kaip ir laipsniams su sveikaisiais teigiamaisiais rodikliais. Paaiškinama, kad $\(a^0=1\)$, kai $a$ nelygu $0$. Aptariama veiksmų atlikimo tvarka reiškinyje, kai jame yra ir laipsnių. Nagrinėjamos realaus pasaulio situacijos, kai skaičiai užrašyti standartine skaičiaus išraiška $\(a \cdot10^k\)$, kai $1 ≤ a<10;\ k$ yra sveikasis skaičius. Mokoma(si) skaičius užrašyti tokiu pavidalu, juos perskaityti, palyginti. (Plačiau standartinio skaičiaus sąvoka taikoma fizikos pamokose.)
+Apibrėžiamas laipsnis su natūraliuoju rodikliu. Pagrindžiami ir taikomi laipsnių su vienodais pagrindais ir laipsnių su skirtingais pagrindais, bet tokiais pačiais rodikliais daugybos ir dalybos, taip pat laipsnio kėlimo laipsniu veiksmai. Apibrėžiama laipsnio su nuliniu ir sveikuoju neigiamuoju rodikliu sąvoka. Pagrindžiama, kad laipsniams su sveikaisiais neigiamaisiais rodikliais būdingos tos pačios savybės kaip ir laipsniams su sveikaisiais teigiamaisiais rodikliais. Paaiškinama, kad $a^0=1$, kai $a$ nelygu $0$. Aptariama veiksmų atlikimo tvarka reiškinyje, kai jame yra ir laipsnių. Nagrinėjamos realaus pasaulio situacijos, kai skaičiai užrašyti standartine skaičiaus išraiška $a \cdot10^k$, kai $1 ≤ a<10;\ k$ yra sveikasis skaičius. Mokoma(si) skaičius užrašyti tokiu pavidalu, juos perskaityti, palyginti. (Plačiau standartinio skaičiaus sąvoka taikoma fizikos pamokose.)
 
 ### Finansiniai skaičiavimai
 
@@ -566,7 +564,7 @@ Nagrinėjant modelius ir brėžinius, mokoma(si) atpažinti stačiąją ar taisy
 
 #### Ilgio, ploto, tūrio skaičiavimai
 
-Mokoma(si) apskaičiuoti trikampio, lygiagretainio, trapecijos plotą kaip stačiakampio ar kvadrato ploto dalį. Pagrindžiamos šių figūrų plotų formulės. Tyrinėjant nustatoma, kad apskritimo ilgio ir apskritimo skersmens ilgio santykis apytiksliai lygus $3,14$ (įvedamas skaičius $π$). Aiškinama(si), kaip apskaičiuoti apskritimo ilgį, skritulio plotą, kai yra žinomas jo spindulio ilgis. Sprendžiami skritulio dalies ploto, apskritimo lanko dalies ilgio radimo uždaviniai, pavyzdžiui, ieškoma $\( \frac{1}{4} \) $ skritulio ploto. Pagrindžiamos ritinio ir kūgio paviršiaus ploto apskaičiavimo formulės. Sprendžiami ritinio, kūgio paviršiaus ploto apskaičiavimo uždaviniai. Mokoma(si) paprastose situacijose taikyti stačiosios prizmės, ritinio, kūgio ir piramidės tūrio formules (šios formulės pateikiamos be įrodymų).
+Mokoma(si) apskaičiuoti trikampio, lygiagretainio, trapecijos plotą kaip stačiakampio ar kvadrato ploto dalį. Pagrindžiamos šių figūrų plotų formulės. Tyrinėjant nustatoma, kad apskritimo ilgio ir apskritimo skersmens ilgio santykis apytiksliai lygus $3,14$ (įvedamas skaičius $π$). Aiškinama(si), kaip apskaičiuoti apskritimo ilgį, skritulio plotą, kai yra žinomas jo spindulio ilgis. Sprendžiami skritulio dalies ploto, apskritimo lanko dalies ilgio radimo uždaviniai, pavyzdžiui, ieškoma $ \frac{1}{4}  $ skritulio ploto. Pagrindžiamos ritinio ir kūgio paviršiaus ploto apskaičiavimo formulės. Sprendžiami ritinio, kūgio paviršiaus ploto apskaičiavimo uždaviniai. Mokoma(si) paprastose situacijose taikyti stačiosios prizmės, ritinio, kūgio ir piramidės tūrio formules (šios formulės pateikiamos be įrodymų).
 
 ## Duomenys ir tikimybės
 
@@ -582,11 +580,11 @@ Aptariamos sąvokos: populiacija ir imtis, imties dydis, reprezentatyvioji imtis
 
 #### Kvadratinė ir kubinė šaknys
 
-Apibrėžiamos sąvokos: kvadratinė šaknis, kubinė šaknis. Mokoma(si) apskaičiuoti kvadratinių ir kubinių šaknų reikšmes, kai pošaknyje yra atitinkamų racionaliųjų skaičių kvadratai, kubai. Mokoma(si) rasti kvadratinės ir kubinės šaknies apytikslę reikšmę, įvertinti skaitinio reiškinio, kuriame yra kvadratinė arba kubinė šaknis, reikšmę. Sprendžiami uždaviniai, kai be skaičiuotuvo reikia įvertinti, tarp kokių sveikųjų skaičių yra nurodytoji šaknis (pavyzdžiui, rasti tokį sveikąjį skaičių$\(a\)$, su kuriuo teisinga nelygybė $\(a ≤ \sqrt{111} < a+1\)$). Praktikuojamasi įkelti teigiamą skaičių į pošaknį ir iškelti jį prieš šaknies ženklą, taip pat sudauginti to paties laipsnio šaknis ar jas padalyti.
+Apibrėžiamos sąvokos: kvadratinė šaknis, kubinė šaknis. Mokoma(si) apskaičiuoti kvadratinių ir kubinių šaknų reikšmes, kai pošaknyje yra atitinkamų racionaliųjų skaičių kvadratai, kubai. Mokoma(si) rasti kvadratinės ir kubinės šaknies apytikslę reikšmę, įvertinti skaitinio reiškinio, kuriame yra kvadratinė arba kubinė šaknis, reikšmę. Sprendžiami uždaviniai, kai be skaičiuotuvo reikia įvertinti, tarp kokių sveikųjų skaičių yra nurodytoji šaknis (pavyzdžiui, rasti tokį sveikąjį skaičių$a$, su kuriuo teisinga nelygybė $a ≤ \sqrt{111} < a+1$). Praktikuojamasi įkelti teigiamą skaičių į pošaknį ir iškelti jį prieš šaknies ženklą, taip pat sudauginti to paties laipsnio šaknis ar jas padalyti.
 
 #### Skaičių aibės
 
-Apibrėžiama, kokie skaičiai vadinami racionaliaisiais, iracionaliaisiais, realiaisiais. Aptariamos sąvokos: skaičių aibė, baigtinė aibė, begalinė aibė, aibės poaibis. Nustatomi ryšiai tarp skaičių aibių $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}$. Mokoma(si) pagrįsti ir užrašyti, kuriai skaičių aibei priklauso ar nepriklauso įvairūs skaičiai (pavyzdžiui, $\(5∈\mathbb{N}\)$). Mokoma(si) skaičių aibes pavaizduoti simboliais, schemomis, užrašyti, naudojantis aibių teorijos simboliais, intervalais, nelygybėmis, reiškiniais (pavyzdžiui, mokoma(si) reiškiniu užrašyti lyginių, nelyginių natūraliųjų skaičių aibes).
+Apibrėžiama, kokie skaičiai vadinami racionaliaisiais, iracionaliaisiais, realiaisiais. Aptariamos sąvokos: skaičių aibė, baigtinė aibė, begalinė aibė, aibės poaibis. Nustatomi ryšiai tarp skaičių aibių $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}$. Mokoma(si) pagrįsti ir užrašyti, kuriai skaičių aibei priklauso ar nepriklauso įvairūs skaičiai (pavyzdžiui, $5∈\mathbb{N}$). Mokoma(si) skaičių aibes pavaizduoti simboliais, schemomis, užrašyti, naudojantis aibių teorijos simboliais, intervalais, nelygybėmis, reiškiniais (pavyzdžiui, mokoma(si) reiškiniu užrašyti lyginių, nelyginių natūraliųjų skaičių aibes).
 
 #### Veiksmai su realiaisiais skaičiais
 
@@ -696,7 +694,7 @@ Išnagrinėjus kvadratine funkcija aprašomus eksperimento duomenis, įvedama kv
 
 $y=ax^2+bx+c$, kai ${a ≠ 0}$,
 
-sąvoka, braižomi jos grafiko (parabolės) eskizai. Tyrinėjama, kaip parabolės forma ir padėtis priklauso nuo ${a}$ ir $\(D=b^2-4ac\)$ reikšmių.
+sąvoka, braižomi jos grafiko (parabolės) eskizai. Tyrinėjama, kaip parabolės forma ir padėtis priklauso nuo ${a}$ ir $D=b^2-4ac$ reikšmių.
 
 Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip, taikant transformacijas, iš funkcijos $y=x$ grafiko gauti funkcijos
 
@@ -724,9 +722,9 @@ Apibrėžiami centrinis ir įbrėžtinis kampai. Nagrinėjama centrinio ir įbr�
 
 Apibrėžiami sinusas, kosinusas ir tangentas stačiajame trikampyje. Apskaičiuojant panašiųjų trikampių atitinkamų kraštinių ilgių santykius, įsitikinama, kad jų reikšmės nepriklauso nuo trikampio dydžio. Įrodomos lygybės
 
-$\(\sin^2 (α)+\cos^2 (α)=1\),\ \ \ \tg (α) = \frac {\sin⁡(α)} {\cos⁡(α)}$
+$\sin^2 (α)+\cos^2 (α)=1,\ \ \ \tg (α) = \frac {\sin⁡(α)} {\cos⁡(α)}$
 
-ir sudaroma kampų $\(30^\circ,45^\circ, 60^\circ\)$ trigonometrinių reikšmių lentelė. Mokoma(si) naudotis skaičiuotuvu apskaičiuojant tikslias ir apytiksles smailiojo kampo sinuso, kosinuso, tangento reikšmes. Sprendžiami įvairūs uždaviniai, kai taikomi sinuso, kosinuso, tangento stačiajame trikampyje apibrėžimai (pavyzdžiui, nustatyti objekto aukštį, rasti kelio nuolydį ar lėktuvo pakilimo kampą, apskaičiuoti atstumą iki neprieinamos vietos ir pan.).
+ir sudaroma kampų $30^\circ,45^\circ, 60^\circ$ trigonometrinių reikšmių lentelė. Mokoma(si) naudotis skaičiuotuvu apskaičiuojant tikslias ir apytiksles smailiojo kampo sinuso, kosinuso, tangento reikšmes. Sprendžiami įvairūs uždaviniai, kai taikomi sinuso, kosinuso, tangento stačiajame trikampyje apibrėžimai (pavyzdžiui, nustatyti objekto aukštį, rasti kelio nuolydį ar lėktuvo pakilimo kampą, apskaičiuoti atstumą iki neprieinamos vietos ir pan.).
 
 ## Duomenys ir tikimybės
 
@@ -740,13 +738,13 @@ Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryš�
 
 ### Dėsningumai
 
-Nagrinėjamos probleminės situacijos, kuomet nustatomas matematinės informacijos trūkumas ir mokoma(si) ją susirasti, atsirinkti. Sprendžiami uždaviniai, į kuriuos atsakyti galima nevienareikšmiai, kurie turi daugiau negu vieną teisingą atsakymą. Praktikuojamasi sugalvoti naujus klausimus (sąlygą, uždavinį), nustatyti naujo uždavinio ryšį su anksčiau spręstuoju. Sprendžiami uždaviniai, kai skaičius, dydis padalijamas į dvi nelygias dalis, kuriuos sprendžiant reikia remtis proporcingąja dalyba. Nagrinėjama Fibonačio skaičių seka, aukso pjūvio skaičius $\(Φ = \frac {1 + \sqrt5} 2\)$, aukso pjūvio seka ($0{,}056; 0{,}090; 0{,}146; 0{,}236; …$). Sprendžiami su procentais ir dydžių santykiais susiję uždaviniai: džiovinimo ir drėkinimo; sudėtinių procentų; lydinių, mišinių, tirpalų.
+Nagrinėjamos probleminės situacijos, kuomet nustatomas matematinės informacijos trūkumas ir mokoma(si) ją susirasti, atsirinkti. Sprendžiami uždaviniai, į kuriuos atsakyti galima nevienareikšmiai, kurie turi daugiau negu vieną teisingą atsakymą. Praktikuojamasi sugalvoti naujus klausimus (sąlygą, uždavinį), nustatyti naujo uždavinio ryšį su anksčiau spręstuoju. Sprendžiami uždaviniai, kai skaičius, dydis padalijamas į dvi nelygias dalis, kuriuos sprendžiant reikia remtis proporcingąja dalyba. Nagrinėjama Fibonačio skaičių seka, aukso pjūvio skaičius $Φ = \frac {1 + \sqrt5} 2$, aukso pjūvio seka ($0{,}056; 0{,}090; 0{,}146; 0{,}236; …$). Sprendžiami su procentais ir dydžių santykiais susiję uždaviniai: džiovinimo ir drėkinimo; sudėtinių procentų; lydinių, mišinių, tirpalų.
 
 ### Algebra
 
 #### Trupmeninės racionaliosios lygtys
 
-Apibrėžiama trupmeninės racionaliosios lygties sąvoka. Mokoma(si) spręsti trupmenines racionaliąsias lygtis, joms sukiant pavidalą $\( \frac{A(x)}{B(x)} \) = 0$. Nagrinėjamos įvairios realaus pasaulio ir matematinės situacijos, kurios gali būti modeliuojamos racionaliosiomis lygtimis.
+Apibrėžiama trupmeninės racionaliosios lygties sąvoka. Mokoma(si) spręsti trupmenines racionaliąsias lygtis, joms sukiant pavidalą $ \frac{A(x)}{B(x)}  = 0$. Nagrinėjamos įvairios realaus pasaulio ir matematinės situacijos, kurios gali būti modeliuojamos racionaliosiomis lygtimis.
 
 #### Kvadratinės nelygybės
 
@@ -770,7 +768,7 @@ Mokomasi pagrįsti ir taikyti įbrėžtinio ir apibrėžtinio keturkampio savybe
 
 #### Įvadas į trigonometriją
 
-Apibrėžiamas vienetinis apskritimas ir posūkio kampas, posūkio kampo sinusas, kosinusas, tangentas, kai $\(α∈(0^\circ;180^\circ\))$. Išsiaiškinama, kaip apskaičiuojamos $\(120^\circ, 135^\circ, 150^\circ\) $ kampų sinuso ir kosinuso reikšmės. Apibendrinama, kaip apskaičiuojamos bet kokio smailiojo ar bukojo kampo sinuso, kosinuso reikšmės ir įrodomos formulės:
+Apibrėžiamas vienetinis apskritimas ir posūkio kampas, posūkio kampo sinusas, kosinusas, tangentas, kai $α∈(0^\circ;180^\circ)$. Išsiaiškinama, kaip apskaičiuojamos $120^\circ, 135^\circ, 150^\circ $ kampų sinuso ir kosinuso reikšmės. Apibendrinama, kaip apskaičiuojamos bet kokio smailiojo ar bukojo kampo sinuso, kosinuso reikšmės ir įrodomos formulės:
 
 $\sin⁡(180^\circ\ –\ α)=\sin⁡(α),\ \ \ \cos⁡(180^\circ\ –\ α)= –\cos⁡(α)$.
 
@@ -826,7 +824,7 @@ Išsiaiškinama, pagrindžiama, kaip iracionalieji skaičiai $\sqrt a $ $(a∈\m
 
 Praktikuojamasi skaičiuotuvu rasti apytikslę duotojo iracionaliojo skaičiaus $\sqrt [n] a$ reikšmę.
 
-Aiškinamasi, kad $n$-tojo $(n∈\mathbb{N},\,n>3)\)$ laipsnio šaknims būdingos antrojo ir trečiojo laipsnių šaknų (ir veiksmų su jomis) savybės:
+Aiškinamasi, kad $n$-tojo $(n∈\mathbb{N},\,n>3)$ laipsnio šaknims būdingos antrojo ir trečiojo laipsnių šaknų (ir veiksmų su jomis) savybės:
 
 $\sqrt [n] a \cdot \sqrt [n] b = \sqrt [n] {a \cdot b}, \ \ \ \sqrt [n] a : \sqrt [n] b = \sqrt [n] {a : b}, \ \ \ \sqrt [n] {\sqrt [m]a}= \sqrt [n \cdot m] a$.
 
@@ -1188,9 +1186,9 @@ Praktikuojamasi, naudojantis vienetiniu apskritimu bei tangentų tiese, apskaič
 
 $0^\circ,$ $±30^\circ,$ $ ±45^\circ,$ $ ±60^\circ,$ $ ±90^\circ,$ $ ±120^\circ,$ $ ±135^\circ,$ $ ±150^\circ,$ $$ $ ±180^\circ,$ $ ±210^\circ,$ $ ±225^\circ,$ $ ±240^\circ,$ $ ±270^\circ,$ $ ±300^\circ,$ $ ±315^\circ,$ $ ±330^\circ,$ $ ±360^\circ$.
 
-Tuo pačiu metodu parodoma, kad skaičiai $\(\sin⁡(α)\)$ ir $\(\cos⁡(α)\)$ turi prasmę su visomis $\(⁡α\)$ realiosiomis reikšmėmis, kodėl $\(\sin⁡(α)\)$ ir $\(\cos⁡(α)\)$ reikšmės kas $360^\circ$ kartojasi ir visuomet priklauso intervalui $[-1;1]$.
+Tuo pačiu metodu parodoma, kad skaičiai $\sin⁡(α)$ ir $\cos⁡(α)$ turi prasmę su visomis $⁡α$ realiosiomis reikšmėmis, kodėl $\sin⁡(α)$ ir $\cos⁡(α)$ reikšmės kas $360^\circ$ kartojasi ir visuomet priklauso intervalui $[-1;1]$.
 
-Aptariama, kodėl $\(\tg⁡(α)\)$ reikšmės yra intervalo $\((-∞;+∞)\)$ skaičiai ir kodėl jos kartojasi kas $180^\circ$.
+Aptariama, kodėl $\tg⁡(α)$ reikšmės yra intervalo $(-∞;+∞)$ skaičiai ir kodėl jos kartojasi kas $180^\circ$.
 
 Įrodomos formulės:
 
@@ -1672,7 +1670,7 @@ Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
 Analizuojama tolydžiosios funkcijos, visuose funkcijos apibrėžimo srities intervaluose, samprata. Formuluojami teiginiai apie tolydžių funkcijų sumos (skirtumo), sandaugos ir dalmens tolydumą.
 
-Apibrėžiama tolydžios funkcijos ribos samprata, kai funkcijos argumento reikšmės artėja prie duotosios reikšmės ir kai funkcijos argumento reikšmės tolsta į begalybę ($\(±∞\)$).
+Apibrėžiama tolydžios funkcijos ribos samprata, kai funkcijos argumento reikšmės artėja prie duotosios reikšmės ir kai funkcijos argumento reikšmės tolsta į begalybę ($±∞$).
 
 Formuluojamos ir aiškinamos funkcijų ribų skaičiavimo taisyklės (ribų savybės): funkcijų sumos (skirtumo), sandaugos ir dalmens.
 
