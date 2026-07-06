@@ -1,8 +1,9 @@
 import re
+
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-# ── Fetch & save page.html ────────────────────────────────────────────────────
+# ── Fetch & save content.html ────────────────────────────────────────────────────
 
 url = "https://emokykla.lt/bendrosios-programos/visos-bendrosios-programos/5"
 response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -13,14 +14,16 @@ types7 = soup.find("div", class_="types-7")
 if types7 is None:
     raise ValueError("div.types-7 not found on page")
 
-with open("page.html", "w", encoding="utf-8") as f:
+with open("content.html", "w", encoding="utf-8") as f:
     f.write(types7.decode_contents())
-print("Saved to page.html")
+print("Saved to content.html")
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
+
 def ws(text):
     return re.sub(r"\s+", " ", text).strip()
+
 
 def elem_text(el):
     """Recursively get text, wrapping math-tex spans with $...$."""
@@ -35,6 +38,7 @@ def elem_text(el):
                 parts.append(elem_text(child))
     return "".join(parts)
 
+
 def anchor_title(a):
     """Text of <a> excluding <i> and <img> children, trailing period stripped."""
     parts = []
@@ -45,6 +49,7 @@ def anchor_title(a):
             parts.append(elem_text(child))
     return ws("".join(parts)).rstrip(". ").rstrip(".")
 
+
 def italic_lead(p):
     """True if p's first non-whitespace child is an <i> tag."""
     for child in p.children:
@@ -54,6 +59,7 @@ def italic_lead(p):
         elif isinstance(child, Tag):
             return child.name == "i"
     return False
+
 
 def text_after_first_tag(p):
     """Text of p after its first child Tag (the italic heading)."""
@@ -73,7 +79,9 @@ def text_after_first_tag(p):
                 parts.append(elem_text(child))
     return "".join(parts)
 
+
 # ── Emission ──────────────────────────────────────────────────────────────────
+
 
 def emit_para(p, out):
     if italic_lead(p):
@@ -89,6 +97,7 @@ def emit_para(p, out):
         if text:
             out.append(f"{text}\n\n")
 
+
 def process_content(div, level, out):
     nested = div.find_all("div", class_="collapse-simple", recursive=False)
     if nested:
@@ -102,6 +111,7 @@ def process_content(div, level, out):
                 text = ws(str(child))
                 if text:
                     out.append(f"{text}\n\n")
+
 
 def process_accordion(acc, level, out):
     a = acc.find("a", recursive=False)
@@ -117,7 +127,8 @@ def process_accordion(acc, level, out):
         if content:
             process_content(content, level + 1, out)
 
-# ── Convert to page.md ────────────────────────────────────────────────────────
+
+# ── Convert to content.md ────────────────────────────────────────────────────────
 
 # Use the first tab-pane (Visas turinys) to avoid duplicates from per-concentration tabs
 tab_panes = types7.find_all("div", class_="tab-pane")
@@ -140,6 +151,6 @@ for kl_div in root.select("div.is-clas > div.mb-3.collapse-simple"):
 
 md = re.sub(r"\n{3,}", "\n\n", "".join(out)).strip()
 md = md.replace("\\(", "").replace("\\)", "")
-with open("page.md", "w", encoding="utf-8") as f:
+with open("content.md", "w", encoding="utf-8") as f:
     f.write(md)
-print("Saved to page.md")
+print("Saved to content.md")
