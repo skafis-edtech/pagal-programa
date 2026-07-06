@@ -6,11 +6,11 @@
 
 #### Skaičiai nuo 0 iki 100
 
-Mokoma(si) skaičiuoti pirmyn ir atgal nuo bet kurio skaičiaus, susieti objektų kiekį su skaičiumi. Aptariama skaičiaus ir skaitmens sąvokos, skaičių rašymo dešimtainėje pozicinėje skaičiavimo sistemoje ypatumai. Aiškinama(si), kad skaičiai užrašomi skaitmenimis. Tyrinėjama, kaip skaičių spindulyje galima pažymėti skaičius, pradedant nuo nulio. Pasitelkiant įvairius praktinius modelius, mokoma(si) skaičius perskaityti, užrašyti skaitmenimis, palyginti. Nagrinėjant pusiausvyrą iliustruojančius modelius, schemas formuojamos „lygumo“ ir „nelygumo“ sąvokų sampratos, išsiaiškinama, ką reiškia ženklai $===$,$≠,<,> ≠, <, >=,<,>$, mokomasi praktines situacijas apibūdinti paprasčiausiomis skaitinėmis lygybėmis ar nelygybėmis.
+Mokoma(si) skaičiuoti pirmyn ir atgal nuo bet kurio skaičiaus, susieti objektų kiekį su skaičiumi. Aptariama skaičiaus ir skaitmens sąvokos, skaičių rašymo dešimtainėje pozicinėje skaičiavimo sistemoje ypatumai. Aiškinama(si), kad skaičiai užrašomi skaitmenimis. Tyrinėjama, kaip skaičių spindulyje galima pažymėti skaičius, pradedant nuo nulio. Pasitelkiant įvairius praktinius modelius, mokoma(si) skaičius perskaityti, užrašyti skaitmenimis, palyginti. Nagrinėjant pusiausvyrą iliustruojančius modelius, schemas formuojamos „lygumo“ ir „nelygumo“ sąvokų sampratos, išsiaiškinama, ką reiškia ženklai $=$,$ ≠, <, >$, mokomasi praktines situacijas apibūdinti paprasčiausiomis skaitinėmis lygybėmis ar nelygybėmis.
 
 #### Sudėtis ir atimtis
 
-Sudėties ir atimties veiksmai aiškinami kaip skaičiavimas pirmyn ir atgal, aptariamas šių veiksmų ryšys ($a+b−b=aa + b - b = aa+b−b=a$, $a−b+b=aa - b + b = aa−b+b=a$; jei $a−b=ca - b = ca−b=c$, tai $c+b=ac + b = ac+b=a$). Nagrinėjami veiksmų su nuliu pavyzdžiai ($a+0=aa + 0 = aa+0=a$ ir $a−0=aa - 0 = aa−0=a$). Aptariamos ir praktikuojamos įvairios skaičiavimo strategijos (būdai), kaip greičiau, mintyse skaičiuoti nuo 1 iki 20 imtinai (pavyzdžiui, ieškant trūkstamo skaičiaus iki 10; perstatant, grupuojant skaičius ir pan.). Aptariama skliaustų () ženklų paskirtis ir praktikuojamasi atlikti veiksmus su skliaustais (mokoma(si) apskaičiuoti skaitinių reiškinių, kuriuose yra apskliaustų veiksmų, reikšmes). Modeliuojant ir palyginant situacijas, prieinama prie išvados, kad skaičius galima sudėti įvairia tvarka. Nors sudėties perstatomumo $(a+b=b+a)(a + b = b + a)(a+b=b+a)$ ir jungiamumo $(a+(b+c)=(a+b)+c)(a + (b + c) = (a + b) + c)(a+(b+c)=(a+b)+c)$ dėsniai neįvardijami, tačiau atliekama pakankamai pratimų, kad mokiniai įgustų juos taikyti, argumentuoti skaičiavimo būdo pasirinkimą konkrečiu atveju. Mokoma(si) dviženklius skaičius užrašyti skaičiaus skaitmenų skyrių suma. Atliekami sudėties ir atimties veiksmai nuo 1 iki 100 imtinai: vienaženklių skaičių – peržengiant dešimtį, dviženklio ir vienaženklio skaičių bei dviženklių skaičių – neperžengiant šimto. Mokant(is) sudėti ir atimti skaičius, naudojami konkretūs modeliai, schemos, taikomos skaičiavimo strategijos, pagrįstos pozicine skaitmens reikšme (skaitmens vietos skaičiuje verte), sudėties savybėmis, ryšiu tarp sudėties ir atimties veiksmų (jei $a−b=ca - b = ca−b=c$, tai $c+b=ac + b = ac+b=a$). Mokoma(si) dviejų skaičių sudėties ir atimties veiksmus užrašyti ir eilute, ir stulpeliu. Atliekant skaičių sudėtį, atimtį stulpeliu, mokoma(si) paaiškinti, kodėl taip skaičiuojama. Sprendžiami ir kuriami įvairių kontekstų uždaviniai, kai, atsakant į tiesioginį klausimą, reikia atlikti vieną sudėties arba atimties veiksmą (pavyzdžiui, sužinoti, kiek yra iš viso; koks bus likutis; keliais vienetais vienas skaičius mažesnis už kitą ir pan.). Mokoma(si) lygybėse $a+b=ca + b = ca+b=c$, $a−b=ca - b = ca−b=c$ nustatyti trūkstamą (nežinomą) skaičių (žymimą, pavyzdžiui, langeliu), kai kiti du skaičiai yra žinomi. Mokoma(si) tekstinius uždavinius pavaizduoti piešiniais, schemomis, lygybėmis, kuriose nežinomojo vietoje yra koks nors simbolis (pavyzdžiui, langelis).
+Sudėties ir atimties veiksmai aiškinami kaip skaičiavimas pirmyn ir atgal, aptariamas šių veiksmų ryšys ($a + b - b = a$, $a - b + b = a$; jei $a - b = c$, tai $c + b = a$). Nagrinėjami veiksmų su nuliu pavyzdžiai ($a + 0 = a$ ir $a - 0 = a$). Aptariamos ir praktikuojamos įvairios skaičiavimo strategijos (būdai), kaip greičiau, mintyse skaičiuoti nuo 1 iki 20 imtinai (pavyzdžiui, ieškant trūkstamo skaičiaus iki 10; perstatant, grupuojant skaičius ir pan.). Aptariama skliaustų () ženklų paskirtis ir praktikuojamasi atlikti veiksmus su skliaustais (mokoma(si) apskaičiuoti skaitinių reiškinių, kuriuose yra apskliaustų veiksmų, reikšmes). Modeliuojant ir palyginant situacijas, prieinama prie išvados, kad skaičius galima sudėti įvairia tvarka. Nors sudėties perstatomumo $(a + b = b + a)$ ir jungiamumo $(a + (b + c) = (a + b) + c)$ dėsniai neįvardijami, tačiau atliekama pakankamai pratimų, kad mokiniai įgustų juos taikyti, argumentuoti skaičiavimo būdo pasirinkimą konkrečiu atveju. Mokoma(si) dviženklius skaičius užrašyti skaičiaus skaitmenų skyrių suma. Atliekami sudėties ir atimties veiksmai nuo 1 iki 100 imtinai: vienaženklių skaičių – peržengiant dešimtį, dviženklio ir vienaženklio skaičių bei dviženklių skaičių – neperžengiant šimto. Mokant(is) sudėti ir atimti skaičius, naudojami konkretūs modeliai, schemos, taikomos skaičiavimo strategijos, pagrįstos pozicine skaitmens reikšme (skaitmens vietos skaičiuje verte), sudėties savybėmis, ryšiu tarp sudėties ir atimties veiksmų (jei $a - b = c$, tai $c + b = a$). Mokoma(si) dviejų skaičių sudėties ir atimties veiksmus užrašyti ir eilute, ir stulpeliu. Atliekant skaičių sudėtį, atimtį stulpeliu, mokoma(si) paaiškinti, kodėl taip skaičiuojama. Sprendžiami ir kuriami įvairių kontekstų uždaviniai, kai, atsakant į tiesioginį klausimą, reikia atlikti vieną sudėties arba atimties veiksmą (pavyzdžiui, sužinoti, kiek yra iš viso; koks bus likutis; keliais vienetais vienas skaičius mažesnis už kitą ir pan.). Mokoma(si) lygybėse $a + b = c$, $a - b = c$ nustatyti trūkstamą (nežinomą) skaičių (žymimą, pavyzdžiui, langeliu), kai kiti du skaičiai yra žinomi. Mokoma(si) tekstinius uždavinius pavaizduoti piešiniais, schemomis, lygybėmis, kuriose nežinomojo vietoje yra koks nors simbolis (pavyzdžiui, langelis).
 
 ### Finansiniai skaičiavimai
 
@@ -70,7 +70,7 @@ Nagrinėjami skaičiai iki 1000, skaičiuojama pirmyn ir atgal nuo bet kurio ska
 
 #### Sudėtis, atimtis, daugyba, dalyba
 
-Mokantis nuo 1 iki 1000 imtinai sudėti ir atimti skaičius (peržengiant dešimtį, šimtą), naudojami konkretūs modeliai ar brėžiniai, skaičiavimo strategijos, pagrįstos dešimtaine pozicine skaičių rašymo tvarka, operacijų savybėmis, ryšiu tarp sudėties ir atimties veiksmų. Mokoma(si) taikyti mintinio skaičiavimo strategijas sudėties ir atimties veiksmams, kai yra apvalios dešimčių, šimtų reikšmės. Sprendžiami vieno dviejų žingsnių sudėties ar atimties veiksmo reikalaujantys uždaviniai, kuomet reikia atsakyti į tiesioginį ar netiesioginį klausimą. Įvairiais modeliais iliustruojama daugyba ir dalyba (pavyzdžiui, dirbama su vienodomis objektų grupėmis, eilučių ir stulpelių rinkiniais, daugybos lentele), aptariamas šių veiksmų ryšys. Nagrinėjami daugybos ir dalybos veiksmų su vienetu pavyzdžiai ($a⋅1=aa ⋅ 1 = aa⋅1=a$ ir $a:1=aa : 1 = aa:1=a$). Tyrinėjama, kaip sudaryta daugybos lentelė ($10×1010 × 1010×10$). Aptariamos sąvokos: lyginis skaičius, nelyginis skaičius. Nagrinėjant konkrečius daugybos ir dalybos pavyzdžius, aptariami su nuliu atliekami veiksmai ($a⋅0=0a ⋅ 0 = 0a⋅0=0$ ir $0:a=00 : a = 00:a=0$, čia $a≠0a ≠ 0a=0$). Modeliuojant situacijas, aptariami daugybos perstatomumo ($a⋅b=b⋅aa ⋅ b = b ⋅ aa⋅b=b⋅a$) ir jungiamumo ($a⋅(b⋅c)=(a⋅b)⋅ca ⋅ (b ⋅ c) = (a ⋅ b) ⋅ ca⋅(b⋅c)=(a⋅b)⋅c$) dėsniai (dėsnių pavadinimai neįvardijami), sudaromi dviveiksmiai skaitiniai reiškiniai, pagrindžiant juose atliekamų veiksmų tvarką. Sprendžiami vieno žingsnio uždaviniai, kuomet reikia atsakyti į tiesioginį klausimą, taikant daugybos ar dalybos veiksmą (pavyzdžiui, imama $nnn$ kartų po $mmm$, kiek kartų skiriasi, dvigubai, trigubai daugiau ar mažiau, dalijama į lygias grupes ir kt.). Mokoma(si) skaičių daugybą užrašyti eilute, stulpeliu, dalybą – eilute, kampu. Prieš sprendžiant tekstinį uždavinį, jis analizuojamas, pavaizduojamas schema, piešiniu. Mokoma(si) uždavinio sprendimą užrašyti kaip klausimų ir atsakymų seką. Aiškinama(si), kaip įvairias asmeninio konteksto situacijas sieti skaitinėmis lygybėmis ir nelygybėmis, kuriose yra vienas sudėties, atimties, daugybos arba dalybos veiksmo ženklas. Mokoma(si) paaiškinti, kodėl užrašyta skaitinė lygybė (ženklas $===$) ar nelygybė (ženklai $<,> <, ><,>$) yra teisinga ar klaidinga, taip pat parinkti skaičius, su kuriais skaitinė lygybė ar nelygybė būtų teisinga.
+Mokantis nuo 1 iki 1000 imtinai sudėti ir atimti skaičius (peržengiant dešimtį, šimtą), naudojami konkretūs modeliai ar brėžiniai, skaičiavimo strategijos, pagrįstos dešimtaine pozicine skaičių rašymo tvarka, operacijų savybėmis, ryšiu tarp sudėties ir atimties veiksmų. Mokoma(si) taikyti mintinio skaičiavimo strategijas sudėties ir atimties veiksmams, kai yra apvalios dešimčių, šimtų reikšmės. Sprendžiami vieno dviejų žingsnių sudėties ar atimties veiksmo reikalaujantys uždaviniai, kuomet reikia atsakyti į tiesioginį ar netiesioginį klausimą. Įvairiais modeliais iliustruojama daugyba ir dalyba (pavyzdžiui, dirbama su vienodomis objektų grupėmis, eilučių ir stulpelių rinkiniais, daugybos lentele), aptariamas šių veiksmų ryšys. Nagrinėjami daugybos ir dalybos veiksmų su vienetu pavyzdžiai ($a ⋅ 1 = a$ ir $a : 1 = a$). Tyrinėjama, kaip sudaryta daugybos lentelė ($10 × 10$). Aptariamos sąvokos: lyginis skaičius, nelyginis skaičius. Nagrinėjant konkrečius daugybos ir dalybos pavyzdžius, aptariami su nuliu atliekami veiksmai ($a ⋅ 0 = 0$ ir $0 : a = 0$, čia $a ≠ 0$). Modeliuojant situacijas, aptariami daugybos perstatomumo ($a ⋅ b = b ⋅ a$) ir jungiamumo ($a ⋅ (b ⋅ c) = (a ⋅ b) ⋅ c$) dėsniai (dėsnių pavadinimai neįvardijami), sudaromi dviveiksmiai skaitiniai reiškiniai, pagrindžiant juose atliekamų veiksmų tvarką. Sprendžiami vieno žingsnio uždaviniai, kuomet reikia atsakyti į tiesioginį klausimą, taikant daugybos ar dalybos veiksmą (pavyzdžiui, imama $n$ kartų po $m$, kiek kartų skiriasi, dvigubai, trigubai daugiau ar mažiau, dalijama į lygias grupes ir kt.). Mokoma(si) skaičių daugybą užrašyti eilute, stulpeliu, dalybą – eilute, kampu. Prieš sprendžiant tekstinį uždavinį, jis analizuojamas, pavaizduojamas schema, piešiniu. Mokoma(si) uždavinio sprendimą užrašyti kaip klausimų ir atsakymų seką. Aiškinama(si), kaip įvairias asmeninio konteksto situacijas sieti skaitinėmis lygybėmis ir nelygybėmis, kuriose yra vienas sudėties, atimties, daugybos arba dalybos veiksmo ženklas. Mokoma(si) paaiškinti, kodėl užrašyta skaitinė lygybė (ženklas $=$) ar nelygybė (ženklai $ <, >$) yra teisinga ar klaidinga, taip pat parinkti skaičius, su kuriais skaitinė lygybė ar nelygybė būtų teisinga.
 
 ### Trupmenos ir dalys
 
@@ -146,7 +146,7 @@ Praktikuojama(si) taikyti mintinio skaičiavimo strategijas. Nagrinėjamos įvai
 
 #### Trupmenos
 
-Naudojantis modeliais, piešiniais, išsiaiškinama, kad kai visuma padalijama į $nnn$ lygių dalių ($n=2,3,4,5,6,7,8,9,10,100n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100n=2,3,4,5,6,7,8,9,10,100$) ir paimama viena tos visumos dalis, tai daliai apibūdinti pasitelkiame skaičius, kurie vadinami trupmeniniais. Aptariant trupmenos, skaitiklio, vardiklio, trupmenos brūkšnio sąvokas, išsiaiškinama trupmenos $mn \frac{m}{n} nm​$ prasmė, kai skaičius $mmm$ yra ne didesnis negu skaičius $nnn$. Mokoma(si) trupmenas (neviršijančias skaičiaus 1) pavaizduoti skaičių spindulyje. Mokoma(si) neviršijančias skaičiaus 1 trupmenas $mn \frac{m}{n} nm​$ su vienodais vardikliais arba skaitikliais palyginti (naudojantis modeliais, pavaizduojant jas tame pačiame skaičių spindulyje); skaičius 0 ir 1 užrašyti kaip trupmenas $0n \frac{0}{n} n0​$ ir $nn \frac{n}{n} nn​$; paaiškinti, kokios dvi trupmenos ir kodėl laikomos lygiomis (lygiavertėmis) (pavyzdžiui, $12=24, 48=12.\frac12=\frac24, \frac48=\frac12. 21​=42​, 84​=21​.$Sprendžiami dalies ir visumos radimo uždaviniai.
+Naudojantis modeliais, piešiniais, išsiaiškinama, kad kai visuma padalijama į $n$ lygių dalių ($n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100$) ir paimama viena tos visumos dalis, tai daliai apibūdinti pasitelkiame skaičius, kurie vadinami trupmeniniais. Aptariant trupmenos, skaitiklio, vardiklio, trupmenos brūkšnio sąvokas, išsiaiškinama trupmenos $ \frac{m}{n}  $ prasmė, kai skaičius $m$ yra ne didesnis negu skaičius $n$. Mokoma(si) trupmenas (neviršijančias skaičiaus 1) pavaizduoti skaičių spindulyje. Mokoma(si) neviršijančias skaičiaus 1 trupmenas $ \frac{m}{n}  $ su vienodais vardikliais arba skaitikliais palyginti (naudojantis modeliais, pavaizduojant jas tame pačiame skaičių spindulyje); skaičius 0 ir 1 užrašyti kaip trupmenas $ \frac{0}{n}  $ ir $ \frac{n}{n}  $; paaiškinti, kokios dvi trupmenos ir kodėl laikomos lygiomis (lygiavertėmis) (pavyzdžiui, $\frac12=\frac24, \frac48=\frac12. $Sprendžiami dalies ir visumos radimo uždaviniai.
 
 ### Finansiniai skaičiavimai
 
@@ -166,7 +166,7 @@ Pasitelkus konkrečius pavyzdžius, aiškinama(si) pasirinkimo komanda (jei [...
 
 #### Lygtys
 
-Nagrinėjant pavyzdžius, aptariamos sąvokos: lygtis, lygties nežinomasis, lygties sprendinys. Išbandomi ir atrandami įvairūs paprasčiausių lygčių (su vienu sudėties, atimties, daugybos ar dalybos veiksmu; nežinomojo vietoje – raidės) sprendinio radimo metodai, įskaitant ir kitos lygties (su atvirkštiniu veiksmu) parašymą (pavyzdžiui, lygtis $x−5=2x − 5 = 2x−5=2$ pakeičiama lygtimi $x=5+2x= 5 + 2x=5+2$, t. y. mokoma(si) su tais pačiais trimis skaičiais bei sudėties ir atimties arba daugybos ir dalybos veiksmų ženklais parašyti keturias lygybes (pavyzdžiui, $2+3=52 + 3 = 52+3=5$, $3+2=53 + 2 = 53+2=5$, $5−2=35 − 2 = 35−2=3$, $5−3=25 − 3 = 25−3=2$). Aptariama, kuo lygties sprendimo procedūra skiriasi nuo lygties sprendinio patikrinimo procedūros. Mokoma(si) iš žodinio uždavinio sąlygos ar pateiktos schemos sudaryti paprasčiausią lygtį, kai nežinomasis nurodytas uždavinio sąlygoje ar schemoje, taikyti įvairius būdus lygties sprendiniui (nežinomojo reikšmei) apskaičiuoti.
+Nagrinėjant pavyzdžius, aptariamos sąvokos: lygtis, lygties nežinomasis, lygties sprendinys. Išbandomi ir atrandami įvairūs paprasčiausių lygčių (su vienu sudėties, atimties, daugybos ar dalybos veiksmu; nežinomojo vietoje – raidės) sprendinio radimo metodai, įskaitant ir kitos lygties (su atvirkštiniu veiksmu) parašymą (pavyzdžiui, lygtis $x − 5 = 2$ pakeičiama lygtimi $x= 5 + 2$, t. y. mokoma(si) su tais pačiais trimis skaičiais bei sudėties ir atimties arba daugybos ir dalybos veiksmų ženklais parašyti keturias lygybes (pavyzdžiui, $2 + 3 = 5$, $3 + 2 = 5$, $5 − 2 = 3$, $5 − 3 = 2$). Aptariama, kuo lygties sprendimo procedūra skiriasi nuo lygties sprendinio patikrinimo procedūros. Mokoma(si) iš žodinio uždavinio sąlygos ar pateiktos schemos sudaryti paprasčiausią lygtį, kai nežinomasis nurodytas uždavinio sąlygoje ar schemoje, taikyti įvairius būdus lygties sprendiniui (nežinomojo reikšmei) apskaičiuoti.
 
 #### Raidiniai reiškiniai
 
@@ -178,7 +178,7 @@ Nagrinėjant pavyzdžius, aptariamos sąvokos: raidinis reiškinys, raidinio rei
 
 #### Laikas
 
-Apskaičiuojant laiko trukmę, mokoma(si) naudotis tvarkaraščiu, kalendoriumi. Susipažįstama su laiko matavimo vienetu sekunde (s, sek.). Mokoma(si) smulkinti ir stambinti laiko matavimo vienetus (val., h; min., min; sek., s), įskaitant ir trupmenų taikymą (pavyzdžiui, $14 \frac{1}{4} 41​$ val.$ =15\ = 15 =15$ min.).
+Apskaičiuojant laiko trukmę, mokoma(si) naudotis tvarkaraščiu, kalendoriumi. Susipažįstama su laiko matavimo vienetu sekunde (s, sek.). Mokoma(si) smulkinti ir stambinti laiko matavimo vienetus (val., h; min., min; sek., s), įskaitant ir trupmenų taikymą (pavyzdžiui, $ \frac{1}{4}  $ val.$\ = 15$ min.).
 
 #### Ilgis
 
@@ -228,11 +228,11 @@ Praktikuojamasi taikyti mintinio skaičiavimo strategijas. Vizualizuojami, pagri
 
 #### Trupmenos
 
-Mokoma(si) natūralųjį skaičių užrašyti trupmena, kurios vardiklis lygus 1. Apibrėžiama mišriojo skaičiaus sąvoka. Mokoma(si) mišriuosius skaičius perskaityti, palyginti, apvalinti iki sveikojo skaičiaus. Trupmenas $mn \frac{m}{n} nm​$, kurių vardiklyje yra $10,100,100010, 100, 100010,100,1000$, mokoma(si) užrašyti dešimtainiais skaičiais (su kableliu). Nagrinėjant situacijas su matiniais skaičiais, aiškinama(si), kaip suvienodinti skaitmenų skaičių po kablelio (pavyzdžiui, kodėl $1,51,51,5$ Eur $ =1,50\ = 1,50 =1,50$ Eur).
+Mokoma(si) natūralųjį skaičių užrašyti trupmena, kurios vardiklis lygus 1. Apibrėžiama mišriojo skaičiaus sąvoka. Mokoma(si) mišriuosius skaičius perskaityti, palyginti, apvalinti iki sveikojo skaičiaus. Trupmenas $ \frac{m}{n}  $, kurių vardiklyje yra $10, 100, 1000$, mokoma(si) užrašyti dešimtainiais skaičiais (su kableliu). Nagrinėjant situacijas su matiniais skaičiais, aiškinama(si), kaip suvienodinti skaitmenų skaičių po kablelio (pavyzdžiui, kodėl $1,5$ Eur $\ = 1,50$ Eur).
 
 #### Veiksmai su trupmenomis
 
-Mokomasi sudėti ir atimti trupmenas su vienodais vardikliais ($mn \frac{m}{n} nm​$, kai $m≤nm ≤ nm≤n$, $n=2,3,4,5,6,7,8,9,10,100n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100n=2,3,4,5,6,7,8,9,10,100$; trupmenų suma neviršija skaičiaus 1). Aiškinama(si), kaip sudedami ir atimami mišrieji skaičiai, kurių trupmeninės dalys yra su tuo pačiu vardikliu (trupmenines dalis sudėjus, neviršijamas vienetas, o atimant nereikalaujama papildomų pertvarkų). Mokoma(si) sudėti ir atimti dešimtainius skaičius su vienu ar dviem skaitmenimis po kablelio.
+Mokomasi sudėti ir atimti trupmenas su vienodais vardikliais ($ \frac{m}{n}  $, kai $m ≤ n$, $n = 2, 3, 4, 5, 6, 7, 8, 9, 10, 100$; trupmenų suma neviršija skaičiaus 1). Aiškinama(si), kaip sudedami ir atimami mišrieji skaičiai, kurių trupmeninės dalys yra su tuo pačiu vardikliu (trupmenines dalis sudėjus, neviršijamas vienetas, o atimant nereikalaujama papildomų pertvarkų). Mokoma(si) sudėti ir atimti dešimtainius skaičius su vienu ar dviem skaitmenimis po kablelio.
 
 ### Finansiniai skaičiavimai
 
@@ -268,7 +268,7 @@ Mokoma(si) suprasti rodmenis įvairiuose matavimo prietaisuose (svarstyklėse, l
 
 #### Plotas, tūris
 
-Apibrėžiami kvadratinis centimetras ($cm2\text{cm}^2cm2$) ir kvadratinis metras ($m2\text{m}^2m2$). Mokoma(si) apskaičiuoti kvadrato, stačiakampio plotą ir iš kvadratų bei stačiakampių sudarytų figūrų plotus. Aptariama tūrio sąvoka. Aiškinama(si), kad statinio tūrį galima apibūdinti statinį sudarančių kubelių skaičiumi, mokoma(si) tai padaryti. Apibrėžiami tūrio matavimo vienetai kubinis centimetras ($cm3\text{cm}^3cm3$), kubinis metras ($m3\text{m}^3m3$), mokoma(si) suvokti, kokiais vienetais tinka apibūdinti objektus iš artimos aplinkos.
+Apibrėžiami kvadratinis centimetras ($\text{cm}^2$) ir kvadratinis metras ($\text{m}^2$). Mokoma(si) apskaičiuoti kvadrato, stačiakampio plotą ir iš kvadratų bei stačiakampių sudarytų figūrų plotus. Aptariama tūrio sąvoka. Aiškinama(si), kad statinio tūrį galima apibūdinti statinį sudarančių kubelių skaičiumi, mokoma(si) tai padaryti. Apibrėžiami tūrio matavimo vienetai kubinis centimetras ($\text{cm}^3$), kubinis metras ($\text{m}^3$), mokoma(si) suvokti, kokiais vienetais tinka apibūdinti objektus iš artimos aplinkos.
 
 ### Konstravimas, transformacijos
 
@@ -308,17 +308,17 @@ Nagrinėjami romėnų skaitmenų ir skaičių rašymo pavyzdžiai, mokoma(si) pe
 
 #### Veiksmai su natūraliaisiais skaičiais
 
-Įsitikinama, kad veiksmams su natūraliaisiais skaičiais galioja sudėties ir daugybos perstatomumo bei jungiamumo, skirstomumo, sudėties su nuliu, daugybos iš vieno dėsniai (veiksmų savybės). Šie dėsniai užrašomi ir raidinėmis išraiškomis. Mokoma(si) padalyti iš dviženklio skaičiaus. Praktikuojamasi naudotis patogiais skaičiavimo metodais (mintinio skaičiavimo strategijomis), siekiant palengvinti skaičiavimus. Sprendžiami įvairaus konteksto probleminiai uždaviniai, kuomet reikia surasti, atsirinkti skaitinę informaciją, išskaidyti uždavinį į dalis, performuluoti uždavinį, taikyti kelis veiksmus, sudaryti skaitinį reiškinį. Mokoma(si) įvardyti atliekamų veiksmų komponentus. Mokoma(si) atpažinti skaičius, kurie dalijasi iš $2,3,4,5,9,10,1002, 3, 4, 5, 9, 10, 1002,3,4,5,9,10,100$. Apibrėžiamos sąvokos: skaičiaus daliklis, skaičiaus kartotinis; pirminis skaičius, sudėtinis skaičius; lyginis skaičius, nelyginis skaičius. Mokoma(si) atrinkti skaičius iš nurodyto nedidelio skaičių intervalo, kad šie skaičiai atitiktų nurodytą požymį ar kriterijų. Nagrinėjamos situacijos, kuriose sudėtinį skaičių skaidome pirminiais dauginamaisiais, tyrinėjami įvairūs skaičiaus skaidymo pirminiais dauginamaisiais būdai. Sprendžiami probleminiai uždaviniai, kai reikia rasti kelių skaičių (mažiausią) bendrąjį kartotinį, (didžiausią) bendrąjį daliklį.
+Įsitikinama, kad veiksmams su natūraliaisiais skaičiais galioja sudėties ir daugybos perstatomumo bei jungiamumo, skirstomumo, sudėties su nuliu, daugybos iš vieno dėsniai (veiksmų savybės). Šie dėsniai užrašomi ir raidinėmis išraiškomis. Mokoma(si) padalyti iš dviženklio skaičiaus. Praktikuojamasi naudotis patogiais skaičiavimo metodais (mintinio skaičiavimo strategijomis), siekiant palengvinti skaičiavimus. Sprendžiami įvairaus konteksto probleminiai uždaviniai, kuomet reikia surasti, atsirinkti skaitinę informaciją, išskaidyti uždavinį į dalis, performuluoti uždavinį, taikyti kelis veiksmus, sudaryti skaitinį reiškinį. Mokoma(si) įvardyti atliekamų veiksmų komponentus. Mokoma(si) atpažinti skaičius, kurie dalijasi iš $2, 3, 4, 5, 9, 10, 100$. Apibrėžiamos sąvokos: skaičiaus daliklis, skaičiaus kartotinis; pirminis skaičius, sudėtinis skaičius; lyginis skaičius, nelyginis skaičius. Mokoma(si) atrinkti skaičius iš nurodyto nedidelio skaičių intervalo, kad šie skaičiai atitiktų nurodytą požymį ar kriterijų. Nagrinėjamos situacijos, kuriose sudėtinį skaičių skaidome pirminiais dauginamaisiais, tyrinėjami įvairūs skaičiaus skaidymo pirminiais dauginamaisiais būdai. Sprendžiami probleminiai uždaviniai, kai reikia rasti kelių skaičių (mažiausią) bendrąjį kartotinį, (didžiausią) bendrąjį daliklį.
 
 ### Trupmenos ir dalys
 
 #### Trupmenos
 
-Nagrinėjamos trupmenos $mn \frac{m}{n} nm​$, kurių skaitiklyje ir vardiklyje gali būti bet koks natūralusis skaičius. Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena. Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas. Mokoma(si) trupmenas, kurių vardiklyje yra $10,100,1000,…10, 100, 1000, … 10,100,1000,…$, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai. Praktikuojamasi dešimtainius skaičius perskaityti, užrašyti žodžiais, skaitmenimis, skyrių suma, pavaizduoti skaičių tiesėje, palyginti, apvalinti.
+Nagrinėjamos trupmenos $ \frac{m}{n}  $, kurių skaitiklyje ir vardiklyje gali būti bet koks natūralusis skaičius. Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena. Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas. Mokoma(si) trupmenas, kurių vardiklyje yra $10, 100, 1000, … $, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai. Praktikuojamasi dešimtainius skaičius perskaityti, užrašyti žodžiais, skaitmenimis, skyrių suma, pavaizduoti skaičių tiesėje, palyginti, apvalinti.
 
 #### Veiksmai su trupmenomis
 
-Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės dalys išreikštos trupmenomis su skirtingais vardikliais ir kai trupmeninių dalių suma peržengia vienetą. Trupmenos $mn \frac{m}{n} nm​$ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas. Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c⋅(a:b)=(c⋅a):bc ⋅ (a : b) = (c ⋅ a) : bc⋅(a:b)=(c⋅a):b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės). Pagrindžiami su trupmenomis $mn \frac{m}{n} nm​$, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius. Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais. Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
+Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės dalys išreikštos trupmenomis su skirtingais vardikliais ir kai trupmeninių dalių suma peržengia vienetą. Trupmenos $ \frac{m}{n}  $ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas. Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) = (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės). Pagrindžiami su trupmenomis $ \frac{m}{n}  $, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius. Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais. Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
 
 ### Finansiniai skaičiavimai
 
@@ -336,17 +336,17 @@ Nagrinėjamos skaičių sekos, kurių kiekvienas kitas narys gaunamas iš prieš
 
 Įsitikinama, kad skaitinėms lygybėms būdingos savybės:
 
-jeigu $a=ba = ba=b$, tai $b=ab = ab=a$;
+jeigu $a = b$, tai $b = a$;
 
-jeigu $a=ba = ba=b$ ir $b=cb = cb=c$, tai $a=c a = ca=c$;
+jeigu $a = b$ ir $b = c$, tai $ a = c$;
 
-jeigu $a=ba = ba=b$, tai $a+c=b+ca + c = b + ca+c=b+c$;
+jeigu $a = b$, tai $a + c = b + c$;
 
-jeigu $a=ba = ba=b$, tai $a−c=b−ca-c = b-ca−c=b−c$;
+jeigu $a = b$, tai $a-c = b-c$;
 
-jeigu $a=ba = ba=b$, tai $a⋅c=b⋅ca ⋅ c = b ⋅ ca⋅c=b⋅c$;
+jeigu $a = b$, tai $a ⋅ c = b ⋅ c$;
 
-jeigu $a=ba = ba=b$ ir $c≠0c ≠ 0c=0$, tai $a:c=b:ca : c = b : ca:c=b:c$.
+jeigu $a = b$ ir $c ≠ 0$, tai $a : c = b : c$.
 
 Mokoma(si) spręsti 1–3 žingsnių lygtis (pirmojo laipsnio) su vienu nežinomuoju, jų sprendimo algoritmą grindžiant skaitinių lygybių savybėmis. Nagrinėjamos tokia pačia lygtimi aprašomos situacijos, parodoma, kad ta pati situacija gali būti aprašyta skirtingomis lygtimis.
 
@@ -398,9 +398,9 @@ Nagrinėjami kasdienių atsitiktinių įvykių, paprasčiausių bandymų (stocha
 
 Apibrėžiama įvykio tikimybės
 
-$P(įvykio)=mn\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n} P(įvykio)=nm​$
+$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}  $
 
-sąvoka; vienodų baigčių atveju mokoma(si) ją taikyti, kai $nnn$ neviršija $101010$.
+sąvoka; vienodų baigčių atveju mokoma(si) ją taikyti, kai $n$ neviršija $10$.
 
 # 6 klasė
 
@@ -420,7 +420,7 @@ Pateikiamos ir aptariamos veiksmų (sudėties, atimties, daugybos ir dalybos) su
 
 #### Trupmenos
 
-Apibrėžiamos sąvokos: teigiamasis skaičius, neigiamasis skaičius, racionalusis skaičius, skaičiui atvirkštinis skaičius. Įsitikinama, kad kiekvieną trupmeną $mn)\frac{m}{n} ) nm​)$ galima užrašyti baigtiniu ar begaliniu periodiniu dešimtainiu skaičiumi.
+Apibrėžiamos sąvokos: teigiamasis skaičius, neigiamasis skaičius, racionalusis skaičius, skaičiui atvirkštinis skaičius. Įsitikinama, kad kiekvieną trupmeną $\frac{m}{n} ) $ galima užrašyti baigtiniu ar begaliniu periodiniu dešimtainiu skaičiumi.
 
 Mokoma(si) racionaliuosius skaičius palyginti, suapvalinti nurodytu tikslumu.
 
@@ -428,11 +428,11 @@ Mokoma(si) racionaliuosius skaičius palyginti, suapvalinti nurodytu tikslumu.
 
 Vizualizuojami ir pagrindžiami sudėties, atimties, daugybos, dalybos veiksmai su racionaliaisiais skaičiais. Įsitikinama, kad racionaliesiems skaičiams tinka tie patys dėsniai kaip ir natūraliesiems bei sveikiesiems skaičiams:
 
-$(a+b)+c=a+(b+c), a+b=b+a, a+0=0+a=a(a + b) + c = a + (b + c),\ \ \ a + b = b + a,\ \ \ a + 0 = 0 + a = a(a+b)+c=a+(b+c), a+b=b+a, a+0=0+a=a$,
+$(a + b) + c = a + (b + c),\ \ \ a + b = b + a,\ \ \ a + 0 = 0 + a = a$,
 
-$a+(–a)=(–a)+a=0, (a⋅b)⋅c=a⋅(b⋅c), a⋅b=b⋅aa + (–a) = (–a) + a = 0, \ \ \ (a ⋅ b) ⋅ c = a ⋅ (b ⋅ c),\ \ \ a ⋅ b = b ⋅ aa+(–a)=(–a)+a=0, (a⋅b)⋅c=a⋅(b⋅c), a⋅b=b⋅a$,
+$a + (–a) = (–a) + a = 0, \ \ \ (a ⋅ b) ⋅ c = a ⋅ (b ⋅ c),\ \ \ a ⋅ b = b ⋅ a$,
 
-$a⋅1=1⋅a=a, a⋅1a=1a⋅a=1 (a≠0), a⋅(b+c)=a⋅b+a⋅ca ⋅ 1 = 1 ⋅ a = a,\ \ \ a ⋅ \frac{1}{a} = \frac{1}{a} ⋅ a = 1\ (a ≠ 0),\ \ \ a ⋅ (b + c) = a ⋅ b + a ⋅ ca⋅1=1⋅a=a, a⋅a1​=a1​⋅a=1 (a=0), a⋅(b+c)=a⋅b+a⋅c$.
+$a ⋅ 1 = 1 ⋅ a = a,\ \ \ a ⋅  \frac{1}{a}  =  \frac{1}{a}  ⋅ a = 1\ (a ≠ 0),\ \ \ a ⋅ (b + c) = a ⋅ b + a ⋅ c$.
 
 Veiksmai su racionaliaisiais skaičiais ir jų savybės taikomi, sprendžiant įvairaus konteksto uždavinius.
 
@@ -484,9 +484,9 @@ Apibrėžiama įvykio sąvoka (galimų baigčių rinkinys). Nagrinėjami vieno d
 
 Mokoma(si) taikyti formulę
 
-$P(įvykio)=mn\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n} P(įvykio)=nm​$.
+$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}  $.
 
-Aptariama, kodėl įvykio tikimybė visuomet yra skaičius iš intervalo $[0;1][0; 1][0;1]$.
+Aptariama, kodėl įvykio tikimybė visuomet yra skaičius iš intervalo $[0; 1]$.
 
 Mokoma(si) formuluoti įvykiui priešingą įvykį, pagrindžiamas įvykio ir jam priešingo įvykio tikimybių sąryšis.
 
@@ -500,7 +500,7 @@ Kuriamos ir aptariamos žaidimo taisyklės, numatančios tą pačią laimėjimo 
 
 #### Laipsnis su sveikuoju rodikliu
 
-Apibrėžiamas laipsnis su natūraliuoju rodikliu. Pagrindžiami ir taikomi laipsnių su vienodais pagrindais ir laipsnių su skirtingais pagrindais, bet tokiais pačiais rodikliais daugybos ir dalybos, taip pat laipsnio kėlimo laipsniu veiksmai. Apibrėžiama laipsnio su nuliniu ir sveikuoju neigiamuoju rodikliu sąvoka. Pagrindžiama, kad laipsniams su sveikaisiais neigiamaisiais rodikliais būdingos tos pačios savybės kaip ir laipsniams su sveikaisiais teigiamaisiais rodikliais. Paaiškinama, kad $a0=1a^0=1a0=1$, kai $aaa$ nelygu $000$. Aptariama veiksmų atlikimo tvarka reiškinyje, kai jame yra ir laipsnių. Nagrinėjamos realaus pasaulio situacijos, kai skaičiai užrašyti standartine skaičiaus išraiška $a⋅10ka \cdot10^ka⋅10k$, kai $1≤a<10; k1 ≤ a<10;\ k1≤a<10; k$ yra sveikasis skaičius. Mokoma(si) skaičius užrašyti tokiu pavidalu, juos perskaityti, palyginti. (Plačiau standartinio skaičiaus sąvoka taikoma fizikos pamokose.)
+Apibrėžiamas laipsnis su natūraliuoju rodikliu. Pagrindžiami ir taikomi laipsnių su vienodais pagrindais ir laipsnių su skirtingais pagrindais, bet tokiais pačiais rodikliais daugybos ir dalybos, taip pat laipsnio kėlimo laipsniu veiksmai. Apibrėžiama laipsnio su nuliniu ir sveikuoju neigiamuoju rodikliu sąvoka. Pagrindžiama, kad laipsniams su sveikaisiais neigiamaisiais rodikliais būdingos tos pačios savybės kaip ir laipsniams su sveikaisiais teigiamaisiais rodikliais. Paaiškinama, kad $a^0=1$, kai $a$ nelygu $0$. Aptariama veiksmų atlikimo tvarka reiškinyje, kai jame yra ir laipsnių. Nagrinėjamos realaus pasaulio situacijos, kai skaičiai užrašyti standartine skaičiaus išraiška $a \cdot10^k$, kai $1 ≤ a<10;\ k$ yra sveikasis skaičius. Mokoma(si) skaičius užrašyti tokiu pavidalu, juos perskaityti, palyginti. (Plačiau standartinio skaičiaus sąvoka taikoma fizikos pamokose.)
 
 ### Finansiniai skaičiavimai
 
@@ -514,23 +514,23 @@ Mokoma(si) spręsti uždavinius, kai skaičius ar dydis kelis kartus tam tikru p
 
 Įsitikinama, kad skaitinėms nelygybėms būdingos savybės:
 
-jeigu $a>ba > ba>b$ ir $b>cb > cb>c$, tai $a>ca > ca>c$;
+jeigu $a > b$ ir $b > c$, tai $a > c$;
 
-jeigu $a>ba > ba>b$, tai $b<ab < ab<a$;
+jeigu $a > b$, tai $b < a$;
 
-jeigu $a>ba > ba>b$, tai $–a<–b–a < –b–a<–b$;
+jeigu $a > b$, tai $–a < –b$;
 
-jeigu $a>ba > ba>b$, tai $a±c>b±ca ± c > b ± ca±c>b±c$;
+jeigu $a > b$, tai $a ± c > b ± c$;
 
-jeigu $a>ba > ba>b$ ir $c>0c > 0c>0$, tai $a⋅c>b⋅ca ⋅ c > b ⋅ ca⋅c>b⋅c$;
+jeigu $a > b$ ir $c > 0$, tai $a ⋅ c > b ⋅ c$;
 
-jeigu $a>ba > ba>b$ ir $c<0c <0c<0$, tai $a⋅c<b⋅ca ⋅ c < b ⋅ ca⋅c<b⋅c$;
+jeigu $a > b$ ir $c <0$, tai $a ⋅ c < b ⋅ c$;
 
-jeigu $a>ba > ba>b$ ir $c>0c > 0c>0$, tai $a:c>b:ca : c > b : ca:c>b:c$;
+jeigu $a > b$ ir $c > 0$, tai $a : c > b : c$;
 
-jeigu $a>ba > ba>b$ ir $c<0c < 0c<0$, tai $a:c<b:ca : c < b : ca:c<b:c$.
+jeigu $a > b$ ir $c < 0$, tai $a : c < b : c$.
 
-Apibrėžiamos sąvokos: nelygybė su vienu nežinomuoju, nelygybės sprendinys, nelygybės sprendinių aibė, griežta nelygybė, negriežta nelygybė; išsiaiškinama ženklų $≤,≥≤, ≥ ≤,≥$prasmė. Aptariama, ką reiškia nelygybių sistema, dviguboji nelygybė; mokoma(si) ją užrašyti dviejų nelygybių sistema. Nelygybių su vienu nežinomuoju sprendimo algoritmas pagrindžiamas skaitinių nelygybių savybių taikymu. Praktikuojamasi spręsti dvigubąsias nelygybes, jų sistemas. Atkreipiamas dėmesys į nelygybės ar nelygybių sistemos sprendimo algoritmą; mokoma(si) taisyklingai užrašyti nelygybės ar nelygybių sistemos sprendimą, pavaizduoti gautus sprendinius skaičių tiesėje, užrašyti juos intervalu. Sprendžiami uždaviniai, kai prašoma atrinkti tam tikras sąlygas tenkinančius nelygybių sprendinius.
+Apibrėžiamos sąvokos: nelygybė su vienu nežinomuoju, nelygybės sprendinys, nelygybės sprendinių aibė, griežta nelygybė, negriežta nelygybė; išsiaiškinama ženklų $≤, ≥ $prasmė. Aptariama, ką reiškia nelygybių sistema, dviguboji nelygybė; mokoma(si) ją užrašyti dviejų nelygybių sistema. Nelygybių su vienu nežinomuoju sprendimo algoritmas pagrindžiamas skaitinių nelygybių savybių taikymu. Praktikuojamasi spręsti dvigubąsias nelygybes, jų sistemas. Atkreipiamas dėmesys į nelygybės ar nelygybių sistemos sprendimo algoritmą; mokoma(si) taisyklingai užrašyti nelygybės ar nelygybių sistemos sprendimą, pavaizduoti gautus sprendinius skaičių tiesėje, užrašyti juos intervalu. Sprendžiami uždaviniai, kai prašoma atrinkti tam tikras sąlygas tenkinančius nelygybių sprendinius.
 
 ### Tiesiniai ir netiesiniai sąryšiai
 
@@ -544,7 +544,7 @@ Nagrinėjamos įvesties ir (ar) išvesties (I ir (ar) O) lentelės, kuriomis iš
 
 #### Transformacijos
 
-Mokoma(si) pagrįsti koordinačių plokštumoje pavaizduotų figūrų lygumą, nurodant transformacijų seką, kaip iš vienos figūros buvo gauta kita. Taip pat mokoma(si) šią seką apibūdinti, nurodant pradinės ir gautos figūros koordinates (pavyzdžiui, $(x;y),(x; y),(x;y),$ $(x+2(x + 2(x+2$; $y+2),y + 2),y+2),$ ...).
+Mokoma(si) pagrįsti koordinačių plokštumoje pavaizduotų figūrų lygumą, nurodant transformacijų seką, kaip iš vienos figūros buvo gauta kita. Taip pat mokoma(si) šią seką apibūdinti, nurodant pradinės ir gautos figūros koordinates (pavyzdžiui, $(x; y),$ $(x + 2$; $y + 2),$ ...).
 
 #### Braižymas
 
@@ -562,7 +562,7 @@ Nagrinėjant modelius ir brėžinius, mokoma(si) atpažinti stačiąją ar taisy
 
 #### Ilgio, ploto, tūrio skaičiavimai
 
-Mokoma(si) apskaičiuoti trikampio, lygiagretainio, trapecijos plotą kaip stačiakampio ar kvadrato ploto dalį. Pagrindžiamos šių figūrų plotų formulės. Tyrinėjant nustatoma, kad apskritimo ilgio ir apskritimo skersmens ilgio santykis apytiksliai lygus $3,143,143,14$ (įvedamas skaičius $πππ$). Aiškinama(si), kaip apskaičiuoti apskritimo ilgį, skritulio plotą, kai yra žinomas jo spindulio ilgis. Sprendžiami skritulio dalies ploto, apskritimo lanko dalies ilgio radimo uždaviniai, pavyzdžiui, ieškoma $14 \frac{1}{4} 41​$ skritulio ploto. Pagrindžiamos ritinio ir kūgio paviršiaus ploto apskaičiavimo formulės. Sprendžiami ritinio, kūgio paviršiaus ploto apskaičiavimo uždaviniai. Mokoma(si) paprastose situacijose taikyti stačiosios prizmės, ritinio, kūgio ir piramidės tūrio formules (šios formulės pateikiamos be įrodymų).
+Mokoma(si) apskaičiuoti trikampio, lygiagretainio, trapecijos plotą kaip stačiakampio ar kvadrato ploto dalį. Pagrindžiamos šių figūrų plotų formulės. Tyrinėjant nustatoma, kad apskritimo ilgio ir apskritimo skersmens ilgio santykis apytiksliai lygus $3,14$ (įvedamas skaičius $π$). Aiškinama(si), kaip apskaičiuoti apskritimo ilgį, skritulio plotą, kai yra žinomas jo spindulio ilgis. Sprendžiami skritulio dalies ploto, apskritimo lanko dalies ilgio radimo uždaviniai, pavyzdžiui, ieškoma $ \frac{1}{4}  $ skritulio ploto. Pagrindžiamos ritinio ir kūgio paviršiaus ploto apskaičiavimo formulės. Sprendžiami ritinio, kūgio paviršiaus ploto apskaičiavimo uždaviniai. Mokoma(si) paprastose situacijose taikyti stačiosios prizmės, ritinio, kūgio ir piramidės tūrio formules (šios formulės pateikiamos be įrodymų).
 
 ## Duomenys ir tikimybės
 
@@ -578,11 +578,11 @@ Aptariamos sąvokos: populiacija ir imtis, imties dydis, reprezentatyvioji imtis
 
 #### Kvadratinė ir kubinė šaknys
 
-Apibrėžiamos sąvokos: kvadratinė šaknis, kubinė šaknis. Mokoma(si) apskaičiuoti kvadratinių ir kubinių šaknų reikšmes, kai pošaknyje yra atitinkamų racionaliųjų skaičių kvadratai, kubai. Mokoma(si) rasti kvadratinės ir kubinės šaknies apytikslę reikšmę, įvertinti skaitinio reiškinio, kuriame yra kvadratinė arba kubinė šaknis, reikšmę. Sprendžiami uždaviniai, kai be skaičiuotuvo reikia įvertinti, tarp kokių sveikųjų skaičių yra nurodytoji šaknis (pavyzdžiui, rasti tokį sveikąjį skaičių$aaa$, su kuriuo teisinga nelygybė $a≤111<a+1a ≤ \sqrt{111} < a+1a≤111​<a+1$). Praktikuojamasi įkelti teigiamą skaičių į pošaknį ir iškelti jį prieš šaknies ženklą, taip pat sudauginti to paties laipsnio šaknis ar jas padalyti.
+Apibrėžiamos sąvokos: kvadratinė šaknis, kubinė šaknis. Mokoma(si) apskaičiuoti kvadratinių ir kubinių šaknų reikšmes, kai pošaknyje yra atitinkamų racionaliųjų skaičių kvadratai, kubai. Mokoma(si) rasti kvadratinės ir kubinės šaknies apytikslę reikšmę, įvertinti skaitinio reiškinio, kuriame yra kvadratinė arba kubinė šaknis, reikšmę. Sprendžiami uždaviniai, kai be skaičiuotuvo reikia įvertinti, tarp kokių sveikųjų skaičių yra nurodytoji šaknis (pavyzdžiui, rasti tokį sveikąjį skaičių$a$, su kuriuo teisinga nelygybė $a ≤ \sqrt{111} < a+1$). Praktikuojamasi įkelti teigiamą skaičių į pošaknį ir iškelti jį prieš šaknies ženklą, taip pat sudauginti to paties laipsnio šaknis ar jas padalyti.
 
 #### Skaičių aibės
 
-Apibrėžiama, kokie skaičiai vadinami racionaliaisiais, iracionaliaisiais, realiaisiais. Aptariamos sąvokos: skaičių aibė, baigtinė aibė, begalinė aibė, aibės poaibis. Nustatomi ryšiai tarp skaičių aibių $N,Z,Q,I,R\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}N,Z,Q,I,R$. Mokoma(si) pagrįsti ir užrašyti, kuriai skaičių aibei priklauso ar nepriklauso įvairūs skaičiai (pavyzdžiui, $5∈N5∈\mathbb{N}5∈N$). Mokoma(si) skaičių aibes pavaizduoti simboliais, schemomis, užrašyti, naudojantis aibių teorijos simboliais, intervalais, nelygybėmis, reiškiniais (pavyzdžiui, mokoma(si) reiškiniu užrašyti lyginių, nelyginių natūraliųjų skaičių aibes).
+Apibrėžiama, kokie skaičiai vadinami racionaliaisiais, iracionaliaisiais, realiaisiais. Aptariamos sąvokos: skaičių aibė, baigtinė aibė, begalinė aibė, aibės poaibis. Nustatomi ryšiai tarp skaičių aibių $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}$. Mokoma(si) pagrįsti ir užrašyti, kuriai skaičių aibei priklauso ar nepriklauso įvairūs skaičiai (pavyzdžiui, $5∈\mathbb{N}$). Mokoma(si) skaičių aibes pavaizduoti simboliais, schemomis, užrašyti, naudojantis aibių teorijos simboliais, intervalais, nelygybėmis, reiškiniais (pavyzdžiui, mokoma(si) reiškiniu užrašyti lyginių, nelyginių natūraliųjų skaičių aibes).
 
 #### Veiksmai su realiaisiais skaičiais
 
@@ -604,7 +604,7 @@ Apibrėžiamos vienanario, dvinario, trinario, daugianario sąvokos. Aiškinama(
 
 Apibrėžiamos sąvokos: lygtis su dviem nežinomaisiais, lygties su dviem nežinomaisiais sprendinys (skaičių pora), praktikuojamasi vieną nežinomąjį išreikšti kitu. Mokoma(si) tiesinės lygties
 
-$ax+by=cax + by = cax+by=c$
+$ax + by = c$
 
 sprendinius pavaizduoti grafiškai (taikant ir skaitmenines priemones).
 
@@ -658,7 +658,7 @@ Nagrinėjamos situacijos, kai keliami sudėtingesni statistiniai klausimai. Aiš
 
 #### Skaičių sekos
 
-Skaičių seka apibrėžiama kaip funkcija, kurios apibrėžimo sritis yra natūraliųjų skaičių aibė $N\mathbb{N}N$. Paprastais atvejais mokoma(si) skaičių sekas aprašyti $n{n}n$-tojo nario formule, taip pat rekurentiniu būdu. Sprendžiami įvairaus konteksto uždaviniai, kai nagrinėjami, taikomi, derinami įvairūs skaičių sekų apibūdinimo būdai.
+Skaičių seka apibrėžiama kaip funkcija, kurios apibrėžimo sritis yra natūraliųjų skaičių aibė $\mathbb{N}$. Paprastais atvejais mokoma(si) skaičių sekas aprašyti ${n}$-tojo nario formule, taip pat rekurentiniu būdu. Sprendžiami įvairaus konteksto uždaviniai, kai nagrinėjami, taikomi, derinami įvairūs skaičių sekų apibūdinimo būdai.
 
 ### Algebra
 
@@ -684,29 +684,29 @@ Apibrėžiamos sąvokos: funkcija, funkcijos argumentas, funkcijos reikšmė, fu
 
 Sprendžiami uždaviniai, kai realaus gyvenimo situacijoms tyrinėti ir modeliuoti – eksperimento duomenims aprašyti – taikomos (pasitelkiamos) funkcijos. Išnagrinėjus tiesinės funkcijos modeliu aprašomus eksperimento duomenis, yra apibrėžiama tiesinė funkcija
 
-$y=kx+by=kx+by=kx+b$,
+$y=kx+b$,
 
-tiesės krypties koeficientas $k,{k,}k,$ postūmio koeficientas $b{b}b$. Braižant konkrečių tiesinių funkcijų grafikų eskizus (tieses), tyrinėjama, kaip tiesės padėtis priklauso nuo šių koeficientų reikšmių.
+tiesės krypties koeficientas ${k,}$ postūmio koeficientas ${b}$. Braižant konkrečių tiesinių funkcijų grafikų eskizus (tieses), tyrinėjama, kaip tiesės padėtis priklauso nuo šių koeficientų reikšmių.
 
 Išnagrinėjus kvadratine funkcija aprašomus eksperimento duomenis, įvedama kvadratinės funkcijos
 
-$y=ax2+bx+cy=ax^2+bx+cy=ax2+bx+c$, kai $a≠0{a ≠ 0}a=0$,
+$y=ax^2+bx+c$, kai ${a ≠ 0}$,
 
-sąvoka, braižomi jos grafiko (parabolės) eskizai. Tyrinėjama, kaip parabolės forma ir padėtis priklauso nuo $a{a}a$ ir $D=b2−4acD=b^2-4acD=b2−4ac$ reikšmių.
+sąvoka, braižomi jos grafiko (parabolės) eskizai. Tyrinėjama, kaip parabolės forma ir padėtis priklauso nuo ${a}$ ir $D=b^2-4ac$ reikšmių.
 
-Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip, taikant transformacijas, iš funkcijos $y=xy=xy=x$ grafiko gauti funkcijos
+Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip, taikant transformacijas, iš funkcijos $y=x$ grafiko gauti funkcijos
 
-$y=kx+by=kx+by=kx+b$
+$y=kx+b$
 
-grafiką, o iš funkcijos $y=x2y=x^2y=x2$ grafiko gauti funkcijos
+grafiką, o iš funkcijos $y=x^2$ grafiko gauti funkcijos
 
-$y=a(x−m)2+ny =a(x-m)^2+ny=a(x−m)2+n$
+$y =a(x-m)^2+n$
 
 grafiką.
 
 Sprendžiami uždaviniai, kuriuose įvairios realaus pasaulio situacijos yra modeliuojamos funkcijomis:
 
-$y=kx+b, y=ax2+bx+c, y=a(x−m)2+n, y=a(x−x1)(x−x2)y=kx+b,\ \ \ y=ax^2+bx+c,\ \ \ y=a(x-m)^2+n,\ \ \ y=a(x-x_1 )(x-x_2 )y=kx+b, y=ax2+bx+c, y=a(x−m)2+n, y=a(x−x1​)(x−x2​)$.
+$y=kx+b,\ \ \ y=ax^2+bx+c,\ \ \ y=a(x-m)^2+n,\ \ \ y=a(x-x_1 )(x-x_2 )$.
 
 ## Geometrija ir matavimai
 
@@ -720,15 +720,15 @@ Apibrėžiami centrinis ir įbrėžtinis kampai. Nagrinėjama centrinio ir įbr�
 
 Apibrėžiami sinusas, kosinusas ir tangentas stačiajame trikampyje. Apskaičiuojant panašiųjų trikampių atitinkamų kraštinių ilgių santykius, įsitikinama, kad jų reikšmės nepriklauso nuo trikampio dydžio. Įrodomos lygybės
 
-$sin⁡2(α)+cos⁡2(α)=1, tg⁡(α)=sin⁡⁡(α)cos⁡⁡(α)\sin^2 (α)+\cos^2 (α)=1,\ \ \ \tg (α) = \frac {\sin⁡(α)} {\cos⁡(α)}sin2(α)+cos2(α)=1, tg(α)=cos⁡(α)sin⁡(α)​$
+$\sin^2 (α)+\cos^2 (α)=1,\ \ \ \tg (α) = \frac {\sin⁡(α)} {\cos⁡(α)}$
 
-ir sudaroma kampų $30∘,45∘,60∘30^\circ,45^\circ, 60^\circ30∘,45∘,60∘$ trigonometrinių reikšmių lentelė. Mokoma(si) naudotis skaičiuotuvu apskaičiuojant tikslias ir apytiksles smailiojo kampo sinuso, kosinuso, tangento reikšmes. Sprendžiami įvairūs uždaviniai, kai taikomi sinuso, kosinuso, tangento stačiajame trikampyje apibrėžimai (pavyzdžiui, nustatyti objekto aukštį, rasti kelio nuolydį ar lėktuvo pakilimo kampą, apskaičiuoti atstumą iki neprieinamos vietos ir pan.).
+ir sudaroma kampų $30^\circ,45^\circ, 60^\circ$ trigonometrinių reikšmių lentelė. Mokoma(si) naudotis skaičiuotuvu apskaičiuojant tikslias ir apytiksles smailiojo kampo sinuso, kosinuso, tangento reikšmes. Sprendžiami įvairūs uždaviniai, kai taikomi sinuso, kosinuso, tangento stačiajame trikampyje apibrėžimai (pavyzdžiui, nustatyti objekto aukštį, rasti kelio nuolydį ar lėktuvo pakilimo kampą, apskaičiuoti atstumą iki neprieinamos vietos ir pan.).
 
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
 
-Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryšį tarp dviejų kintamųjų (stebimų požymių) reikšmių. Mokoma(si) iš sklaidos diagramos įvertinti šio ryšio buvimą ar nebuvimą, aptariama, kokiais atvejais kalbama apie kintamųjų koreliacinį ryšį. Detaliau aptariama tiesinė koreliacija. Mokoma(si) užrašyti sklaidos diagramoje pavaizduotos tiesės lygtį $y=kx+b{y = kx+ b}y=kx+b$, interpretuoti šia lygtimi aprašomą duomenų ryšį. Aptariama, kodėl negalime daryti išvados apie tiesinės priklausomybės egzistavimą populiacijoje, jei duomenys imtyje yra neatsitiktiniai ar jų yra per mažai.
+Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryšį tarp dviejų kintamųjų (stebimų požymių) reikšmių. Mokoma(si) iš sklaidos diagramos įvertinti šio ryšio buvimą ar nebuvimą, aptariama, kokiais atvejais kalbama apie kintamųjų koreliacinį ryšį. Detaliau aptariama tiesinė koreliacija. Mokoma(si) užrašyti sklaidos diagramoje pavaizduotos tiesės lygtį ${y = kx+ b}$, interpretuoti šia lygtimi aprašomą duomenų ryšį. Aptariama, kodėl negalime daryti išvados apie tiesinės priklausomybės egzistavimą populiacijoje, jei duomenys imtyje yra neatsitiktiniai ar jų yra per mažai.
 
 # 10 (II gimnazijos) klasė
 
@@ -736,13 +736,13 @@ Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryš�
 
 ### Dėsningumai
 
-Nagrinėjamos probleminės situacijos, kuomet nustatomas matematinės informacijos trūkumas ir mokoma(si) ją susirasti, atsirinkti. Sprendžiami uždaviniai, į kuriuos atsakyti galima nevienareikšmiai, kurie turi daugiau negu vieną teisingą atsakymą. Praktikuojamasi sugalvoti naujus klausimus (sąlygą, uždavinį), nustatyti naujo uždavinio ryšį su anksčiau spręstuoju. Sprendžiami uždaviniai, kai skaičius, dydis padalijamas į dvi nelygias dalis, kuriuos sprendžiant reikia remtis proporcingąja dalyba. Nagrinėjama Fibonačio skaičių seka, aukso pjūvio skaičius $Φ=1+52Φ = \frac {1 + \sqrt5} 2Φ=21+5​​$, aukso pjūvio seka ($0,056;0,090;0,146;0,236;…0{,}056; 0{,}090; 0{,}146; 0{,}236; …0,056;0,090;0,146;0,236;…$). Sprendžiami su procentais ir dydžių santykiais susiję uždaviniai: džiovinimo ir drėkinimo; sudėtinių procentų; lydinių, mišinių, tirpalų.
+Nagrinėjamos probleminės situacijos, kuomet nustatomas matematinės informacijos trūkumas ir mokoma(si) ją susirasti, atsirinkti. Sprendžiami uždaviniai, į kuriuos atsakyti galima nevienareikšmiai, kurie turi daugiau negu vieną teisingą atsakymą. Praktikuojamasi sugalvoti naujus klausimus (sąlygą, uždavinį), nustatyti naujo uždavinio ryšį su anksčiau spręstuoju. Sprendžiami uždaviniai, kai skaičius, dydis padalijamas į dvi nelygias dalis, kuriuos sprendžiant reikia remtis proporcingąja dalyba. Nagrinėjama Fibonačio skaičių seka, aukso pjūvio skaičius $Φ = \frac {1 + \sqrt5} 2$, aukso pjūvio seka ($0{,}056; 0{,}090; 0{,}146; 0{,}236; …$). Sprendžiami su procentais ir dydžių santykiais susiję uždaviniai: džiovinimo ir drėkinimo; sudėtinių procentų; lydinių, mišinių, tirpalų.
 
 ### Algebra
 
 #### Trupmeninės racionaliosios lygtys
 
-Apibrėžiama trupmeninės racionaliosios lygties sąvoka. Mokoma(si) spręsti trupmenines racionaliąsias lygtis, joms sukiant pavidalą $A(x)B(x)=0 \frac{A(x)}{B(x)} = 0B(x)A(x)​=0$. Nagrinėjamos įvairios realaus pasaulio ir matematinės situacijos, kurios gali būti modeliuojamos racionaliosiomis lygtimis.
+Apibrėžiama trupmeninės racionaliosios lygties sąvoka. Mokoma(si) spręsti trupmenines racionaliąsias lygtis, joms sukiant pavidalą $ \frac{A(x)}{B(x)}  = 0$. Nagrinėjamos įvairios realaus pasaulio ir matematinės situacijos, kurios gali būti modeliuojamos racionaliosiomis lygtimis.
 
 #### Kvadratinės nelygybės
 
@@ -760,19 +760,19 @@ Nagrinėjamos lygčių sistemos (su dviem nežinomaisiais), kurių viena lygtis 
 
 Nagrinėjant panašiųjų figūrų perimetrus, plotus, nustatomi dėsningumai, jie pagrindžiami ir taikomi, sprendžiant uždavinius. Tyrinėjamos ir pagrindžiamos trikampio pusiaukampinių, pusiaukraštinių savybės. Apibrėžiamos sąvokos: įbrėžtinis daugiakampis, apibrėžtinis daugiakampis. Suformuluojami ir pagrindžiami teiginiai apie į trikampį įbrėžto apskritimo ir apie trikampį apibrėžto apskritimo centrus. Mokomasi taikyti formules
 
-$S=rp, S=abc4RS= rp,\ \ \ S=\frac{abc}{4R}S=rp, S=4Rabc​$.
+$S= rp,\ \ \ S=\frac{abc}{4R}$.
 
 Mokomasi pagrįsti ir taikyti įbrėžtinio ir apibrėžtinio keturkampio savybes. Mokomasi remtis apibrėžimais ir įrodytais teiginiais, sprendžiant įvairius matematinio ir realaus konteksto uždavinius, įrodinėjant kitus teiginius.
 
 #### Įvadas į trigonometriją
 
-Apibrėžiamas vienetinis apskritimas ir posūkio kampas, posūkio kampo sinusas, kosinusas, tangentas, kai $α∈(0∘;180∘)α∈(0^\circ;180^\circ)α∈(0∘;180∘)$. Išsiaiškinama, kaip apskaičiuojamos $120∘,135∘,150∘120^\circ, 135^\circ, 150^\circ 120∘,135∘,150∘$ kampų sinuso ir kosinuso reikšmės. Apibendrinama, kaip apskaičiuojamos bet kokio smailiojo ar bukojo kampo sinuso, kosinuso reikšmės ir įrodomos formulės:
+Apibrėžiamas vienetinis apskritimas ir posūkio kampas, posūkio kampo sinusas, kosinusas, tangentas, kai $α∈(0^\circ;180^\circ)$. Išsiaiškinama, kaip apskaičiuojamos $120^\circ, 135^\circ, 150^\circ $ kampų sinuso ir kosinuso reikšmės. Apibendrinama, kaip apskaičiuojamos bet kokio smailiojo ar bukojo kampo sinuso, kosinuso reikšmės ir įrodomos formulės:
 
-$sin⁡⁡(180∘ – α)=sin⁡⁡(α), cos⁡⁡(180∘ – α)=–cos⁡⁡(α)\sin⁡(180^\circ\ –\ α)=\sin⁡(α),\ \ \ \cos⁡(180^\circ\ –\ α)= –\cos⁡(α)sin⁡(180∘ – α)=sin⁡(α), cos⁡(180∘ – α)=–cos⁡(α)$.
+$\sin⁡(180^\circ\ –\ α)=\sin⁡(α),\ \ \ \cos⁡(180^\circ\ –\ α)= –\cos⁡(α)$.
 
 Įrodoma trikampio ploto formulė
 
-$S= 12absin⁡(∠C)S= \frac12 ab \sin (∠C)S= 21​absin(∠C)$,
+$S= \frac12 ab \sin (∠C)$,
 
 kosinusų teorema, sinusų teorema, mokomasi jas taikyti nežinomiems trikampio elementams rasti. Pagrindžiamas sinusų teoremos ir apie trikampį apibrėžto apskritimo spindulio ilgio sąryšis. Praktikuojamasi taikyti šias teoremas, sprendžiant trikampių uždavinius.
 
@@ -808,43 +808,43 @@ Apibrėžiama realiojo skaičiaus modulio sąvoka, paaiškinama jo geometrinė p
 
 Pavyzdžiais pagrindžiamos modulio savybės:
 
-$∣−a∣=∣a∣, ∣a∣2=a2, ∣a−b∣=∣b−a∣|{-}a|=|a|, \ \ \ |a|^2=a^2,\ \ \ |a-b|=|b-a|∣−a∣=∣a∣, ∣a∣2=a2, ∣a−b∣=∣b−a∣$.
+$|{-}a|=|a|, \ \ \ |a|^2=a^2,\ \ \ |a-b|=|b-a|$.
 
 Mokoma(si) apskaičiuoti skaitinių reiškinių su moduliais reikšmes, traukti kvadratinę šaknį iš antrojo laipsnio:
 
-$a2=∣a∣\sqrt{a^2}=|a|a2​=∣a∣$.
+$\sqrt{a^2}=|a|$.
 
 #### Šaknys
 
-Apibendrinant šaknies sąvoką, pateikiamas $nnn$-tojo $(n∈N,n>1)(n∈\mathbb{N}, n > 1)(n∈N,n>1)$ laipsnio šaknies apibrėžimas.
+Apibendrinant šaknies sąvoką, pateikiamas $n$-tojo $(n∈\mathbb{N}, n > 1)$ laipsnio šaknies apibrėžimas.
 
-Išsiaiškinama, pagrindžiama, kaip iracionalieji skaičiai $a\sqrt a a​$ $(a∈N)(a∈\mathbb{N})(a∈N)$ atidedami skaičių tiesėje.
+Išsiaiškinama, pagrindžiama, kaip iracionalieji skaičiai $\sqrt a $ $(a∈\mathbb{N})$ atidedami skaičių tiesėje.
 
-Praktikuojamasi skaičiuotuvu rasti apytikslę duotojo iracionaliojo skaičiaus $an\sqrt [n] ana​$ reikšmę.
+Praktikuojamasi skaičiuotuvu rasti apytikslę duotojo iracionaliojo skaičiaus $\sqrt [n] a$ reikšmę.
 
-Aiškinamasi, kad $nnn$-tojo $$ laipsnio šaknims būdingos antrojo ir trečiojo laipsnių šaknų (ir veiksmų su jomis) savybės:
+Aiškinamasi, kad $n$-tojo $(n∈\mathbb{N},\,n>3)$ laipsnio šaknims būdingos antrojo ir trečiojo laipsnių šaknų (ir veiksmų su jomis) savybės:
 
-$an⋅bn=a⋅bn, an:bn=a:bn, amn=an⋅m\sqrt [n] a \cdot \sqrt [n] b = \sqrt [n] {a \cdot b}, \ \ \ \sqrt [n] a : \sqrt [n] b = \sqrt [n] {a : b}, \ \ \ \sqrt [n] {\sqrt [m]a}= \sqrt [n \cdot m] ana​⋅nb​=na⋅b​, na​:nb​=na:b​, nma​​=n⋅ma​$.
+$\sqrt [n] a \cdot \sqrt [n] b = \sqrt [n] {a \cdot b}, \ \ \ \sqrt [n] a : \sqrt [n] b = \sqrt [n] {a : b}, \ \ \ \sqrt [n] {\sqrt [m]a}= \sqrt [n \cdot m] a$.
 
-Mokoma(si) šias savybes taikyti, apskaičiuojant skaitinių reiškinių su šaknimis reikšmes, skaičių įkeliant po $nnn$-tojo laipsnio šaknimi ir iškeliant jį prieš šaknies ženklą.
+Mokoma(si) šias savybes taikyti, apskaičiuojant skaitinių reiškinių su šaknimis reikšmes, skaičių įkeliant po $n$-tojo laipsnio šaknimi ir iškeliant jį prieš šaknies ženklą.
 
 Mokoma(si) trupmenos vardiklyje panaikinti iracionalumą, kai vardiklyje yra iracionalieji skaičiai
 
-$a, a+b, a−b\sqrt a, \ \ \ \sqrt a + b,\ \ \ \sqrt a - ba​, a​+b, a​−b$.
+$\sqrt a, \ \ \ \sqrt a + b,\ \ \ \sqrt a - b$.
 
 #### Laipsniai
 
-Aiškinama(si) laipsnio su racionaliuoju rodikliu $amn (a>0, a≠1, m∈Z, n∈N, n>1)a^{\frac{m}{n}}\ (a > 0,\ a \neq 1,\ m \in \mathbb{Z},\ n \in \mathbb{N},\ n > 1)anm​ (a>0, a=1, m∈Z, n∈N, n>1)$ samprata, įsitikinama laipsnį su racionaliuoju rodikliu ir šaknį siejančios lygybės
+Aiškinama(si) laipsnio su racionaliuoju rodikliu $a^{\frac{m}{n}}\ (a > 0,\ a \neq 1,\ m \in \mathbb{Z},\ n \in \mathbb{N},\ n > 1)$ samprata, įsitikinama laipsnį su racionaliuoju rodikliu ir šaknį siejančios lygybės
 
-$amn=amna^ \frac m n= \sqrt [n] {a^m}anm​=nam​$
+$a^ \frac m n= \sqrt [n] {a^m}$
 
-teisingumu (keliant abi lygybės puses $nnn$-tuoju laipsniu). Mokoma(si) ja naudotis, pertvarkant skaitinius reiškinius su šaknimis ir laipsniais.
+teisingumu (keliant abi lygybės puses $n$-tuoju laipsniu). Mokoma(si) ja naudotis, pertvarkant skaitinius reiškinius su šaknimis ir laipsniais.
 
 Pagrindžiama, kodėl laipsniams su racionaliaisiais rodikliais (ir veiksmams su tokiais laipsniais) būdingos laipsnių su natūraliaisiais rodikliais (ir veiksmų su tokiais laipsniais) savybės:
 
-$an⋅am=an+m, an:am=an–m, (am)n=am⋅na^n \cdot a^m=a^{n + m}, \ \ \ a^n : a^m=a^{n – m}, \ \ \ (a^m )^n=a^{m \cdot n}an⋅am=an+m, an:am=an–m, (am)n=am⋅n$,
+$a^n \cdot a^m=a^{n + m}, \ \ \ a^n : a^m=a^{n – m}, \ \ \ (a^m )^n=a^{m \cdot n}$,
 
-$(a⋅b)m=am⋅bm, (a:b)m=am:bm(a\cdot b)^m=a^m\cdot b^m, \ \ \ (a : b)^m=a^m : b^m(a⋅b)m=am⋅bm, (a:b)m=am:bm$.
+$(a\cdot b)^m=a^m\cdot b^m, \ \ \ (a : b)^m=a^m : b^m$.
 
 Mokoma(si) skaičiuotuvu rasti laipsnio su racionaliuoju rodikliu dešimtainę apytikslę reikšmę, taikyti laipsnių ir veiksmų su laipsniais savybes skaitiniams reiškiniams pertvarkyti.
 
@@ -854,45 +854,45 @@ Apibrėžiamos sąvokos: skaičiaus logaritmas, dešimtainis logaritmas. Praktik
 
 Pateikiama ir skaitiniais pavyzdžiais iliustruojama pagrindinė logaritmų tapatybė
 
-$alog⁡a(b)=b (a>0, b>0, a≠1)a^{\log_a (b)}=b\ (a >0,\ b>0,\ a≠1)aloga​(b)=b (a>0, b>0, a=1)$.
+$a^{\log_a (b)}=b\ (a >0,\ b>0,\ a≠1)$.
 
 Įrodomos ir pagrindžiamos veiksmų su logaritmais savybės:
 
-$log⁡c⁡(a)+log⁡c⁡(b)=log⁡c⁡(a⋅b)\log_c⁡(a)+\log_c⁡(b)=\log_c⁡(a \cdot b)logc​⁡(a)+logc​⁡(b)=logc​⁡(a⋅b)$,
+$\log_c⁡(a)+\log_c⁡(b)=\log_c⁡(a \cdot b)$,
 
-$log⁡c⁡(a)−log⁡c⁡(b)=log⁡c⁡(a:b)\log_c⁡(a)-\log_c⁡(b)=\log_c⁡(a : b)logc​⁡(a)−logc​⁡(b)=logc​⁡(a:b)$,
+$\log_c⁡(a)-\log_c⁡(b)=\log_c⁡(a : b)$,
 
-$k⋅log⁡c⁡(a)=log⁡c⁡(ak) (a>0, b>0, c>0, c≠1, k∈Q),k \cdot \log_c⁡(a)=\log_c⁡(a^k )\ (a >0,\ b>0,\ c>0,\ c≠1,\ k∈\mathbb{Q}),k⋅logc​⁡(a)=logc​⁡(ak) (a>0, b>0, c>0, c=1, k∈Q),$
+$k \cdot \log_c⁡(a)=\log_c⁡(a^k )\ (a >0,\ b>0,\ c>0,\ c≠1,\ k∈\mathbb{Q}),$
 
 paaiškinant, kad šias lygybes galima taikyti ir atbulai. Mokoma(si) šias savybes taikyti, skaičiuojant skaitinių reiškinių su logaritmais reikšmes.
 
 #### Sinusas, kosinusas ir tangentas
 
-Apibrėžiamas posūkio kampas, vienetinis apskritimas ir tangentų tiesė $(x=1)(x=1)(x=1)$.
+Apibrėžiamas posūkio kampas, vienetinis apskritimas ir tangentų tiesė $(x=1)$.
 
 Naudojantis vienetiniu apskritimu, apibrėžiamas posūkio kampo sinusas ir kosinusas. Naudojantis tangentų tiese, apibrėžiamas posūkio kampo tangentas.
 
 Praktikuojamasi, naudojantis vienetiniu apskritimu ir tangentų tiese, apskaičiuoti tikslias sinuso, kosinuso, tangento reikšmes, kai posūkio kampas lygus
 
-$0∘,0^\circ,0∘,$ $±30∘,±30^\circ,±30∘,$ $±45∘, ±45^\circ,±45∘,$ $±60∘, ±60^\circ,±60∘,$ $±90∘, ±90^\circ,±90∘,$ $±120∘, ±120^\circ,±120∘,$ $±135∘, ±135^\circ,±135∘,$ $±150∘, ±150^\circ,±150∘,$ $$ $±180∘, ±180^\circ,±180∘,$ $±210∘, ±210^\circ,±210∘,$ $±225∘, ±225^\circ,±225∘,$ $±240∘, ±240^\circ,±240∘,$ $±270∘, ±270^\circ,±270∘,$ $±300∘, ±300^\circ,±300∘,$ $±315∘, ±315^\circ,±315∘,$ $±330∘, ±330^\circ,±330∘,$ $±360∘ ±360^\circ±360∘$.
+$0^\circ,$ $±30^\circ,$ $ ±45^\circ,$ $ ±60^\circ,$ $ ±90^\circ,$ $ ±120^\circ,$ $ ±135^\circ,$ $ ±150^\circ,$ $$ $ ±180^\circ,$ $ ±210^\circ,$ $ ±225^\circ,$ $ ±240^\circ,$ $ ±270^\circ,$ $ ±300^\circ,$ $ ±315^\circ,$ $ ±330^\circ,$ $ ±360^\circ$.
 
-Tuo pačiu metodu parodoma, kad skaičiai $sin⁡⁡(α)\sin⁡(α)sin⁡(α)$ ir $cos⁡⁡(α)\cos⁡(α)cos⁡(α)$ turi prasmę su visomis realiosiomis $ααα$ reikšmėmis, kodėl $sin⁡⁡(α)\sin⁡(α)sin⁡(α)$ ir $cos⁡(⁡α)\cos (⁡α)cos(⁡α)$ reikšmės kartojasi kas $360∘360^\circ360∘$ ir visuomet priklauso intervalui $[−1;1].[-1;1].[−1;1].$
+Tuo pačiu metodu parodoma, kad skaičiai $\sin⁡(α)$ ir $\cos⁡(α)$ turi prasmę su visomis realiosiomis $α$ reikšmėmis, kodėl $\sin⁡(α)$ ir $\cos (⁡α)$ reikšmės kartojasi kas $360^\circ$ ir visuomet priklauso intervalui $[-1;1].$
 
-Aptariama, kodėl $tg⁡(α)\tg(α)tg(α)$ reikšmės yra intervalo $(−∞;+∞)(-∞;+∞)(−∞;+∞)$ skaičiai ir kodėl jos kartojasi kas $180∘180^\circ180∘$.
+Aptariama, kodėl $\tg(α)$ reikšmės yra intervalo $(-∞;+∞)$ skaičiai ir kodėl jos kartojasi kas $180^\circ$.
 
 Įrodomos formulės:
 
-$sin⁡⁡(−α)=−sin⁡⁡(α), cos⁡⁡(−α)=cos⁡⁡(α), tg⁡⁡(−α)=−tg⁡⁡(α)\sin⁡({-}α)=-\sin⁡(α),\ \ \ \cos⁡({-}α)=\cos⁡(α), \ \ \ \tg⁡({-}α)=-\tg⁡(α)sin⁡(−α)=−sin⁡(α), cos⁡(−α)=cos⁡(α), tg⁡(−α)=−tg⁡(α)$;
+$\sin⁡({-}α)=-\sin⁡(α),\ \ \ \cos⁡({-}α)=\cos⁡(α), \ \ \ \tg⁡({-}α)=-\tg⁡(α)$;
 
-$sin⁡⁡(α+360∘⋅k)=sin⁡⁡(α), cos⁡⁡(α+360∘⋅k)=cos⁡⁡(α)\sin⁡(α+360^\circ ·k)=\sin⁡(α), \ \ \ \cos⁡(α+360^\circ ·k)=\cos⁡(α)sin⁡(α+360∘⋅k)=sin⁡(α), cos⁡(α+360∘⋅k)=cos⁡(α)$,
+$\sin⁡(α+360^\circ ·k)=\sin⁡(α), \ \ \ \cos⁡(α+360^\circ ·k)=\cos⁡(α)$,
 
-$tg⁡⁡(α+180∘⋅k)=tg⁡⁡(α), k∈Z;\tg⁡(α+180^\circ ·k)=\tg⁡(α), \ \ k∈\mathbb{Z};tg⁡(α+180∘⋅k)=tg⁡(α), k∈Z;$
+$\tg⁡(α+180^\circ ·k)=\tg⁡(α), \ \ k∈\mathbb{Z};$
 
 mokoma(si) jas taikyti.
 
-Apibrėžiami skaičiai $arcsin⁡(a)\arcsin(a)arcsin(a)$ ir $arccos⁡(a)\arccos(a)arccos(a)$, pagrindžiant, kodėl $arcsin⁡(a)∈[−90∘;90∘]\arcsin(a)∈[-90^\circ;90^\circ]arcsin(a)∈[−90∘;90∘]$, $arccos⁡(a)∈[0;180∘]\arccos(a)∈[0;180^\circ]arccos(a)∈[0;180∘]$, o arksinusas ir arkkosinusas turi prasmę, kai $a∈[−1;1]a∈[-1; 1]a∈[−1;1]$.
+Apibrėžiami skaičiai $\arcsin(a)$ ir $\arccos(a)$, pagrindžiant, kodėl $\arcsin(a)∈[-90^\circ;90^\circ]$, $\arccos(a)∈[0;180^\circ]$, o arksinusas ir arkkosinusas turi prasmę, kai $a∈[-1; 1]$.
 
-Apibrėžiami skaičiai $arctg⁡(a) (a∈R)\arctg(a)\ (a ∈\mathbb{R})arctg(a) (a∈R)$, pagrindžiant, kodėl $arctg⁡(a)∈(−90∘;90∘)\arctg(a)∈(-90^\circ;90^\circ)arctg(a)∈(−90∘;90∘)$, o arktangentas turi prasmę visoje realiųjų skaičių aibėje.
+Apibrėžiami skaičiai $\arctg(a)\ (a ∈\mathbb{R})$, pagrindžiant, kodėl $\arctg(a)∈(-90^\circ;90^\circ)$, o arktangentas turi prasmę visoje realiųjų skaičių aibėje.
 
 Praktikuojamasi apskaičiuoti tikslias ir apytiksles sinuso, kosinuso, tangento ir arksinuso, arkkosinuso, arktangento reikšmes.
 
@@ -902,17 +902,17 @@ Praktikuojamasi apskaičiuoti tikslias ir apytiksles sinuso, kosinuso, tangento 
 
 Apibrėžiama, kokios skaičių sekos vadinamos aritmetinėmis progresijomis ir kokios – geometrinėmis progresijomis.
 
-Apibrėžiamos sąvokos: skaičių sekos pirmasis narys, $n{n}n$-tasis narys, begalinė skaičių seka, baigtinė skaičių seka, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis.
+Apibrėžiamos sąvokos: skaičių sekos pirmasis narys, ${n}$-tasis narys, begalinė skaičių seka, baigtinė skaičių seka, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis.
 
 Randami sekos nariai rekurentiniu būdu.
 
 Praktikuojamasi nustatyti ir pagrįsti, ar seka yra aritmetinė progresija, geometrinė progresija.
 
-Įrodomos ir įvairiems uždaviniams spręsti taikomos aritmetinės progresijos ir geometrinės progresijos $n{n}n$-tojo nario formulės, pirmųjų $n{n}n$ narių sumos formulės:
+Įrodomos ir įvairiems uždaviniams spręsti taikomos aritmetinės progresijos ir geometrinės progresijos ${n}$-tojo nario formulės, pirmųjų ${n}$ narių sumos formulės:
 
-$an=a1+d(n−1), Sn=a1 + an2⋅n=2a1 + d(n − 1)2⋅na_n=a_1+d(n-1),\ \ \ S_n= \frac {a_1 + a_n} {2} \cdot n= \frac {2a_1 + d(n - 1)} {2} \cdot nan​=a1​+d(n−1), Sn​=2a1​ + an​​⋅n=22a1​ + d(n − 1)​⋅n$,
+$a_n=a_1+d(n-1),\ \ \ S_n= \frac {a_1 + a_n} {2} \cdot n= \frac {2a_1 + d(n - 1)} {2} \cdot n$,
 
-$bn=b1⋅qn–1, Sn=b1 ⋅ (qn – 1)q – 1=bn ⋅ q – b1q – 1 (n∈N, q≠1)b_n=b_1 \cdot q^{n – 1}, \ \ \ S_n= \frac {b_1 \cdot (q^n – 1)}{q – 1}= \frac {b_n \cdot q – b_1}{q – 1} (n∈\mathbb{N}, q≠1)bn​=b1​⋅qn–1, Sn​=q – 1b1​ ⋅ (qn – 1)​=q – 1bn​ ⋅ q – b1​​ (n∈N, q=1)$.
+$b_n=b_1 \cdot q^{n – 1}, \ \ \ S_n= \frac {b_1 \cdot (q^n – 1)}{q – 1}= \frac {b_n \cdot q – b_1}{q – 1} (n∈\mathbb{N}, q≠1)$.
 
 Atliekami kūrybiniai projektiniai darbai (pavyzdžiui, Kocho snaigė, vėžlio ir bėgiko problema).
 
@@ -922,9 +922,9 @@ Atliekami kūrybiniai projektiniai darbai (pavyzdžiui, Kocho snaigė, vėžlio 
 
 . Plėtojama samprata apie funkcijas ir jų savybes. Apibrėžiamos sąvokos: lyginė funkcija; nelyginė funkcija; nei lyginė, nei nelyginė funkcija; periodinė funkcija. Nagrinėjant pavyzdžius, išsiaiškinama, kaip taikyti šiuos apibrėžimus, sprendžiant uždavinius, ir kaip pagal grafiką nustatyti funkcijos lyginumą, periodiškumą.
 
-Aptariama funkcijos $y=f(x) (x∈Df)y=f(x)\ (x∈D_f)y=f(x) (x∈Df​)$ grafiko transformacijos samprata. Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip atliekamos
+Aptariama funkcijos $y=f(x)\ (x∈D_f)$ grafiko transformacijos samprata. Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip atliekamos
 
-$y=f(x)+a, y=f(x+a), y=−f(x), y=a⋅f(x)y=f(x)+a, \ \ \ y=f(x+a), \ \ \ y=-f(x), \ \ \ y=a⋅f(x)y=f(x)+a, y=f(x+a), y=−f(x), y=a⋅f(x)$
+$y=f(x)+a, \ \ \ y=f(x+a), \ \ \ y=-f(x), \ \ \ y=a⋅f(x)$
 
 formulėmis aprašomos transformacijos.
 
@@ -934,11 +934,11 @@ Atliekami tiriamieji, kūrybiniai darbai apie funkcijas, jų savybes, transforma
 
 . Apibrėžiamos ir tiriamos laipsninė funkcija
 
-$y=f(x)=xny=f(x)=x^ny=f(x)=xn$, kai $n∈{−1;1;2;3},n \in \{-1; 1; 2; 3\},n∈{−1;1;2;3},$
+$y=f(x)=x^n$, kai $n \in \{-1; 1; 2; 3\},$
 
 šaknies funkcijos
 
-$y=f(x)=xny=f(x)=\sqrt [n] xy=f(x)=nx​$, kai $n∈{2;3}.n \in \{2; 3\}.n∈{2;3}.$
+$y=f(x)=\sqrt [n] x$, kai $n \in \{2; 3\}.$
 
 Išsiaiškinami charakteringi taškai, priklausantys šių funkcijų grafikams, tiriamos funkcijų savybės. Mokoma(si) atpažinti funkcijas iš jų grafikų eskizų, parašyti funkcijų formules, kai nurodytas funkcijos grafikui priklausantis taškas.
 
@@ -948,11 +948,11 @@ Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos laipsnin�
 
 . Apibrėžiama rodiklinė funkcija
 
-$y=f(x)=ax (a>0, a≠1)y=f(x)=a^x\ (a>0,\ a≠1)y=f(x)=ax (a>0, a=1)$,
+$y=f(x)=a^x\ (a>0,\ a≠1)$,
 
 logaritminė funkcija
 
-$y=f(x)=log⁡a⁡(x) (a>0, a≠1, x>0)y=f(x)=\log_a⁡(x)\ (a>0,\ a≠1,\ x>0)y=f(x)=loga​⁡(x) (a>0, a=1, x>0)$.
+$y=f(x)=\log_a⁡(x)\ (a>0,\ a≠1,\ x>0)$.
 
 Išsiaiškinami charakteringi taškai, priklausantys šių funkcijų grafikams, tiriamos funkcijų savybės. Mokomasi atpažinti funkcijas iš jų grafikų eskizų, parašyti funkcijų formules, kai nurodytas funkcijos grafikui priklausantis taškas.
 
@@ -966,7 +966,7 @@ Braižomi sinusoidės, kosinusoidės ir tangentoidės grafikų eskizai. Išsiai�
 
 Mokoma(si), naudojantis sinuso, kosinuso ir tangento samprata ir (ar) pasitelkus grafinį metodą, spręsti
 
-$sin⁡⁡(x)=a, cos⁡⁡(x)=a, tg⁡⁡(x)=a\sin⁡(x)=a,\ \ \ \cos⁡(x)=a,\ \ \ \tg⁡(x)=asin⁡(x)=a, cos⁡(x)=a, tg⁡(x)=a$
+$\sin⁡(x)=a,\ \ \ \cos⁡(x)=a,\ \ \ \tg⁡(x)=a$
 
 pavidalo lygtis.
 
@@ -976,13 +976,13 @@ pavidalo lygtis.
 
 Apibendrinamos, gilinamos ir plečiamos žinios apie racionaliąsias lygtis ir jų sprendimo būdus. Mokoma(si) atpažinti ir spręsti
 
-$a⋅xn+b=0 (a,ba \cdot x^n+b=0 \ (a, ba⋅xn+b=0 (a,b$ – racionalieji skaičiai, $n∈{2;3;4;5})n∈\{2;3;4;5\})n∈{2;3;4;5})$,
+$a \cdot x^n+b=0 \ (a, b$ – racionalieji skaičiai, $n∈\{2;3;4;5\})$,
 
-$f(x)⋅g(x)=0 (f(x),g(x)f(x) \cdot g(x)=0 \ (f(x), g(x)f(x)⋅g(x)=0 (f(x),g(x)$ – ne aukštesnio negu antrojo laipsnio daugianariai)
+$f(x) \cdot g(x)=0 \ (f(x), g(x)$ – ne aukštesnio negu antrojo laipsnio daugianariai)
 
 pavidalo lygtis; lygtis, kurios suvedamos į kvadratines lygtis.
 
-Praktikuojamasi grafiškai spręsti $f(x)=g(x)f(x)=g(x)f(x)=g(x)$, kai $y=f(x),y=g(x)y=f(x), y=g(x)y=f(x),y=g(x)$ yra tiesinė funkcija, kvadratinė funkcija, laipsninė funkcija, pavidalo lygtis.
+Praktikuojamasi grafiškai spręsti $f(x)=g(x)$, kai $y=f(x), y=g(x)$ yra tiesinė funkcija, kvadratinė funkcija, laipsninė funkcija, pavidalo lygtis.
 
 Pasitelkus pavyzdžius, aiškinamasi, kad tikslius lygties sprendinius gauname, spręsdami algebriškai, o grafiškai dažniausiai gaunami apytiksliai sprendiniai.
 
@@ -992,9 +992,9 @@ Mokoma(si), sprendžiant tekstinius ar geometrijos uždavinius, sudaryti lygtį,
 
 Apibrėžiama iracionaliosios lygties sąvoka. Mokoma(si) spręsti iracionaliąsias
 
-$b⋅f(x)+a=0, b⋅f(x)3=ab \cdot \sqrt{f(x)} +a=0,\ \ \ b \cdot \sqrt [3]{f(x)} =ab⋅f(x)​+a=0, b⋅3f(x)​=a$
+$b \cdot \sqrt{f(x)} +a=0,\ \ \ b \cdot \sqrt [3]{f(x)} =a$
 
-($f(x)f(x)f(x)$ – ne aukštesnio negu antrojo laipsnio daugianaris, $a,ba, ba,b$ – racionalieji skaičiai, $a≠0a \neq 0a=0$) pavidalo lygtis.
+($f(x)$ – ne aukštesnio negu antrojo laipsnio daugianaris, $a, b$ – racionalieji skaičiai, $a \neq 0$) pavidalo lygtis.
 
 Analizuojama, kodėl ir kada gautuosius pertvarkytosios lygties sprendinius būtina tikrinti, kodėl tarp pertvarkytosios lygties sprendinių gali atsirasti tokių, kurie nėra duotosios iracionaliosios lygties sprendiniai.
 
@@ -1004,23 +1004,23 @@ Sprendžiami uždaviniai, kuriuose situacijos modeliuojamos iracionaliosiomis ly
 
 Apibrėžiama rodiklinės lygties sąvoka. Mokoma(si) algebriškai spręsti rodiklines lygtis, suvedant jas į pavidalą:
 
-$af(x)=ar (r∈Q), af(x)=ag(x)a^{f(x)} =a^r\ (r∈\mathbb{Q}),\ \ \ a^{f(x)} =a^{g(x)} af(x)=ar (r∈Q), af(x)=ag(x)$
+$a^{f(x)} =a^r\ (r∈\mathbb{Q}),\ \ \ a^{f(x)} =a^{g(x)} $
 
-($f(x),g(x)f(x), g(x)f(x),g(x)$ – ne aukštesnio negu antrojo laipsnio daugianariai).
+($f(x), g(x)$ – ne aukštesnio negu antrojo laipsnio daugianariai).
 
 Praktikuojamasi rodiklines lygtis spręsti grafiškai.
 
 Sprendžiami uždaviniai, kuriuose situacijos modeliuojamos rodikline funkcija, pavyzdžiui:
 
-$f(n)=k⋅an, S(n)=S0⋅(1±p100)nf(n)=k \cdot a^n,\ \ \ S(n) = S_0 \cdot \left(1 \pm \frac{p}{100} \right)^nf(n)=k⋅an, S(n)=S0​⋅(1±100p​)n$.
+$f(n)=k \cdot a^n,\ \ \ S(n) = S_0 \cdot \left(1 \pm \frac{p}{100} \right)^n$.
 
 #### Logaritminės lygtys
 
 Apibrėžiama logaritminės lygties sąvoka. Mokoma(si) spręsti logaritmines
 
-$log⁡a(⁡f(x))+b=0, log⁡a⁡(f(x))=log⁡a⁡(g(x))\log_a(⁡f(x))+b=0,\ \ \ \log_a⁡(f(x))=\log_a⁡(g(x))loga​(⁡f(x))+b=0, loga​⁡(f(x))=loga​⁡(g(x))$
+$\log_a(⁡f(x))+b=0,\ \ \ \log_a⁡(f(x))=\log_a⁡(g(x))$
 
-($f(x) ir g(x)f(x) \text{ ir } g(x)f(x) ir g(x)$ – ne aukštesnio negu antrojo laipsnio daugianariai) lygtis.
+($f(x) \text{ ir } g(x)$ – ne aukštesnio negu antrojo laipsnio daugianariai) lygtis.
 
 Analizuojama, kada ir kodėl būtina atsižvelgti į logaritmo apibrėžimo sritį, gautuosius sprendinius tikrinti (juos įrašant į duotąją lygtį).
 
@@ -1050,9 +1050,9 @@ Praktikuojamasi spręsti paprastas nelygybių sistemas (su vienu nežinomuoju), 
 
 Mokoma(si) spręsti rodiklines nelygybes, kurių bendri pavidalai yra
 
-$af(x)⋛ar (r∈Z), af(x)⋛ag(x)a^{f(x)} ⋛a^r (r∈\mathbb{Z}),\ \ \ a^{f(x)} ⋛a^{g(x)}af(x)⋛ar (r∈Z), af(x)⋛ag(x)$
+$a^{f(x)} ⋛a^r (r∈\mathbb{Z}),\ \ \ a^{f(x)} ⋛a^{g(x)}$
 
-($(f(x)(f(x)(f(x)$ ir $g(x)g(x)g(x)$ – ne aukštesnio negu pirmojo laipsnio vienanariai, dvinariai).
+($(f(x)$ ir $g(x)$ – ne aukštesnio negu pirmojo laipsnio vienanariai, dvinariai).
 
 #### Logaritminės nelygybės
 
@@ -1060,9 +1060,9 @@ $af(x)⋛ar (r∈Z), af(x)⋛ag(x)a^{f(x)} ⋛a^r (r∈\mathbb{Z}),\ \ \ a^{f(x)
 
 Mokomasi spręsti logaritmines nelygybes, kurių bendri pavidalai yra
 
-$log⁡a⁡(x)⋛b, log⁡a⁡(f(x))⋛log⁡a⁡(g(x))\log_a⁡(x)⋛b, \ \ \log_a⁡(f(x))⋛ \log_a⁡(g(x))loga​⁡(x)⋛b, loga​⁡(f(x))⋛loga​⁡(g(x))$
+$\log_a⁡(x)⋛b, \ \ \log_a⁡(f(x))⋛ \log_a⁡(g(x))$
 
-($(f(x),g(x)(f(x), g(x)(f(x),g(x)$ – ne aukštesnio negu pirmojo laipsnio vienanariai, dvinariai).
+($(f(x), g(x)$ – ne aukštesnio negu pirmojo laipsnio vienanariai, dvinariai).
 
 Analizuojama, kada ir kodėl būtina atsižvelgti į logaritmo apibrėžimo sritį.
 
@@ -1076,9 +1076,9 @@ Nagrinėjama realiųjų skaičių aibės struktūra.
 
 Pateikiami baigtinių ir begalinių; diskrečiųjų ir tolydžiųjų (intervalų) skaičių aibių pavyzdžiai.
 
-Mokoma(si) reiškiniu užrašyti natūraliųjų skaičių, kuriuos dalijant iš nurodyto natūraliojo skaičiaus $ddd$ gaunama nurodyta liekana $rrr$, aibę:
+Mokoma(si) reiškiniu užrašyti natūraliųjų skaičių, kuriuos dalijant iš nurodyto natūraliojo skaičiaus $d$ gaunama nurodyta liekana $r$, aibę:
 
-$n⋅d+r, n∈Nn \cdot d+r,\ \ \ n ∈\mathbb{N}n⋅d+r, n∈N$.
+$n \cdot d+r,\ \ \ n ∈\mathbb{N}$.
 
 Apibrėžiama aibių sąjunga, sankirta ir skirtumas. Atliekami veiksmai su aibėmis. Praktikuojamasi veiksmus su aibėmis vaizduoti Veno diagramomis.
 
@@ -1086,27 +1086,27 @@ Apibrėžiama aibių sąjunga, sankirta ir skirtumas. Atliekami veiksmai su aib�
 
 Apibrėžiama realiojo skaičiaus modulio sąvoka ir paaiškinama jo geometrinė prasmė.
 
-Braižomas $y=∣x∣y=|x|y=∣x∣$ grafiko eskizas.
+Braižomas $y=|x|$ grafiko eskizas.
 
-Mokoma(si) užrašyti lygties $∣x∣=a|x|=a∣x∣=a$ ir nelygybės $∣x∣⋚a (a∈R)|x|⋚a\ (a∈\mathbb{R})∣x∣⋚a (a∈R)$ sprendinių aibes.
+Mokoma(si) užrašyti lygties $|x|=a$ ir nelygybės $|x|⋚a\ (a∈\mathbb{R})$ sprendinių aibes.
 
 Pavyzdžiais pagrindžiamos modulio (ir veiksmų su moduliais) savybės:
 
-$∣−a∣=∣a∣, ∣a∣2=a2, ∣a−b∣=∣b−a∣, ∣a⋅b∣=∣a∣⋅∣b∣, ∣a ∶ b∣=∣a∣ ∶ ∣b∣|{-}a|=|a|, \ \ \ |a|^2=a^2,\ \ \ |a-b|=|b-a|,\ \ \ |a \cdot b|=|a|\cdot |b|,\ \ \ |a\ ∶\ b|=|a|\ ∶\ |b|∣−a∣=∣a∣, ∣a∣2=a2, ∣a−b∣=∣b−a∣, ∣a⋅b∣=∣a∣⋅∣b∣, ∣a ∶ b∣=∣a∣ ∶ ∣b∣$.
+$|{-}a|=|a|, \ \ \ |a|^2=a^2,\ \ \ |a-b|=|b-a|,\ \ \ |a \cdot b|=|a|\cdot |b|,\ \ \ |a\ ∶\ b|=|a|\ ∶\ |b|$.
 
 Mokoma(si) apskaičiuoti skaitinių ir raidinių reiškinių su moduliais reikšmes, traukti lyginio laipsnio šaknį iš lyginio laipsnio:
 
-$a2=∣a∣ \sqrt {a^2} =|a|\ \ a2​=∣a∣ $ ir $ a2n2n=∣a∣\ \ \sqrt [2n] {a^{2n}} = |a| 2na2n​=∣a∣$, kai $n∈Nn∈\mathbb{N}n∈N$.
+$\sqrt {a^2} =|a|\ \ $ ir $\ \ \sqrt [2n] {a^{2n}} = |a|$, kai $n∈\mathbb{N}$.
 
 #### Laipsniai
 
 Įrodomos dvinario trečiojo laipsnio formulės (sumos ir skirtumo kubo). Mokoma(si) naudotis šiomis formulėmis, dvinarį keliant trečiuoju laipsniu ir daugianarį skaidant dauginamaisiais.
 
-Aiškinama(si) laipsnio su racionaliuoju rodikliu $amn (a>0,a≠1, m∈Z, n∈N, n>1)a^{\frac{m}{n}}\ (a > 0, a \neq 1,\ m \in \mathbb{Z},\ n \in \mathbb{N},\ n > 1)anm​ (a>0,a=1, m∈Z, n∈N, n>1)$ samprata, įsitikinama laipsnį su racionaliuoju rodikliu ir šaknį siejančios lygybės
+Aiškinama(si) laipsnio su racionaliuoju rodikliu $a^{\frac{m}{n}}\ (a > 0, a \neq 1,\ m \in \mathbb{Z},\ n \in \mathbb{N},\ n > 1)$ samprata, įsitikinama laipsnį su racionaliuoju rodikliu ir šaknį siejančios lygybės
 
-$amn= amna^ \frac m n= \sqrt [n] {a^m}anm​= nam​$
+$a^ \frac m n= \sqrt [n] {a^m}$
 
-teisingumu (keliant abi lygybės puses $nnn$-tuoju laipsniu).
+teisingumu (keliant abi lygybės puses $n$-tuoju laipsniu).
 
 Aiškinama(si), kada (ir kodėl) tokie laipsniai neturi prasmės.
 
@@ -1114,33 +1114,33 @@ Mokoma(si) nustatyti, tarp kokių gretimų sveikųjų skaičių yra duotasis lai
 
 Pagrindžiama ir įrodoma, kad laipsniams su racionaliaisiais rodikliais (ir veiksmams su tokiais laipsniais) būdingos laipsnių su natūraliaisiais rodikliais (ir veiksmų su tokiais laipsniais) savybės:
 
-$ab⋅ac=ab+c, ab ∶ ac=ab–c, (ab)c=ab⋅c,a^b \cdot a^c=a^{b + c},\ \ \ a^b\ ∶\ a^c=a^{b – c},\ \ \ (a^b )^c=a^{b \cdot c},ab⋅ac=ab+c, ab ∶ ac=ab–c, (ab)c=ab⋅c,$
+$a^b \cdot a^c=a^{b + c},\ \ \ a^b\ ∶\ a^c=a^{b – c},\ \ \ (a^b )^c=a^{b \cdot c},$
 
-$(a⋅b)c=ac⋅bc, (a ∶ b)c=ac ∶ bc, (an)m=amn, ∣a∣2n=a2n (n∈N)(a \cdot b)^c=a^c\cdot b^c,\ \ \ (a\ ∶\ b)^c=a^c\ ∶\ b^c,\ \ \ {(\sqrt [n]a)}^m= \sqrt [n] {a^m},\ \ \ |a|^{2n}=a^{2n}\ (n \in \mathbb{N})(a⋅b)c=ac⋅bc, (a ∶ b)c=ac ∶ bc, (na​)m=nam​, ∣a∣2n=a2n (n∈N)$.
+$(a \cdot b)^c=a^c\cdot b^c,\ \ \ (a\ ∶\ b)^c=a^c\ ∶\ b^c,\ \ \ {(\sqrt [n]a)}^m= \sqrt [n] {a^m},\ \ \ |a|^{2n}=a^{2n}\ (n \in \mathbb{N})$.
 
 Mokoma(si) skaičiuotuvu rasti laipsnio reikšmę, taikyti laipsnių su racionaliaisiais rodikliais savybes skaitiniams ir raidiniams reiškiniams pertvarkyti.
 
 #### Šaknys
 
-Įrodoma, kad skaičius $2\sqrt 22​$ yra iracionalusis.
+Įrodoma, kad skaičius $\sqrt 2$ yra iracionalusis.
 
-Apibendrinama šaknies sąvoka, pateikiant $nnn$-tojo $(n∈N,n>1)(n∈\mathbb{N},n>1)(n∈N,n>1)$ laipsnio šaknies apibrėžimą.
+Apibendrinama šaknies sąvoka, pateikiant $n$-tojo $(n∈\mathbb{N},n>1)$ laipsnio šaknies apibrėžimą.
 
-Aiškinama(si), kada $nnn$-tojo laipsnio šaknys turi prasmę.
+Aiškinama(si), kada $n$-tojo laipsnio šaknys turi prasmę.
 
-Mokoma(si), nesinaudojant skaičiuotuvu, nustatyti, tarp kokių gretimų sveikųjų skaičių yra duotasis iracionalusis skaičius $an\sqrt [n] ana​$, palyginti tokio pavidalo skaičius; naudojantis skaičiuotuvu, rasti apytikslę dešimtainę duotojo iracionaliojo skaičius $an\sqrt [n] ana​$ reikšmę.
+Mokoma(si), nesinaudojant skaičiuotuvu, nustatyti, tarp kokių gretimų sveikųjų skaičių yra duotasis iracionalusis skaičius $\sqrt [n] a$, palyginti tokio pavidalo skaičius; naudojantis skaičiuotuvu, rasti apytikslę dešimtainę duotojo iracionaliojo skaičius $\sqrt [n] a$ reikšmę.
 
-Aiškinamasi, kad $nnn$-tojo $(n∈N,n>3)(n∈\mathbb{N},n>3)(n∈N,n>3)$ laipsnio šaknims ir veiksmams su jomis būdingos antrojo ir trečiojo laipsnių šaknų ir veiksmų su jomis savybės:
+Aiškinamasi, kad $n$-tojo $(n∈\mathbb{N},n>3)$ laipsnio šaknims ir veiksmams su jomis būdingos antrojo ir trečiojo laipsnių šaknų ir veiksmų su jomis savybės:
 
-$an⋅bn=a⋅bn, an:bn=a:bn (b≠0)\sqrt[n]a \cdot \sqrt[n]b=\sqrt[n]{a \cdot b},\ \ \ \sqrt[n]a : \sqrt[n]b=\sqrt[n]{a : b} \ (b≠0)na​⋅nb​=na⋅b​, na​:nb​=na:b​ (b=0)$,
+$\sqrt[n]a \cdot \sqrt[n]b=\sqrt[n]{a \cdot b},\ \ \ \sqrt[n]a : \sqrt[n]b=\sqrt[n]{a : b} \ (b≠0)$,
 
-$amn=an⋅m (n,m∈N,n,m>1)\sqrt [n]{\sqrt [m]a}=\sqrt [n \cdot m]a\ (n, m∈\mathbb{N},n, m>1)nma​​=n⋅ma​ (n,m∈N,n,m>1)$;
+$\sqrt [n]{\sqrt [m]a}=\sqrt [n \cdot m]a\ (n, m∈\mathbb{N},n, m>1)$;
 
-$a2n2n=∣a∣, a2n+12n+1=a (n∈N)\sqrt[2n] {a^{2n}}=|a|,\ \ \ \sqrt [2n+1] {a^{2n+1}}=a \ (n∈\mathbb{N})2na2n​=∣a∣, 2n+1a2n+1​=a (n∈N)$.
+$\sqrt[2n] {a^{2n}}=|a|,\ \ \ \sqrt [2n+1] {a^{2n+1}}=a \ (n∈\mathbb{N})$.
 
 Mokoma(si) šias savybes pagrįsti, įrodyti ir taikyti skaičiuojant skaitinių reiškinių su šaknimis reikšmes, naikinant šaknis trupmenos vardiklyje, kai vardiklyje yra
 
-$a, a ±b, a ±b, a3\sqrt a,\ \ \ \sqrt a ±b,\ \ \sqrt a ± \sqrt b,\ \ \ \sqrt [3]aa​, a​ ±b, a​ ±b​, 3a​$,
+$\sqrt a,\ \ \ \sqrt a ±b,\ \ \sqrt a ± \sqrt b,\ \ \ \sqrt [3]a$,
 
 pertvarkant raidinius reiškinius su šaknimis.
 
@@ -1156,21 +1156,21 @@ Aptariama, kokioms skaičių aibėms priklauso su log ženklu rašomi skaičiai.
 
 Pateikiama ir skaitiniais pavyzdžiais iliustruojama pagrindinė logaritminė tapatybė
 
-$alog⁡a(b)=b (a>0, b>0,a≠1)a^{\log_a (b)}=b\ (a >0,\ b>0,a≠1)aloga​(b)=b (a>0, b>0,a=1)$.
+$a^{\log_a (b)}=b\ (a >0,\ b>0,a≠1)$.
 
 Pagrindžiamos veiksmų su logaritmais savybės:
 
-$log⁡c⁡(a)+log⁡c⁡(b)=log⁡c⁡(a⋅b)\log_c⁡(a)+\log_c⁡(b)=\log_c⁡(a\cdot b)logc​⁡(a)+logc​⁡(b)=logc​⁡(a⋅b)$,
+$\log_c⁡(a)+\log_c⁡(b)=\log_c⁡(a\cdot b)$,
 
-$log⁡c⁡(a)−log⁡c⁡(b)=log⁡c⁡(a ∶ b)\log_c⁡(a)-\log_c⁡(b)=\log_c⁡(a\ ∶\ b)logc​⁡(a)−logc​⁡(b)=logc​⁡(a ∶ b)$,
+$\log_c⁡(a)-\log_c⁡(b)=\log_c⁡(a\ ∶\ b)$,
 
-$d⋅log⁡c⁡(a)=log⁡c⁡(ad)d \cdot \log_c⁡(a)=\log_c⁡(a^d)d⋅logc​⁡(a)=logc​⁡(ad)$,
+$d \cdot \log_c⁡(a)=\log_c⁡(a^d)$,
 
-$log⁡c⁡(a)log⁡c(⁡b)=log⁡b⁡(a)\frac {\log_c⁡(a)} {\log_c(⁡b)} =\log_b⁡(a)logc​(⁡b)logc​⁡(a)​=logb​⁡(a)$,
+$\frac {\log_c⁡(a)} {\log_c(⁡b)} =\log_b⁡(a)$,
 
-$1t⋅log⁡b⁡(a)=log⁡(bt)⁡(a)\frac 1 {t } \cdot \log_b⁡(a)=\log_{(b^t)}⁡(a)t1​⋅logb​⁡(a)=log(bt)​⁡(a)$;
+$\frac 1 {t } \cdot \log_b⁡(a)=\log_{(b^t)}⁡(a)$;
 
-čia $a>0,b>0,c>0,c≠1,t≠0.a >0,b>0,c>0,c≠1, t≠0.a>0,b>0,c>0,c=1,t=0.$
+čia $a >0,b>0,c>0,c≠1, t≠0.$
 
 Mokoma(si) šias savybes įrodyti ir taikyti, apskaičiuojant skaitinių reiškinių su logaritmais reikšmes bei pertvarkant raidinius logaritminius reiškinius.
 
@@ -1182,25 +1182,25 @@ Aiškinamasi, kad kampų dydžiai gali būti reiškiami ne tik laipsnių skaiči
 
 Praktikuojamasi, naudojantis vienetiniu apskritimu bei tangentų tiese, apskaičiuoti tikslias sinuso, kosinuso ir tangento reikšmes, kai posūkio kampas lygus
 
-$0∘,0^\circ,0∘,$ $±30∘,±30^\circ,±30∘,$ $±45∘, ±45^\circ,±45∘,$ $±60∘, ±60^\circ,±60∘,$ $±90∘, ±90^\circ,±90∘,$ $±120∘, ±120^\circ,±120∘,$ $±135∘, ±135^\circ,±135∘,$ $±150∘, ±150^\circ,±150∘,$ $$ $±180∘, ±180^\circ,±180∘,$ $±210∘, ±210^\circ,±210∘,$ $±225∘, ±225^\circ,±225∘,$ $±240∘, ±240^\circ,±240∘,$ $±270∘, ±270^\circ,±270∘,$ $±300∘, ±300^\circ,±300∘,$ $±315∘, ±315^\circ,±315∘,$ $±330∘, ±330^\circ,±330∘,$ $±360∘ ±360^\circ±360∘$.
+$0^\circ,$ $±30^\circ,$ $ ±45^\circ,$ $ ±60^\circ,$ $ ±90^\circ,$ $ ±120^\circ,$ $ ±135^\circ,$ $ ±150^\circ,$ $$ $ ±180^\circ,$ $ ±210^\circ,$ $ ±225^\circ,$ $ ±240^\circ,$ $ ±270^\circ,$ $ ±300^\circ,$ $ ±315^\circ,$ $ ±330^\circ,$ $ ±360^\circ$.
 
-Tuo pačiu metodu parodoma, kad skaičiai $sin⁡⁡(α)\sin⁡(α)sin⁡(α)$ ir $cos⁡⁡(α)\cos⁡(α)cos⁡(α)$ turi prasmę su visomis $⁡α⁡α⁡α$ realiosiomis reikšmėmis, kodėl $sin⁡⁡(α)\sin⁡(α)sin⁡(α)$ ir $cos⁡⁡(α)\cos⁡(α)cos⁡(α)$ reikšmės kas $360∘360^\circ360∘$ kartojasi ir visuomet priklauso intervalui $[−1;1][-1;1][−1;1]$.
+Tuo pačiu metodu parodoma, kad skaičiai $\sin⁡(α)$ ir $\cos⁡(α)$ turi prasmę su visomis $⁡α$ realiosiomis reikšmėmis, kodėl $\sin⁡(α)$ ir $\cos⁡(α)$ reikšmės kas $360^\circ$ kartojasi ir visuomet priklauso intervalui $[-1;1]$.
 
-Aptariama, kodėl $tg⁡⁡(α)\tg⁡(α)tg⁡(α)$ reikšmės yra intervalo $(−∞;+∞)(-∞;+∞)(−∞;+∞)$ skaičiai ir kodėl jos kartojasi kas $180∘180^\circ180∘$.
+Aptariama, kodėl $\tg⁡(α)$ reikšmės yra intervalo $(-∞;+∞)$ skaičiai ir kodėl jos kartojasi kas $180^\circ$.
 
 Įrodomos formulės:
 
-$sin⁡⁡(−α)=−sin⁡⁡(α), cos⁡⁡(−α)=cos⁡⁡(α), tg⁡⁡(−α)=−tg⁡⁡(α)\sin⁡(-α)=-\sin⁡(α),\ \ \ \cos⁡(-α)=\cos⁡(α), \ \ \ \tg⁡(-α)=-\tg⁡(α)sin⁡(−α)=−sin⁡(α), cos⁡(−α)=cos⁡(α), tg⁡(−α)=−tg⁡(α)$;
+$\sin⁡(-α)=-\sin⁡(α),\ \ \ \cos⁡(-α)=\cos⁡(α), \ \ \ \tg⁡(-α)=-\tg⁡(α)$;
 
-$sin⁡⁡(α+2πk)=sin⁡⁡(α), cos⁡⁡(α+2πk)=cos⁡⁡(α), tg⁡⁡(α+πk)=tg⁡⁡(α);\sin⁡(α+2πk)=\sin⁡(α),\ \ \ \cos⁡(α+2πk)=\cos⁡(α), \ \ \ \tg⁡(α+πk)=\tg⁡(α);sin⁡(α+2πk)=sin⁡(α), cos⁡(α+2πk)=cos⁡(α), tg⁡(α+πk)=tg⁡(α);$
+$\sin⁡(α+2πk)=\sin⁡(α),\ \ \ \cos⁡(α+2πk)=\cos⁡(α), \ \ \ \tg⁡(α+πk)=\tg⁡(α);$
 
-čia $k∈Z.k∈\mathbb{Z}.k∈Z.$
+čia $k∈\mathbb{Z}.$
 
 Mokoma(si) šias formules taikyti.
 
-Apibrėžiami skaičiai $arcsin⁡(a)\arcsin(a)arcsin(a)$ ir $arccos⁡(a)\arccos(a)arccos(a)$, pagrindžiant, kodėl $arcsin⁡(a)∈[−π2;π2]\arcsin(a)∈[-\frac π2; \frac π2]arcsin(a)∈[−2π​;2π​]$, $arccos⁡(a)∈[0;π]\arccos(a) ∈[0; π]arccos(a)∈[0;π]$, ir arksinusas bei arkkosinusas turi prasmę, kai $a∈[−1;1]a∈[-1;1]a∈[−1;1]$.
+Apibrėžiami skaičiai $\arcsin(a)$ ir $\arccos(a)$, pagrindžiant, kodėl $\arcsin(a)∈[-\frac π2; \frac π2]$, $\arccos(a) ∈[0; π]$, ir arksinusas bei arkkosinusas turi prasmę, kai $a∈[-1;1]$.
 
-Apibrėžiami skaičiai $arctg⁡(a)\arctg(a)arctg(a)$, pagrindžiant, kodėl $arctg⁡(a)∈(−π2;π2)\arctg(a)∈(-\frac π2; \frac π2)arctg(a)∈(−2π​;2π​)$ ir arktangentas turi prasmę, kai $a∈Ra∈\mathbb{R}a∈R$.
+Apibrėžiami skaičiai $\arctg(a)$, pagrindžiant, kodėl $\arctg(a)∈(-\frac π2; \frac π2)$ ir arktangentas turi prasmę, kai $a∈\mathbb{R}$.
 
 Praktikuojamasi apskaičiuoti tikslias ir apytiksles (naudojantis skaičiuotuvu) sinuso, kosinuso, tangento ir arksinuso, arkkosinuso, arktangento reikšmes.
 
@@ -1210,35 +1210,35 @@ Praktikuojamasi apskaičiuoti tikslias ir apytiksles (naudojantis skaičiuotuvu)
 
 Apibrėžiama, kokios skaičių sekos vadinamos aritmetinėmis progresijomis ir kokios – geometrinėmis progresijomis.
 
-Apibrėžiamos sąvokos: pirmasis skaičių sekos narys, $nnn$-tasis skaičių sekos narys, begalinė skaičių seka, baigtinė skaičių seka, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis, aritmetinės progresijos $nnn$-tojo nario formulė ir geometrinės progresijos $nnn$-tojo nario formulė.
+Apibrėžiamos sąvokos: pirmasis skaičių sekos narys, $n$-tasis skaičių sekos narys, begalinė skaičių seka, baigtinė skaičių seka, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis, aritmetinės progresijos $n$-tojo nario formulė ir geometrinės progresijos $n$-tojo nario formulė.
 
 Nagrinėjamos aritmetinės progresijos ir geometrinės progresijos formulės:
 
-$an=a1+d(n−1), an+1=an+an+22a_n=a_1+d(n-1),\ \ \ a_{n+1}=\frac {a_{n} + a_{n + 2}}2an​=a1​+d(n−1), an+1​=2an​+an+2​​$,
+$a_n=a_1+d(n-1),\ \ \ a_{n+1}=\frac {a_{n} + a_{n + 2}}2$,
 
-$Sn=a1+an2⋅n=2a1 + d(n−1)2⋅nS_n=\frac {a_1 + a_n}2 \cdot n=\frac {2a_1 \ + \ d(n-1)}2 \cdot nSn​=2a1​+an​​⋅n=22a1​ + d(n−1)​⋅n$ $(n∈N,d≠0)(n∈\mathbb{N}, d≠0)(n∈N,d=0)$;
+$S_n=\frac {a_1 + a_n}2 \cdot n=\frac {2a_1 \ + \ d(n-1)}2 \cdot n$ $(n∈\mathbb{N}, d≠0)$;
 
-$bn=b1⋅qn−1, ∣bn+1∣=bn⋅bn+2b_n=b_1 \cdot q^{n-1},\ \ \ |b_{n+1}|=\sqrt{b_{n} \cdot b_{n+2}}bn​=b1​⋅qn−1, ∣bn+1​∣=bn​⋅bn+2​​$,
+$b_n=b_1 \cdot q^{n-1},\ \ \ |b_{n+1}|=\sqrt{b_{n} \cdot b_{n+2}}$,
 
-$Sn=b1⋅(qn−1)q−1=bn⋅q−b1q−1 (n∈N,q≠1) S_n=\frac {b_1 \cdot (q^n-1)}{q-1}=\frac {b_n \cdot q-b_1}{q-1}\ \ (n∈\mathbb{N}, q≠1)Sn​=q−1b1​⋅(qn−1)​=q−1bn​⋅q−b1​​ (n∈N,q=1)$.
+$ S_n=\frac {b_1 \cdot (q^n-1)}{q-1}=\frac {b_n \cdot q-b_1}{q-1}\ \ (n∈\mathbb{N}, q≠1)$.
 
-Įrodomos aritmetinės progresijos ir geometrinės progresijos formulės ($nnn$-tojo nario, viduriniojo nario, pirmųjų $nnn$ narių sumos).
+Įrodomos aritmetinės progresijos ir geometrinės progresijos formulės ($n$-tojo nario, viduriniojo nario, pirmųjų $n$ narių sumos).
 
 Apibrėžiama, kokios geometrinės progresijos vadinamos nykstamosiomis.
 
 Nagrinėjant nykstamąją geometrinę progresiją
 
-$12,14,18,…,12n,…(n∈N,n→∞),\frac 12,\frac 14,\frac 18, … ,\frac 1{2^n} , …(n∈\mathbb{N}, n\to \infty ),21​,41​,81​,…,2n1​,…(n∈N,n→∞),$
+$\frac 12,\frac 14,\frac 18, … ,\frac 1{2^n} , …(n∈\mathbb{N}, n\to \infty ),$
 
-jos suma $12+14+18+…=1\frac 12+\frac14+\frac18+ …=121​+41​+81​+…=1$ pagrindžiama geometriškai.
+jos suma $\frac 12+\frac14+\frac18+ …=1$ pagrindžiama geometriškai.
 
-Nagrinėjant begalinę dešimtainę periodinę trupmeną $0,(9)0{,}(9)0,(9)$, įsitikinama, kad ją galima užrašyti kaip begalinės nykstamosios geometrinės progresijos sumą, ir įrodoma, kad
+Nagrinėjant begalinę dešimtainę periodinę trupmeną $0{,}(9)$, įsitikinama, kad ją galima užrašyti kaip begalinės nykstamosios geometrinės progresijos sumą, ir įrodoma, kad
 
-$0,(9)=10{,}(9)=10,(9)=1$.
+$0{,}(9)=1$.
 
 Įrodoma nykstamosios geometrinės progresijos sumos formulė
 
-$S=b11−qS=\frac {b_1}{1-q}S=1−qb1​​$
+$S=\frac {b_1}{1-q}$
 
 ir mokomasi ja naudotis, sprendžiant uždavinius.
 
@@ -1256,19 +1256,19 @@ Apibrėžiamos sąvokos: lyginė funkcija; nelyginė funkcija; nei lyginė, nei 
 
 Įvedama sudėtinės funkcijos sąvoka, pateikiama tokių funkcijų pavyzdžių, mokomasi iš duotųjų funkcijų sudaryti sudėtines funkcijas.
 
-Nagrinėjamos funkcijų grafikų transformacijos ir mokomasi, naudojantis žinomu funkcijos $y=f(x)y=f(x)y=f(x)$ grafiku, nubraižyti transformuotos funkcijos grafiką.
+Nagrinėjamos funkcijų grafikų transformacijos ir mokomasi, naudojantis žinomu funkcijos $y=f(x)$ grafiku, nubraižyti transformuotos funkcijos grafiką.
 
 Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip atliekamos tokiomis formulėmis aprašomos transformacijos:
 
-$y=f(x)+a, y=f(x+a), y=−f(x), y=a⋅f(x)y=f(x)+a, \ \ \ y=f(x+a),\ \ \ y=-f(x),\ \ \ y=a⋅f(x)y=f(x)+a, y=f(x+a), y=−f(x), y=a⋅f(x)$,
+$y=f(x)+a, \ \ \ y=f(x+a),\ \ \ y=-f(x),\ \ \ y=a⋅f(x)$,
 
-$y=f(−x), y=f(a⋅x), y=∣f(x)∣ y=f(-x), \ \ \ y=f(a⋅x), \ \ \ y=|f(x)|y=f(−x), y=f(a⋅x), y=∣f(x)∣$.
+$ y=f(-x), \ \ \ y=f(a⋅x), \ \ \ y=|f(x)|$.
 
-Skaitiniais pavyzdžiais aiškinama, grafiškai iliustruojama funkcijos $y=f(x)y=f(x)y=f(x)$ ribos apibrėžimo srities vidiniame taške $(x=a)(x=a)(x=a)$ sąvoka $(lim⁡x→ af(x))(\lim\limits_{x\to\ a}f(x))(x→ alim​f(x))$ ir ribos, kai $xxx$ reikšmės neaprėžtai didėja, mažėja $(x→±∞)(x→±∞)(x→±∞)$ sąvoka $(lim⁡x→ ±∞f(x))(\lim\limits_{x\to\ ±∞}f(x))(x→ ±∞lim​f(x))$.
+Skaitiniais pavyzdžiais aiškinama, grafiškai iliustruojama funkcijos $y=f(x)$ ribos apibrėžimo srities vidiniame taške $(x=a)$ sąvoka $(\lim\limits_{x\to\ a}f(x))$ ir ribos, kai $x$ reikšmės neaprėžtai didėja, mažėja $(x→±∞)$ sąvoka $(\lim\limits_{x\to\ ±∞}f(x))$.
 
 Pateikiami ir aptariami ribų skaičiavimo pavyzdžiai, pavyzdžiui:
 
-$lim⁡x→21x=12, lim⁡x→+∞1x=+0, lim⁡x→−∞1x=−0, lim⁡x→+01x=+∞, lim⁡x→−01x=−∞\lim\limits_{x \to 2} \frac{1}{x} = \frac{1}{2}, \ \ \lim\limits_{x \to +\infty} \frac{1}{x} = +0,\ \ \lim\limits_{x \to -\infty} \frac{1}{x} = -0,\ \ \lim\limits_{x \to +0} \frac{1}{x} = +\infty,\ \ \lim\limits_{x \to -0} \frac{1}{x} = -\inftyx→2lim​x1​=21​, x→+∞lim​x1​=+0, x→−∞lim​x1​=−0, x→+0lim​x1​=+∞, x→−0lim​x1​=−∞$.
+$\lim\limits_{x \to 2} \frac{1}{x} = \frac{1}{2}, \ \ \lim\limits_{x \to +\infty} \frac{1}{x} = +0,\ \ \lim\limits_{x \to -\infty} \frac{1}{x} = -0,\ \ \lim\limits_{x \to +0} \frac{1}{x} = +\infty,\ \ \lim\limits_{x \to -0} \frac{1}{x} = -\infty$.
 
 Mokoma(si) naudotis funkcijų grafikų eskizais, grafiškai sprendžiant lygtis, nelygybes ir dviejų lygčių su dviem nežinomaisiais sistemas.
 
@@ -1276,27 +1276,27 @@ Mokoma(si) naudotis funkcijų grafikų eskizais, grafiškai sprendžiant lygtis,
 
 . Tiriamos paprasčiausios natūraliojo laipsnio funkcijos
 
-$y=f(x)=xn (n∈N),y=f(x)=x^n \ \ (n∈\mathbb{N}),y=f(x)=xn (n∈N),$
+$y=f(x)=x^n \ \ (n∈\mathbb{N}),$
 
 aptariant lyginio ir nelyginio laipsnio funkcijų savybes bei grafikų eskizus; paprasčiausių neigiamo sveikojo laipsnio funkcijų
 
-$y=f(x)=x−n (n∈{1;2;3;4})y=f(x)=x^{-n}\ \ (n∈{\{1;2;3;4\}})y=f(x)=x−n (n∈{1;2;3;4})$
+$y=f(x)=x^{-n}\ \ (n∈{\{1;2;3;4\}})$
 
 savybes ir grafikų eskizus.
 
 Tiriamos funkcijos
 
-$y=f(x)=xn (n∈N,n>1)y=f(x)=\sqrt[n]x \ \ (n∈\mathbb{N},n>1)y=f(x)=nx​ (n∈N,n>1)$,
+$y=f(x)=\sqrt[n]x \ \ (n∈\mathbb{N},n>1)$,
 
 aptariant lyginio ir nelyginio šaknies laipsnio funkcijų savybes bei grafikų eskizus.
 
-Mokoma(si) užrašyti šaknies funkcijos $y=f(x)=xn (n∈N,n>1)y=f(x)=\sqrt [n]x \ \ (n∈\mathbb{N},n>1)y=f(x)=nx​ (n∈N,n>1)$ formulę, kai yra žinomos grafikui priklausančio taško, nesutampančio su tašku $(1;1) (1;1)(1;1)$, koordinatės.
+Mokoma(si) užrašyti šaknies funkcijos $y=f(x)=\sqrt [n]x \ \ (n∈\mathbb{N},n>1)$ formulę, kai yra žinomos grafikui priklausančio taško, nesutampančio su tašku $ (1;1)$, koordinatės.
 
 Naudojantis skaitmeninėmis priemonėmis, nagrinėjama, kaip kinta laipsninės ir šaknies funkcijų grafikai, priklausomai nuo laipsnio rodiklio ir šaknies laipsnio. Naudojantis šių funkcijų grafikų eskizais, mokoma(si) grafiškai spręsti lygtis ir nelygybes
 
-$a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k≠0)a\cdot f(kx+b) +c ⋛ 0\ \ (a, k, b, c∈\mathbb{R}, a, k \neq 0)a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k=0)$,
+$a\cdot f(kx+b) +c ⋛ 0\ \ (a, k, b, c∈\mathbb{R}, a, k \neq 0)$,
 
-čia$f(x)=xn (n∈{−4,−3,−2,−1,1,2,3,… })f(x) = x^n \ (n \in \{-4, -3, -2, -1, 1, 2, 3, \dots\})f(x)=xn (n∈{−4,−3,−2,−1,1,2,3,…})$, $f(x)=xn (n∈N,n>1).f(x) = \sqrt[n]{x} \ (n∈\mathbb{N},n>1).f(x)=nx​ (n∈N,n>1).$
+čia$f(x) = x^n \ (n \in \{-4, -3, -2, -1, 1, 2, 3, \dots\})$, $f(x) = \sqrt[n]{x} \ (n∈\mathbb{N},n>1).$
 
 Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos laipsninėmis ar šaknies funkcijomis, pavyzdžiai.
 
@@ -1304,17 +1304,17 @@ Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos laipsnin�
 
 . Apibrėžiama rodiklinė funkcija
 
-$y=f(x)=ax (a>0,a≠1)y=f(x)=a^x \ \ (a>0,a≠1)y=f(x)=ax (a>0,a=1)$,
+$y=f(x)=a^x \ \ (a>0,a≠1)$,
 
 logaritminė funkcija
 
-$y=f(x)=log⁡a⁡(x) (a>0,a≠1).y=f(x)=\log_a⁡(x) \ \ (a>0, a≠1).y=f(x)=loga​⁡(x) (a>0,a=1).$
+$y=f(x)=\log_a⁡(x) \ \ (a>0, a≠1).$
 
 Išsiaiškinami charakteringi taškai, tiriamos funkcijų savybės. Mokoma(si) atpažinti funkcijas iš jų grafikų eskizų, parašyti funkcijų formules, kai nurodytas funkcijos grafikui priklausantis taškas. Naudojantis šių funkcijų grafikų eskizais, mokoma(si) grafiškai spręsti lygtis ir nelygybes
 
-$a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k≠0)a\cdot f(kx+b) +c ⋛ 0\ \ (a, k, b, c∈\mathbb{R}, a, k \neq 0)a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k=0)$,
+$a\cdot f(kx+b) +c ⋛ 0\ \ (a, k, b, c∈\mathbb{R}, a, k \neq 0)$,
 
-čia $f(x)=dx,f(x)=log⁡t(x) (t>0,t≠1).f(x) = d^x , f(x)=\log_t(x) \ (t>0,t≠1).f(x)=dx,f(x)=logt​(x) (t>0,t=1).$
+čia $f(x) = d^x , f(x)=\log_t(x) \ (t>0,t≠1).$
 
 Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos rodiklinėmis ar logaritminėmis funkcijomis, pavyzdžiai.
 
@@ -1322,19 +1322,19 @@ Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos rodiklin�
 
 Nagrinėjamos pagrindinės trigonometrinės funkcijos
 
-$y=f(x)=sin⁡⁡(x), y=f(x)=cos⁡⁡(x), y=f(x)=tg⁡⁡(x).y=f(x)=\sin⁡(x), \ \ \ y=f(x)=\cos⁡(x), \ \ \ y=f(x)=\tg⁡(x). y=f(x)=sin⁡(x), y=f(x)=cos⁡(x), y=f(x)=tg⁡(x).$
+$y=f(x)=\sin⁡(x), \ \ \ y=f(x)=\cos⁡(x), \ \ \ y=f(x)=\tg⁡(x). $
 
 Braižomi sinusoidės, kosinusoidės ir tangentoidės grafikų eskizai. Mokoma(si) rasti funkcijos apibrėžimo, reikšmių sritis, vaizduoti funkcijos grafiko eskizą, nustatyti funkcijos lyginumą, nustatyti funkcijos mažiausiąjį teigiamąjį periodą, rasti funkcijos nulius, rasti funkcijos didžiausiąją ir mažiausiąją reikšmes visoje apibrėžimo srityje ir nurodytame uždarame apibrėžimo srities intervale, rasti funkcijos apibrėžimo srities reikšmes, kurioms esant funkcija yra didėjančioji ar mažėjančioji, yra teigiamoji ar neigiamoji.
 
 Mokoma(si) nustatyti funkcijos
 
-$y=a⋅f(kx+b)+c (a,k,b,c∈R,a,k≠0; f(x)=sin⁡(x),cos⁡(x),tg⁡(x))y=a\cdot f(kx+b)+c\ \ (a,k,b,c∈\mathbb{R}, a,k≠0; \ f(x) = \sin (x), \cos (x), \tg (x))y=a⋅f(kx+b)+c (a,k,b,c∈R,a,k=0; f(x)=sin(x),cos(x),tg(x))$
+$y=a\cdot f(kx+b)+c\ \ (a,k,b,c∈\mathbb{R}, a,k≠0; \ f(x) = \sin (x), \cos (x), \tg (x))$
 
 savybes.
 
 Mokoma(si) grafiškai spręsti lygtis ir nelygybes
 
-$a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k≠0; f(x)=sin⁡(x),cos⁡(x),tg⁡(x))a\cdot f(kx+b)+c⋛0\ \ (a,k,b,c∈\mathbb{R},a,k≠0;\ f(x) = \sin (x), \cos (x), \tg (x))a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k=0; f(x)=sin(x),cos(x),tg(x))$.
+$a\cdot f(kx+b)+c⋛0\ \ (a,k,b,c∈\mathbb{R},a,k≠0;\ f(x) = \sin (x), \cos (x), \tg (x))$.
 
 #### Lygtys
 
@@ -1342,45 +1342,45 @@ $a⋅f(kx+b)+c⋛0 (a,k,b,c∈R,a,k≠0; f(x)=sin⁡(x),cos⁡(x),tg⁡(x))a\cdo
 
 . Įvedama lygties su parametru sąvoka, mokomasi rasti pirmojo ir antrojo laipsnio parametrinių lygčių
 
-$ax+b=0, ax2+bx+c=0 (a,b,c∈R)ax+b=0,\ \ ax^2+bx+c=0\ \ (a,b,c∈\mathbb{R})ax+b=0, ax2+bx+c=0 (a,b,c∈R)$
+$ax+b=0,\ \ ax^2+bx+c=0\ \ (a,b,c∈\mathbb{R})$
 
 sprendinius.
 
 Nagrinėjamos aukštesnio negu antrojo laipsnio lygtys, kurias galima spręsti, suteikiant pavidalą
 
-$(ax+b)(cx+d)⋯(kx+q)=0(ax+b)(cx+d)\cdots(kx+q)=0(ax+b)(cx+d)⋯(kx+q)=0$,
+$(ax+b)(cx+d)\cdots(kx+q)=0$,
 
-t. y. lygties $f(x)=0f(x)=0f(x)=0$ reiškinį $f(x)f(x)f(x)$ skaidant dauginamaisiais.
+t. y. lygties $f(x)=0$ reiškinį $f(x)$ skaidant dauginamaisiais.
 
 Sprendžiamos bikvadratinės lygtys.
 
 Mokoma(si) spręsti lygtis, suteikiant pavidalą
 
-$f(x)g(x)=0\frac{f(x)}{g(x)} =0g(x)f(x)​=0$.
+$\frac{f(x)}{g(x)} =0$.
 
-Aptariama, kad trupmeninę racionaliąją lygtį $f(x)g(x)=0\frac{f(x)}{g(x)} =0g(x)f(x)​=0$ galima spręsti naudojantis trupmenos lygios 0 savybe; naikinant vardiklius, t. y. ją dauginant iš lygtį sudarančių trupmenų bendrojo vardiklio. Analizuojama, kuo šie abu būdai skiriasi.
+Aptariama, kad trupmeninę racionaliąją lygtį $\frac{f(x)}{g(x)} =0$ galima spręsti naudojantis trupmenos lygios 0 savybe; naikinant vardiklius, t. y. ją dauginant iš lygtį sudarančių trupmenų bendrojo vardiklio. Analizuojama, kuo šie abu būdai skiriasi.
 
 #### Iracionaliosios lygtys
 
 . Apibrėžiama iracionaliosios lygties sąvoka. Nagrinėjamos iracionaliosios lygtys, kurioms galima suteikti pavidalą
 
-$f(x)=g(x), f(x)=g(x)+a\sqrt{f(x)}=g(x),\ \sqrt{f(x)}=\sqrt {g(x)}+af(x)​=g(x), f(x)​=g(x)​+a$.
+$\sqrt{f(x)}=g(x),\ \sqrt{f(x)}=\sqrt {g(x)}+a$.
 
 Analizuojama, kodėl ir kada gautuosius pertvarkytosios lygties sprendinius būtina tikrinti, kodėl tarp pertvarkytosios lygties sprendinių gali atsirasti tokių, kurie nėra duotosios iracionaliosios lygties sprendiniai.
 
 Mokoma(si) spręsti nesudėtingas iracionaliąsias lygtis
 
-$f(x)n=a (n=3,4,…)\sqrt[n]{f(x)}=a \ (n=3, 4,…)nf(x)​=a (n=3,4,…)$.
+$\sqrt[n]{f(x)}=a \ (n=3, 4,…)$.
 
 #### Rodiklinės lygtys
 
 . Nagrinėjamos nesudėtingos lygtys, kurių nežinomasis yra laipsnio (laipsnių) rodiklyje (rodikliuose). Aiškinama(si), kad tokias lygtis patogu spręsti, suteikiant joms pavidalą
 
-$af(x)=ag(x) (a>0,a≠1).a^{f(x)} =a^{g(x)} \ \ (a>0,a≠1).af(x)=ag(x) (a>0,a=1).$
+$a^{f(x)} =a^{g(x)} \ \ (a>0,a≠1).$
 
 Mokoma(si) spręsti rodiklines lygtis
 
-$t⋅a2x+k⋅ax+p=0 (t,k,p∈R)t\cdot a^{2x} + k\cdot a^x+ p=0\ \ (t, k, p∈\mathbb{R})t⋅a2x+k⋅ax+p=0 (t,k,p∈R)$,
+$t\cdot a^{2x} + k\cdot a^x+ p=0\ \ (t, k, p∈\mathbb{R})$,
 
 kurias patogu spręsti, įvedant naują nežinomąjį.
 
@@ -1388,7 +1388,7 @@ kurias patogu spręsti, įvedant naują nežinomąjį.
 
 . Nagrinėjamos nesudėtingos lygtys, kurių nežinomasis yra logaritmo (-ų) reiškinyje (-iuose). Aiškinama(si), kad tokias lygtis patogu spręsti, suteikiant joms pavidalą
 
-$log⁡a(⁡f(x))=log⁡a⁡(g(x))\log_a(⁡f(x))=\log_a⁡(g(x))loga​(⁡f(x))=loga​⁡(g(x))$.
+$\log_a(⁡f(x))=\log_a⁡(g(x))$.
 
 Analizuojama, kada ir kodėl būtina atsižvelgti į logaritmo apibrėžimo sritį, gautuosius sprendinius tikrinti (juos įrašant į duotąją lygtį).
 
@@ -1398,7 +1398,7 @@ Nagrinėjamos nesudėtingos logaritminės lygtys, kurių nežinomasis yra logari
 
 . Nagrinėjamos nesudėtingos lygtys su moduliais, kurioms galima suteikti pavidalą
 
-$∣f(x)∣=a, ∣f(x)∣=g(x)|f(x)|=a,\ \ \ |f(x)|=g(x)∣f(x)∣=a, ∣f(x)∣=g(x)$.
+$|f(x)|=a,\ \ \ |f(x)|=g(x)$.
 
 Mokoma(si) tokias lygtis spręsti, naudojantis modulio samprata.
 
@@ -1406,9 +1406,9 @@ Mokoma(si) tokias lygtis spręsti, naudojantis modulio samprata.
 
 . Prisimenama, kad lygtyje gali būti ir daugiau negu vienas nežinomasis. Pateikiama tokių lygčių su dviem nežinomaisiais pavyzdžių:
 
-$ax+by+c=0 (a,b,c∈R)ax+by+c=0\ \ (a,b,c∈\mathbb{R})ax+by+c=0 (a,b,c∈R)$ – tiesės lygtis;
+$ax+by+c=0\ \ (a,b,c∈\mathbb{R})$ – tiesės lygtis;
 
-$(x−a)2+(y−b)2=r2(x-a)^2+(y-b)^2=r^2(x−a)2+(y−b)2=r2$ – apskritimo lygtis $(a,b(a, b(a,b$ – apskritimo centro koordinatės, $r{r}r$ – apskritimo spindulio ilgis);
+$(x-a)^2+(y-b)^2=r^2$ – apskritimo lygtis $(a, b$ – apskritimo centro koordinatės, ${r}$ – apskritimo spindulio ilgis);
 
 mokomasi rasti ir užrašyti tokios lygties kelis sprendinius bei visų sprendinių aibę.
 
@@ -1418,13 +1418,13 @@ Mokoma(si) spręsti daugiau negu dviejų lygčių su daugiau negu dviem nežinom
 
 #### Racionaliosios nelygybės
 
-Aiškinamasi intervalų metodo esmė ir universalumas. Nagrinėjamos antrojo laipsnio, aukštesnio negu antrojo laipsnio nelygybės, praktikuojamasi jas spręsti intervalų metodu. Mokoma(si) trupmenines racionaliąsias nelygybes spręsti, suteikiant pavidalą $f(x)g(x)⋛0\frac{f(x)}{g(x)} ⋛0g(x)f(x)​⋛0$, naudojantis intervalų metodu arba nelygybę keičiant nelygybių sistemų visuma. Mokoma(si) spręsti dviejų ar daugiau racionaliųjų nelygybių sistemas bei mišrias lygčių ir nelygybių (su vienu nežinomuoju) sistemas.
+Aiškinamasi intervalų metodo esmė ir universalumas. Nagrinėjamos antrojo laipsnio, aukštesnio negu antrojo laipsnio nelygybės, praktikuojamasi jas spręsti intervalų metodu. Mokoma(si) trupmenines racionaliąsias nelygybes spręsti, suteikiant pavidalą $\frac{f(x)}{g(x)} ⋛0$, naudojantis intervalų metodu arba nelygybę keičiant nelygybių sistemų visuma. Mokoma(si) spręsti dviejų ar daugiau racionaliųjų nelygybių sistemas bei mišrias lygčių ir nelygybių (su vienu nežinomuoju) sistemas.
 
 #### Rodiklinės nelygybės
 
 Nagrinėjamos nesudėtingos nelygybės, kurių nežinomasis yra laipsnio (laipsnių) rodiklyje (rodikliuose). Aiškinama(si), kad tokias nelygybes patogu spręsti, suteikiant joms pavidalą
 
-$af(x)⋛ag(x)a^{f(x)} ⋛a^{g(x)}af(x)⋛ag(x)$,
+$a^{f(x)} ⋛a^{g(x)}$,
 
 o tada pereinant prie rodiklių nelygybės.
 
@@ -1432,7 +1432,7 @@ o tada pereinant prie rodiklių nelygybės.
 
 Nagrinėjamos nesudėtingos nelygybės, kurių nežinomasis yra logaritmo (logaritmų) reiškinyje (reiškiniuose). Aiškinama(si), kad tokias nelygybes patogu spręsti, suteikiant joms pavidalą
 
-$log⁡a(⁡f(x))⋛log⁡a⁡(g(x))\log_a(⁡f(x))⋛\log_a⁡(g(x))loga​(⁡f(x))⋛loga​⁡(g(x))$,
+$\log_a(⁡f(x))⋛\log_a⁡(g(x))$,
 
 o tada pereinant prie logaritmų reiškinių nelygybės. Analizuojama, kada ir kodėl būtina atsižvelgti į logaritmo apibrėžimo sritį.
 
@@ -1440,7 +1440,7 @@ o tada pereinant prie logaritmų reiškinių nelygybės. Analizuojama, kada ir k
 
 Nagrinėjamos nesudėtingos nelygybės su moduliais, kurioms galima suteikti pavidalą
 
-$∣f(x)∣⋛a, ∣f(x)∣⋛g(x)|f(x)|⋛a, \ \ |f(x)|⋛g(x)∣f(x)∣⋛a, ∣f(x)∣⋛g(x)$.
+$|f(x)|⋛a, \ \ |f(x)|⋛g(x)$.
 
 Mokoma(si) tokias nelygybes spręsti, naudojantis modulio samprata.
 
@@ -1450,9 +1450,9 @@ Mokoma(si) tokias nelygybes spręsti, naudojantis modulio samprata.
 
 Apibrėžiamas kampas tarp vektorių. Apibrėžiama dviejų vektorių skaliarinė sandauga, mokoma(si) skaliariškai dauginti vektorius. Įrodoma, kad vektoriaus kvadratas (vektoriaus skaliarinė sandauga su pačiu savimi) yra lygus vektoriaus ilgio kvadratui. Primenama, kaip randama vektorių suma (naudojantis trikampio ir lygiagretainio taisyklėmis; paaiškinama daugiakampio taisyklė), vektorių skirtumas, vektoriaus ir skaičiaus sandauga. Mokoma(si) nurodytą daugiakampio vektorių išreikšti kitais nurodytais to daugiakampio vektoriais. Apibrėžiama ir paaiškinama dviejų vektorių skaliarinė sandauga, mokoma(si) skaliariškai dauginti vektorius, pabrėžiant, kad skaliarinės sandaugos rezultatas yra skaičius, o ne vektorius. Veiksmams su vektoriais taikomos žinomos veiksmų su skaičiais savybės:
 
-$a⃗+b⃗=b⃗+a⃗, a⃗+(b⃗+c⃗ )=(a⃗+b⃗)+c⃗, c⋅(a⃗+b⃗ )=c⋅a⃗+c⋅b⃗\vec a +\vec b=\vec b +\vec a ,\ \ \ \vec a+(\vec b +\vec c )=(\vec a +\vec b)+\vec c,\ \ \ c\cdot(\vec a +\vec b )=c\cdot\vec{a}+c\cdot\vec{b}a+b=b+a, a+(b+c )=(a+b)+c, c⋅(a+b )=c⋅a+c⋅b$,
+$\vec a +\vec b=\vec b +\vec a ,\ \ \ \vec a+(\vec b +\vec c )=(\vec a +\vec b)+\vec c,\ \ \ c\cdot(\vec a +\vec b )=c\cdot\vec{a}+c\cdot\vec{b}$,
 
-$a⃗⋅b⃗=b⃗⋅a⃗, (c⋅a⃗)⋅b⃗=c⋅(a⃗⋅b⃗), (a⃗+b⃗)⋅c⃗=a⃗⋅c⃗+b⃗⋅c⃗.\vec a\cdot \vec b =\vec b\cdot \vec a, \ \ \ (c\cdot \vec a )\cdot \vec b=c\cdot (\vec a\cdot \vec b),\ \ \ (\vec a+\vec b )\cdot \vec c =\vec a \cdot \vec c +\vec b \cdot \vec c.a⋅b=b⋅a, (c⋅a)⋅b=c⋅(a⋅b), (a+b)⋅c=a⋅c+b⋅c.$
+$\vec a\cdot \vec b =\vec b\cdot \vec a, \ \ \ (c\cdot \vec a )\cdot \vec b=c\cdot (\vec a\cdot \vec b),\ \ \ (\vec a+\vec b )\cdot \vec c =\vec a \cdot \vec c +\vec b \cdot \vec c.$
 
 #### Vektoriai stačiakampėje koordinačių plokštumoje
 
@@ -1476,11 +1476,11 @@ Apibrėžiami kolinearieji ir statmenieji vektoriai. Analizuojamos dviejų vekto
 
 Mokomasi tapačiai pertvarkyti skaitinius ir raidinius reiškinius, taikant formules:
 
-$sin⁡2(α)+cos⁡2(α)=1, tg⁡⁡(α)=sin⁡⁡(α)cos⁡⁡(α)\sin^2 (α)+\cos^2 (α)=1,\ \ \tg⁡(α)= \frac {\sin⁡ (α)} {\cos⁡ (α)}sin2(α)+cos2(α)=1, tg⁡(α)=cos⁡(α)sin⁡(α)​$,
+$\sin^2 (α)+\cos^2 (α)=1,\ \ \tg⁡(α)= \frac {\sin⁡ (α)} {\cos⁡ (α)}$,
 
-$sin⁡⁡(−α)=−sin⁡⁡(α), cos⁡⁡(−α)=cos⁡⁡(α), tg⁡⁡(−α)=−tg⁡⁡(α), 1+tg⁡2(α)=1cos⁡2(α)\sin⁡(-α)=-\sin⁡ (α),\ \ \cos⁡(-α)=\cos⁡ (α),\ \ \tg⁡(-α)=-\tg⁡(α), \ \ \ 1+\tg^2 (α)= \frac {1} {\cos^2 (α)}sin⁡(−α)=−sin⁡(α), cos⁡(−α)=cos⁡(α), tg⁡(−α)=−tg⁡(α), 1+tg2(α)=cos2(α)1​$,
+$\sin⁡(-α)=-\sin⁡ (α),\ \ \cos⁡(-α)=\cos⁡ (α),\ \ \tg⁡(-α)=-\tg⁡(α), \ \ \ 1+\tg^2 (α)= \frac {1} {\cos^2 (α)}$,
 
-$sin⁡⁡(α+360°⋅k)=sin⁡⁡(α), cos⁡⁡(α+360°⋅k)=cos⁡⁡(α), tg⁡⁡(α+180°⋅k)=tg⁡(⁡α)\sin⁡(α+360° \cdot k)=\sin⁡(α),\ \ \cos⁡(α+360° \cdot k)=\cos⁡(α),\ \ \tg⁡(α+180° \cdot k)=\tg(⁡α)sin⁡(α+360°⋅k)=sin⁡(α), cos⁡(α+360°⋅k)=cos⁡(α), tg⁡(α+180°⋅k)=tg(⁡α)$, $k∈Zk \in \mathbb{Z}k∈Z$.
+$\sin⁡(α+360° \cdot k)=\sin⁡(α),\ \ \cos⁡(α+360° \cdot k)=\cos⁡(α),\ \ \tg⁡(α+180° \cdot k)=\tg(⁡α)$, $k \in \mathbb{Z}$.
 
 Nagrinėjami situacijų, kai sudaromos ir sprendžiamos trigonometrinės lygtys, pavyzdžiai.
 
@@ -1488,13 +1488,13 @@ Aptariama, kada patogu trigonometrines lygtis spręsti algebriniu būdu.
 
 Pateikiamos ir aptariamos lygčių
 
-$sin⁡⁡(x)=a (a∈[−1;1]), cos⁡⁡(x)=a (a∈[−1;1]), tg⁡(⁡x)=a (a∈R)\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos⁡(x)=a\ (a \in [-1; 1]),\ \ \ \tg(⁡x)=a\ (a ∈ \mathbb{R})sin⁡(x)=a (a∈[−1;1]), cos⁡(x)=a (a∈[−1;1]), tg(⁡x)=a (a∈R)$
+$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos⁡(x)=a\ (a \in [-1; 1]),\ \ \ \tg(⁡x)=a\ (a ∈ \mathbb{R})$
 
 sprendinių formulės.
 
 Mokoma(si) spręsti
 
-$a⋅f(x)+b=0a \cdot f(x)+b=0a⋅f(x)+b=0$; čia $f(x)=sin⁡(⁡x),cos⁡(x),tg⁡(x); a,b∈R, a≠0,f(x)= \sin(⁡x), \cos (x), \tg (x);\ a, b ∈ \mathbb{R}, \ a ≠0,f(x)=sin(⁡x),cos(x),tg(x); a,b∈R, a=0,$
+$a \cdot f(x)+b=0$; čia $f(x)= \sin(⁡x), \cos (x), \tg (x);\ a, b ∈ \mathbb{R}, \ a ≠0,$
 
 pavidalo lygtis.
 
@@ -1504,25 +1504,25 @@ Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
 #### Funkcijos išvestinės samprata
 
-Aiškinama(si), ką vadiname funkcijos argumento pokyčiu ir funkcijos reikšmės pokyčiu. Šių pokyčių santykis $∆y∆x\frac {∆y} {∆x}∆x∆y​$ susiejamas su tiesės $y=kx+by=kx+by=kx+b$ krypties koeficientu $kkk$ ir paaiškinama, kaip su juo susijęs funkcijos reikšmių kitimas.
+Aiškinama(si), ką vadiname funkcijos argumento pokyčiu ir funkcijos reikšmės pokyčiu. Šių pokyčių santykis $\frac {∆y} {∆x}$ susiejamas su tiesės $y=kx+b$ krypties koeficientu $k$ ir paaiškinama, kaip su juo susijęs funkcijos reikšmių kitimas.
 
-Apibrėžiama tolydžios funkcijos $y=f(x)y=f(x)y=f(x)$ grafiko liestinės, einančios per nurodytą grafiko tašką, sąvoka, paaiškinama, kaip per grafiko tašką $(a;f(a))(a;f(a))(a;f(a))$ einanti liestinė apibūdina funkcijos reikšmių kitimą pereinant šį tašką (geometrinė išvestinės prasmė).
+Apibrėžiama tolydžios funkcijos $y=f(x)$ grafiko liestinės, einančios per nurodytą grafiko tašką, sąvoka, paaiškinama, kaip per grafiko tašką $(a;f(a))$ einanti liestinė apibūdina funkcijos reikšmių kitimą pereinant šį tašką (geometrinė išvestinės prasmė).
 
-Pateikiamas funkcijos $y=f(x)y=f(x)y=f(x)$ išvestinės taške, kurio $x=ax=ax=a$, ryšys su tame taške nubrėžtos funkcijos grafiko liestinės krypties koeficientu $(k=f′(a))(k= f' (a))(k=f′(a))$.
+Pateikiamas funkcijos $y=f(x)$ išvestinės taške, kurio $x=a$, ryšys su tame taške nubrėžtos funkcijos grafiko liestinės krypties koeficientu $(k= f' (a))$.
 
-Formuluojamas funkcijos $y=f(x)y=f(x)y=f(x)$ išvestinės taške $x=ax=ax=a$ apibrėžimas, išvestinės funkcijos $y=f′(x)y=f' (x)y=f′(x)$ apibrėžimas.
+Formuluojamas funkcijos $y=f(x)$ išvestinės taške $x=a$ apibrėžimas, išvestinės funkcijos $y=f' (x)$ apibrėžimas.
 
 Naudojantis funkcijos išvestinės apibrėžimu, mokomasi rasti pastoviosios, tiesinės ir kvadratinės funkcijų išvestines.
 
-Be įrodymo pateikiama laipsninės funkcijos $y=f(x)=xn (n∈Z)y=f(x)=x^n \ (n ∈\mathbb{Z})y=f(x)=xn (n∈Z)$ išvestinės radimo taisyklė ir taisyklės, kuriomis naudojantis galima apskaičiuoti išvestines:
+Be įrodymo pateikiama laipsninės funkcijos $y=f(x)=x^n \ (n ∈\mathbb{Z})$ išvestinės radimo taisyklė ir taisyklės, kuriomis naudojantis galima apskaičiuoti išvestines:
 
-$(a⋅f(x))′=a⋅f′(x)(a \cdot f(x))'=a\cdot f' (x)(a⋅f(x))′=a⋅f′(x)$,
+$(a \cdot f(x))'=a\cdot f' (x)$,
 
-$(f(x)+g(x))′=f′(x)+g′(x) (f(x)+g(x))'=f' (x)+g' (x)(f(x)+g(x))′=f′(x)+g′(x)$,
+$ (f(x)+g(x))'=f' (x)+g' (x)$,
 
-$((f(x)−g(x))′=f′(x)−g′(x)((f(x)-g(x))'=f'(x)-g'(x)((f(x)−g(x))′=f′(x)−g′(x)$.
+$((f(x)-g(x))'=f'(x)-g'(x)$.
 
-Mokoma(si) apskaičiuoti funkcijos išvestinės reikšmę duotame taške, spręsti lygtį $f′(x)=af'(x)=af′(x)=a$.
+Mokoma(si) apskaičiuoti funkcijos išvestinės reikšmę duotame taške, spręsti lygtį $f'(x)=a$.
 
 Nagrinėjant konkrečius pavyzdžius, aptariama fizikinė išvestinės prasmė.
 
@@ -1600,17 +1600,17 @@ Mokoma(si) diskutuoti apie statistinio tyrimo struktūrą, duomenų rinkimo sąl
 
 Sprendžiant uždavinius, naudojamasi tikimybės apibrėžimu ir tikimybių savybėmis:
 
-būtinojo įvykio tikimybė $P(buˉtinojo)=1\mathbf{P}(\mathrm{būtinojo}) = 1 P(buˉtinojo)=1$,
+būtinojo įvykio tikimybė $\mathbf{P}(\mathrm{būtinojo}) = 1 $,
 
-negalimojo įvykio $P(negalimojo)=0\mathbf{P}(\mathrm{negalimojo}) = 0 P(negalimojo)=0$,
+negalimojo įvykio $\mathbf{P}(\mathrm{negalimojo}) = 0 $,
 
-vienas kitam priešingų įvykių tikimybių suma $P(A)+P(A‾)=1\mathbf{P}(A)+\mathbf{P}(\overline{A})=1P(A)+P(A)=1$.
+vienas kitam priešingų įvykių tikimybių suma $\mathbf{P}(A)+\mathbf{P}(\overline{A})=1$.
 
 Nagrinėjami paprasčiausi dviejų trijų etapų bandymai (stochastiniai bandymai) ir su jo etapais susiję nepriklausomi ar priklausomi įvykiai (negrąžintinio ir grąžintinio ėmimo atvejai).
 
 Braižomi tikimybių medžiai ir analizuojami su bandymu susiję nesutaikomi įvykiai, mokomasi be formulių apskaičiuoti įvykių
 
-„$A{A}A$ arba $B{B}B$“, „$A{A}A$ ir $B{B}B$“
+„${A}$ arba ${B}$“, „${A}$ ir ${B}$“
 
 tikimybes, atkreipiamas dėmesys į jungtukų „ir“ bei „arba“ esmę.
 
@@ -1630,35 +1630,35 @@ Praktikuojamasi apskaičiuoti įvykių tikimybes.
 
 Mokomasi įrodyti trigonometrines formules:
 
-$1+tg⁡2(α)=1cos⁡2(α)1+\tg^2 (α)= \frac {1} {\cos^2 (α)}1+tg2(α)=cos2(α)1​$,
+$1+\tg^2 (α)= \frac {1} {\cos^2 (α)}$,
 
-$sin⁡⁡(α±β)=sin⁡⁡(α)cos⁡⁡(β)±cos⁡⁡(α)sin⁡(⁡β)\sin⁡(α±β)=\sin⁡(α)\cos⁡(β) ±\cos⁡(α)\sin(⁡β)sin⁡(α±β)=sin⁡(α)cos⁡(β)±cos⁡(α)sin(⁡β)$,
+$\sin⁡(α±β)=\sin⁡(α)\cos⁡(β) ±\cos⁡(α)\sin(⁡β)$,
 
-$cos⁡⁡(α±β)=cos⁡⁡(α)cos⁡⁡(β)∓sin⁡(⁡α)sin⁡⁡(β)\cos⁡(α±β)=\cos⁡(α)\cos⁡(β)∓\sin(⁡α)\sin⁡(β)cos⁡(α±β)=cos⁡(α)cos⁡(β)∓sin(⁡α)sin⁡(β)$,
+$\cos⁡(α±β)=\cos⁡(α)\cos⁡(β)∓\sin(⁡α)\sin⁡(β)$,
 
-$tg⁡⁡(α±β)=tg⁡⁡(α)±tg⁡⁡(β)1∓tg⁡(⁡α)tg⁡⁡(β)\tg⁡(α±β)=\frac{ \tg⁡(α)±\tg⁡(β)}{1∓\tg(⁡α)\tg⁡(β)}tg⁡(α±β)=1∓tg(⁡α)tg⁡(β)tg⁡(α)±tg⁡(β)​$,
+$\tg⁡(α±β)=\frac{ \tg⁡(α)±\tg⁡(β)}{1∓\tg(⁡α)\tg⁡(β)}$,
 
-$tg⁡⁡(2α)=2tg⁡⁡(α)1−tg⁡2(α)\tg⁡(2α)= \frac {2 \tg⁡(α)} {1-\tg^2 (α)}tg⁡(2α)=1−tg2(α)2tg⁡(α)​$,
+$\tg⁡(2α)= \frac {2 \tg⁡(α)} {1-\tg^2 (α)}$,
 
-$sin⁡⁡(2α)=2sin⁡⁡(α)cos⁡⁡(α)\sin⁡(2α)=2 \sin⁡(α)\cos⁡(α)sin⁡(2α)=2sin⁡(α)cos⁡(α)$,
+$\sin⁡(2α)=2 \sin⁡(α)\cos⁡(α)$,
 
-$cos⁡⁡(2α)=cos⁡2(α)−sin⁡2(α)\cos⁡(2α)=\cos^2 (α)-\sin^2 (α)cos⁡(2α)=cos2(α)−sin2(α)$.
+$\cos⁡(2α)=\cos^2 (α)-\sin^2 (α)$.
 
 Naudojantis trigonometrinėmis formulėmis, mokoma(si) tapačiai pertvarkyti trigonometrinius reiškinius.
 
 Nagrinėjami situacijų, kai sudaromos ir sprendžiamos trigonometrinės lygtys, pavyzdžiai. Pateikiamos ir aptariamos lygčių
 
-$sin⁡⁡(x)=a (a∈[−1;1]), cos⁡(⁡x)=a (a∈[−1;1]), tg⁡(x)=a (a∈R)\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos(⁡x)=a\ (a \in [-1; 1]), \ \ \ \tg (x)=a\ (a∈\mathbb{R})sin⁡(x)=a (a∈[−1;1]), cos(⁡x)=a (a∈[−1;1]), tg(x)=a (a∈R)$
+$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos(⁡x)=a\ (a \in [-1; 1]), \ \ \ \tg (x)=a\ (a∈\mathbb{R})$
 
 sprendinių formulės ir mokoma(si) jomis naudotis, sprendžiant lygtis, kurias galima pertvarkyti į pavidalą:
 
-$a⋅f(kx+b)+c=0 (a,k,b,c∈R,a,k≠0;f(x)=sin⁡(⁡x),cos⁡⁡(x),tg⁡⁡(x))a \cdot f(kx+b)+c=0\ \ (a,k,b,c∈\mathbb{R},a,k≠0; f(x)= \sin(⁡x), \cos⁡(x), \tg⁡(x))a⋅f(kx+b)+c=0 (a,k,b,c∈R,a,k=0;f(x)=sin(⁡x),cos⁡(x),tg⁡(x))$;
+$a \cdot f(kx+b)+c=0\ \ (a,k,b,c∈\mathbb{R},a,k≠0; f(x)= \sin(⁡x), \cos⁡(x), \tg⁡(x))$;
 
-$(a⋅f(x)+b)(c⋅g(x)+d)=0 (a,b,c,d∈R,a,c≠0;f(x)=sin⁡⁡(x),cos⁡(⁡x),tg⁡(x))(a \cdot f(x)+b)(c \cdot g(x)+d)=0\ \ (a,b,c,d∈\mathbb{R},a,c≠0; f(x)= \sin⁡(x), \cos(⁡x), \tg(x))(a⋅f(x)+b)(c⋅g(x)+d)=0 (a,b,c,d∈R,a,c=0;f(x)=sin⁡(x),cos(⁡x),tg(x))$.
+$(a \cdot f(x)+b)(c \cdot g(x)+d)=0\ \ (a,b,c,d∈\mathbb{R},a,c≠0; f(x)= \sin⁡(x), \cos(⁡x), \tg(x))$.
 
 Mokoma(si) rasti sprendinius trigonometrinių nelygybių, kurias galima pertvarkyti į pavidalą:
 
-$a⋅f(x)+b⋛0 (a,b∈R,a≠0;f(x)=sin⁡⁡(x),cos⁡⁡(x),tg⁡(⁡x))a \cdot f(x)+b⋛0\ \ (a,b∈\mathbb{R},a≠0; f(x)=\sin⁡(x), \cos⁡(x), \tg(⁡x))a⋅f(x)+b⋛0 (a,b∈R,a=0;f(x)=sin⁡(x),cos⁡(x),tg(⁡x))$.
+$a \cdot f(x)+b⋛0\ \ (a,b∈\mathbb{R},a≠0; f(x)=\sin⁡(x), \cos⁡(x), \tg(⁡x))$.
 
 Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
@@ -1668,17 +1668,17 @@ Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
 Analizuojama tolydžiosios funkcijos, visuose funkcijos apibrėžimo srities intervaluose, samprata. Formuluojami teiginiai apie tolydžių funkcijų sumos (skirtumo), sandaugos ir dalmens tolydumą.
 
-Apibrėžiama tolydžios funkcijos ribos samprata, kai funkcijos argumento reikšmės artėja prie duotosios reikšmės ir kai funkcijos argumento reikšmės tolsta į begalybę ($±∞±∞±∞$).
+Apibrėžiama tolydžios funkcijos ribos samprata, kai funkcijos argumento reikšmės artėja prie duotosios reikšmės ir kai funkcijos argumento reikšmės tolsta į begalybę ($±∞$).
 
 Formuluojamos ir aiškinamos funkcijų ribų skaičiavimo taisyklės (ribų savybės): funkcijų sumos (skirtumo), sandaugos ir dalmens.
 
 #### Funkcijos išvestinės samprata
 
-Nagrinėjama funkcijos nepriklausomojo kintamojo (argumento) pokytis ir priklausomojo kintamojo (funkcijos reikšmės) pokytis bei šių pokyčių santykis; tolydžios funkcijos $y=f(x)y=f(x)y=f(x)$ grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))(a;f(a))(a;f(a))$, sąvoka.
+Nagrinėjama funkcijos nepriklausomojo kintamojo (argumento) pokytis ir priklausomojo kintamojo (funkcijos reikšmės) pokytis bei šių pokyčių santykis; tolydžios funkcijos $y=f(x)$ grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))$, sąvoka.
 
-Pateikiamas funkcijos $y=f(x)y=f(x)y=f(x)$ išvestinės taške $x=ax=ax=a$ apibrėžimas; išvestinės funkcijos $y=f′(x)y=f' (x)y=f′(x)$ apibrėžimas; grafiko liestinės ($y=kx+by=kx+by=kx+b$), einančios per grafiko tašką, kuriame $x=a,x=a,x=a,$ krypties koeficiento ir funkcijos išvestinės taške $x=ax=ax=a$ ryšys ($k=f′(a)k= f' (a)k=f′(a)$); išvedama liestinės lygtis.
+Pateikiamas funkcijos $y=f(x)$ išvestinės taške $x=a$ apibrėžimas; išvestinės funkcijos $y=f' (x)$ apibrėžimas; grafiko liestinės ($y=kx+b$), einančios per grafiko tašką, kuriame $x=a,$ krypties koeficiento ir funkcijos išvestinės taške $x=a$ ryšys ($k= f' (a)$); išvedama liestinės lygtis.
 
-Naudojantis funkcijos $y=f(x)y=f(x)y=f(x)$ išvestinės funkcijos $y=f′(x)y=f' (x)y=f′(x)$ apibrėžimu, mokoma(si) rasti tiesinės $y=f(x)=kx+by=f(x)=kx+by=f(x)=kx+b$ ir kvadratinės $y=f(x)=ax2+bx+cy=f(x)=ax^2+bx+cy=f(x)=ax2+bx+c$ funkcijų išvestines, funkcijos grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))(a;f(a))(a;f(a))$, lygtį.
+Naudojantis funkcijos $y=f(x)$ išvestinės funkcijos $y=f' (x)$ apibrėžimu, mokoma(si) rasti tiesinės $y=f(x)=kx+b$ ir kvadratinės $y=f(x)=ax^2+bx+c$ funkcijų išvestines, funkcijos grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))$, lygtį.
 
 Nagrinėjant judėjimus (pastoviu greičiu ir su pagreičiu), aptariama funkcijos išvestinės fizikinė prasmė.
 
@@ -1686,39 +1686,39 @@ Nagrinėjant judėjimus (pastoviu greičiu ir su pagreičiu), aptariama funkcijo
 
 Naudojantis funkcijos išvestinės apibrėžimu, įsitikinama, kad skaičiaus (konstantos) išvestinė lygi 0, t. y.
 
-$c′=0c'=0c′=0$;
+$c'=0$;
 
-skaičiaus ir funkcijos reiškinio $f(x)f(x)f(x)$ sandaugos išvestinė lygi skaičiaus ir funkcijos reiškinio $f(x)f(x)f(x)$ išvestinės sandaugai, t. y.
+skaičiaus ir funkcijos reiškinio $f(x)$ sandaugos išvestinė lygi skaičiaus ir funkcijos reiškinio $f(x)$ išvestinės sandaugai, t. y.
 
-$(c⋅f(x))′=c⋅f′(x)(c\cdot f(x))' =c \cdot f' (x)(c⋅f(x))′=c⋅f′(x)$;
+$(c\cdot f(x))' =c \cdot f' (x)$;
 
 funkcijų reiškinių sumos (skirtumo) išvestinė lygi funkcijų reiškinių išvestinių sumai (skirtumui), t. y.
 
-$(f(x)±g(x))′=f′(x)±g′(x)(f(x)±g(x))' =f' (x)±g' (x)(f(x)±g(x))′=f′(x)±g′(x)$;
+$(f(x)±g(x))' =f' (x)±g' (x)$;
 
 funkcijų reiškinių sandaugos išvestinė lygi
 
-$(f(x)⋅g(x))′=f′(x)⋅g(x)+g′(x)⋅f(x)(f(x) \cdot g(x))' =f' (x) \cdot g(x)+g' (x) \cdot f(x)(f(x)⋅g(x))′=f′(x)⋅g(x)+g′(x)⋅f(x)$;
+$(f(x) \cdot g(x))' =f' (x) \cdot g(x)+g' (x) \cdot f(x)$;
 
 funkcijų reiškinių dalmens išvestinė lygi
 
-$(f(x)g(x))′=f′(x)⋅g(x)−g′(x)⋅f(x)g2(x)(\frac{f(x)}{g(x) })' =\frac {f' (x) \cdot g(x)-g' (x) \cdot f(x)}{g^2 (x) }(g(x)f(x)​)′=g2(x)f′(x)⋅g(x)−g′(x)⋅f(x)​$.
+$(\frac{f(x)}{g(x) })' =\frac {f' (x) \cdot g(x)-g' (x) \cdot f(x)}{g^2 (x) }$.
 
 Sudėtinės funkcijos reiškinio išvestinė lygi
 
-$(f(g(x)))′=f′(g(x))⋅g′(x)(f(g(x)))' =f' (g(x))\cdot g' (x)(f(g(x)))′=f′(g(x))⋅g′(x)$ (ši formulė pateikiama be įrodymo).
+$(f(g(x)))' =f' (g(x))\cdot g' (x)$ (ši formulė pateikiama be įrodymo).
 
 Aiškinamos elementariųjų funkcijų reiškinių išvestinės:
 
-$(xn)′=n⋅xn−1, (ex)′=ex, (ax)′=ax⋅ln⁡⁡(a), ((ln⁡(⁡x))′=1x, (log⁡a⁡(x))′=1x⋅ln⁡(a)(x^n )' =n\cdot x^{n-1}, \ \ (e^x )' =e^x, \ \ (a^x )' =a^x\cdot \ln⁡(a), \ \ ((\ln(⁡x))' =\frac1x, \ \ (\log_a⁡(x) )' =\frac 1{x\cdot \ln(a)}(xn)′=n⋅xn−1, (ex)′=ex, (ax)′=ax⋅ln⁡(a), ((ln(⁡x))′=x1​, (loga​⁡(x))′=x⋅ln(a)1​$.
+$(x^n )' =n\cdot x^{n-1}, \ \ (e^x )' =e^x, \ \ (a^x )' =a^x\cdot \ln⁡(a), \ \ ((\ln(⁡x))' =\frac1x, \ \ (\log_a⁡(x) )' =\frac 1{x\cdot \ln(a)}$.
 
 Nagrinėjama riba
 
-$lim⁡x→0⁡sin⁡⁡(x)x=1\lim \limits_ {x→0}⁡\frac {\sin⁡(x)}x=1x→0lim​⁡xsin⁡(x)​=1$
+$\lim \limits_ {x→0}⁡\frac {\sin⁡(x)}x=1$
 
 ir įsitikinama, kad
 
-$(sin⁡⁡(x))′=cos⁡(x), (cos⁡⁡(x))′=−sin⁡⁡(x), (tg⁡⁡(x))′=1cos⁡2(x)(\sin⁡(x))' =\cos(x), \ \ (\cos⁡(x) )' =-\sin⁡(x),\ \ (\tg⁡(x) )' =\frac 1{\cos^2 (x)}(sin⁡(x))′=cos(x), (cos⁡(x))′=−sin⁡(x), (tg⁡(x))′=cos2(x)1​$.
+$(\sin⁡(x))' =\cos(x), \ \ (\cos⁡(x) )' =-\sin⁡(x),\ \ (\tg⁡(x) )' =\frac 1{\cos^2 (x)}$.
 
 Naudojantis išvestinių skaičiavimo taisyklėmis ir formulėmis, mokomasi apskaičiuoti įvairių reiškinių ir funkcijų išvestines.
 
@@ -1728,7 +1728,7 @@ Apibrėžiamos sąvokos: kritinis taškas, ekstremumo taškas, funkcijos ekstrem
 
 Mokoma(si), naudojantis funkcijos išvestine, apskaičiuoti funkcijos didžiausiąją ir mažiausiąją reikšmes uždarame intervale.
 
-Braižomas ne aukštesnio kaip ketvirtojo laipsnio funkcijos grafiko ($y=ax4+bx3+cx2+dx+ey=ax^4+bx^3+cx^2+dx+ey=ax4+bx3+cx2+dx+e$, $a,b,c,d,e∈Ra,b,c,d,e∈\mathbb{R}a,b,c,d,e∈R$) eskizas.
+Braižomas ne aukštesnio kaip ketvirtojo laipsnio funkcijos grafiko ($y=ax^4+bx^3+cx^2+dx+e$, $a,b,c,d,e∈\mathbb{R}$) eskizas.
 
 Naudojantis išvestine, sprendžiami optimizavimo uždaviniai.
 
@@ -1738,33 +1738,33 @@ Naudojantis išvestine, sprendžiami optimizavimo uždaviniai.
 
 . Apibrėžiama funkcijos pirmykštė funkcija. Paaiškinama, kad funkcija turi be galo daug pirmykščių funkcijų, o visa jų šeima užrašoma naudojantis neapibrėžtinio integralo ženklu.
 
-Įrodomos pirmykščių funkcijų savybės (funkcijų reiškinių sumos pirmykštės funkcijos, konstantos ir funkcijos reiškinio sandaugos pirmykštės, $y=f(ax+b)y=f(ax+b)y=f(ax+b)$ pirmykštės funkcijos). Mokoma(si) jomis naudotis.
+Įrodomos pirmykščių funkcijų savybės (funkcijų reiškinių sumos pirmykštės funkcijos, konstantos ir funkcijos reiškinio sandaugos pirmykštės, $y=f(ax+b)$ pirmykštės funkcijos). Mokoma(si) jomis naudotis.
 
 #### Apibrėžtinis integralas
 
-. Apibrėžiama kreivinės trapecijos (koordinačių plokštumos figūros, intervale $[a;b][a; b][a;b]$ iš viršaus apribotos neneigiamos funkcijos grafiku, abscisių ašimi ir tiesėmis $x=a,x=bx=a, x=bx=a,x=b$) sąvoka.
+. Apibrėžiama kreivinės trapecijos (koordinačių plokštumos figūros, intervale $[a; b]$ iš viršaus apribotos neneigiamos funkcijos grafiku, abscisių ašimi ir tiesėmis $x=a, x=b$) sąvoka.
 
-Aiškinama(si), kad kreivinės trapecijos plotas nedaug skiriasi nuo ploto figūros, kuri sudaryta iš stačiakampių, kurių pagrindai yra intervalai, gauti padalijus intervalą $[a;b][a; b][a;b]$ į daug lygių dalių, o kitų kraštinių ilgiai lygūs funkcijos reikšmėms dalijimo taškuose. Sudaromas šios figūros ploto reiškinys (integralinė suma), aiškinama(si), kad intervalų skaičiui augant, šių reiškinių reikšmės artėja prie skaičiaus, kuris vadinamas funkcijos apibrėžtiniu integralu intervale $[a;b][a; b][a;b]$. Jo reikšmė yra kreivinės trapecijos plotas. Paaiškinama, kad integralines sumas galima sudaryti ir nebūtinai neneigiamoms tolydžioms funkcijoms. Ribinė jų reikšmė vadinama funkcijos apibrėžtiniu integralu intervale $[a;b][a; b][a;b]$.
+Aiškinama(si), kad kreivinės trapecijos plotas nedaug skiriasi nuo ploto figūros, kuri sudaryta iš stačiakampių, kurių pagrindai yra intervalai, gauti padalijus intervalą $[a; b]$ į daug lygių dalių, o kitų kraštinių ilgiai lygūs funkcijos reikšmėms dalijimo taškuose. Sudaromas šios figūros ploto reiškinys (integralinė suma), aiškinama(si), kad intervalų skaičiui augant, šių reiškinių reikšmės artėja prie skaičiaus, kuris vadinamas funkcijos apibrėžtiniu integralu intervale $[a; b]$. Jo reikšmė yra kreivinės trapecijos plotas. Paaiškinama, kad integralines sumas galima sudaryti ir nebūtinai neneigiamoms tolydžioms funkcijoms. Ribinė jų reikšmė vadinama funkcijos apibrėžtiniu integralu intervale $[a; b]$.
 
 Pateikiamos ir paaiškinamos apibrėžtinio integralo savybės:
 
-$∫ab(f(x)±g(x)) dx=∫abf(x) dx±∫abg(x) dx, ∫abkf(x) dx=k∫abf(x) dx∫_a^b(f(x)±g(x)) \mathrm{d}x=∫_a^bf(x) \mathrm{d}x±∫_a^bg(x) \mathrm{d}x, \ \ \ ∫_a^bkf(x) \mathrm{d}x=k∫_a^bf(x) \mathrm{d}x∫ab​(f(x)±g(x)) dx=∫ab​f(x) dx±∫ab​g(x) dx, ∫ab​kf(x) dx=k∫ab​f(x) dx$,
+$∫_a^b(f(x)±g(x)) \mathrm{d}x=∫_a^bf(x) \mathrm{d}x±∫_a^bg(x) \mathrm{d}x, \ \ \ ∫_a^bkf(x) \mathrm{d}x=k∫_a^bf(x) \mathrm{d}x$,
 
-$∫abf(x) dx=−∫baf(x) dx, ∫abf(x) dx=∫acf(x) dx+∫cbf(x) dx (c∈[a;b])∫_a^bf(x) \mathrm{d}x=-∫_b^af(x) \mathrm{d}x, \ \ ∫_a^bf(x) \mathrm{d}x=∫_a^cf(x) \mathrm{d}x+∫_c^bf(x) \mathrm{d}x\ (c∈[a;b])∫ab​f(x) dx=−∫ba​f(x) dx, ∫ab​f(x) dx=∫ac​f(x) dx+∫cb​f(x) dx (c∈[a;b])$,
+$∫_a^bf(x) \mathrm{d}x=-∫_b^af(x) \mathrm{d}x, \ \ ∫_a^bf(x) \mathrm{d}x=∫_a^cf(x) \mathrm{d}x+∫_c^bf(x) \mathrm{d}x\ (c∈[a;b])$,
 
-$∫aaf(x) dx=0∫_a^af(x) \mathrm{d}x=0∫aa​f(x) dx=0$.
+$∫_a^af(x) \mathrm{d}x=0$.
 
 #### Integralų taikymai
 
 . Pateikiama ir paaiškinama Niutono-Leibnico formulė
 
-$∫abf(x) dx=F(b)−F(a)∫_a^bf(x) \mathrm{d}x=F(b)-F(a)∫ab​f(x) dx=F(b)−F(a)$
+$∫_a^bf(x) \mathrm{d}x=F(b)-F(a)$
 
 ir mokomasi ją taikyti, sprendžiant uždavinius, susijusius su kreivinių trapecijų plotais.
 
-Pateikiama formulė, kuri naudojama, skaičiuojant sukinio tūrį, gauto sukant kreivę $y=f(x),x∈[a;b],y=f(x),x∈[a;b],y=f(x),x∈[a;b],$ apie $OxOxOx$ ašį
+Pateikiama formulė, kuri naudojama, skaičiuojant sukinio tūrį, gauto sukant kreivę $y=f(x),x∈[a;b],$ apie $Ox$ ašį
 
-$V=π∫abf2(x) dxV=π∫_a^bf^2 (x) \mathrm{d}xV=π∫ab​f2(x) dx$.
+$V=π∫_a^bf^2 (x) \mathrm{d}x$.
 
 Sprendžiami įvairaus konteksto integralų taikymo uždaviniai.
 
@@ -1858,7 +1858,7 @@ Mokoma(si) pagrįsti pavyzdžiais ir įrodyti tikimybių savybes: būtinojo įvy
 
 Sprendžiant uždavinius, mokoma(si) apskaičiuoti:
 
-bandymo baigties ar įvykio tikimybę, ją nurodyti intervalo $[0;1][0;1][0;1]$ skaičiumi ir procentais;
+bandymo baigties ar įvykio tikimybę, ją nurodyti intervalo $[0;1]$ skaičiumi ir procentais;
 
 tikimybę, kad atliekant bandymą įvyks kuris nors iš dviejų nesutaikomųjų įvykių;
 
