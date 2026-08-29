@@ -1476,11 +1476,11 @@ Apibrėžiami kolinearieji ir statmenieji vektoriai. Analizuojamos dviejų vekto
 
 Mokomasi tapačiai pertvarkyti skaitinius ir raidinius reiškinius, taikant formules:
 
-$\sin^2 (α)+\cos^2 (α)=1,\ \ \tg⁡(α)= \frac {\sin⁡ (α)} {\cos⁡ (α)}$,
+\sin^2 (α)+\cos^2 (α)=1,\ \ \tg⁡(α)= \frac {\sin⁡ (α)} {\cos⁡ (α)},
 
-$\sin⁡(-α)=-\sin⁡ (α),\ \ \cos⁡(-α)=\cos⁡ (α),\ \ \tg⁡(-α)=-\tg⁡(α), \ \ \ 1+\tg^2 (α)= \frac {1} {\cos^2 (α)}$,
+\sin⁡(-α)=-\sin⁡ (α),\ \ \cos⁡(-α)=\cos⁡ (α),\ \ \tg⁡(-α)=-\tg⁡(α), \ \ \ 1+\tg^2 (α)= \frac {1} {\cos^2 (α)},
 
-$\sin⁡(α+360° \cdot k)=\sin⁡(α),\ \ \cos⁡(α+360° \cdot k)=\cos⁡(α),\ \ \tg⁡(α+180° \cdot k)=\tg(⁡α)$, $k \in \mathbb{Z}$.
+\sin⁡(α+360° \cdot k)=\sin⁡(α),\ \ \cos⁡(α+360° \cdot k)=\cos⁡(α),\ \ \tg⁡(α+180° \cdot k)=\tg(⁡α), k \in \mathbb{Z}.
 
 Nagrinėjami situacijų, kai sudaromos ir sprendžiamos trigonometrinės lygtys, pavyzdžiai.
 
@@ -1488,13 +1488,13 @@ Aptariama, kada patogu trigonometrines lygtis spręsti algebriniu būdu.
 
 Pateikiamos ir aptariamos lygčių
 
-$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos⁡(x)=a\ (a \in [-1; 1]),\ \ \ \tg(⁡x)=a\ (a ∈ \mathbb{R})$
+\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos⁡(x)=a\ (a \in [-1; 1]),\ \ \ \tg(⁡x)=a\ (a ∈ \mathbb{R})
 
 sprendinių formulės.
 
 Mokoma(si) spręsti
 
-$a \cdot f(x)+b=0$; čia $f(x)= \sin(⁡x), \cos (x), \tg (x);\ a, b ∈ \mathbb{R}, \ a ≠0,$
+a \cdot f(x)+b=0; čia f(x)= \sin(⁡x), \cos (x), \tg (x);\ a, b ∈ \mathbb{R}, \ a ≠0,
 
 pavidalo lygtis.
 
