@@ -304,41 +304,75 @@ Nagrinėjami žaidimai su keliomis vienodai ir nevienodai galimomis 2–6 baigti
 
 #### Natūralieji skaičiai
 
-Nagrinėjami romėnų skaitmenų ir skaičių rašymo pavyzdžiai, mokoma(si) perskaityti ir užrašyti romėniškuosius skaičius iki 3000. Aptariama, kokia skaičiavimo sistema vadinama dešimtaine, pozicine. Apibendrinami natūraliųjų skaičių apibūdinimo būdai (vaizduojant skaičių tiesėje, užrašant skaitmenimis, skyrių suma, žodžiais, vartojant trumpinius tūkst., mln., mlrd., …). Mokoma(si) natūraliuosius skaičius palyginti, apvalinti, naudojant ne tik skaičių tiesės modelį, bet ir pagrindžiant bei taikant kitus skaičiams palyginti ir apvalinti taikomus metodus (pavyzdžiui, atsižvelgiant į pozicinę skaitmens reikšmę (skaitmens vietą skaičiuje), kai juos norima palyginti). Nagrinėjamos įvairios situacijos, kai taikoma apvalinimo taisyklė.
+Nagrinėjami romėnų skaitmenų ir skaičių rašymo pavyzdžiai, mokoma(si) perskaityti ir užrašyti romėniškuosius skaičius iki 3000.
+
+Aptariama, kokia skaičiavimo sistema vadinama dešimtaine, pozicine.
+
+Apibendrinami natūraliųjų skaičių apibūdinimo būdai (vaizduojant skaičių tiesėje, užrašant skaitmenimis, skyrių suma, žodžiais, vartojant trumpinius tūkst., mln., mlrd., …).
+
+Mokoma(si) natūraliuosius skaičius palyginti, apvalinti, naudojant ne tik skaičių tiesės modelį, bet ir pagrindžiant bei taikant kitus skaičiams palyginti ir apvalinti taikomus metodus (pavyzdžiui, atsižvelgiant į pozicinę skaitmens reikšmę (skaitmens vietą skaičiuje), kai juos norima palyginti).
+
+Nagrinėjamos įvairios situacijos, kai taikoma apvalinimo taisyklė.
 
 #### Veiksmai su natūraliaisiais skaičiais
 
-Įsitikinama, kad veiksmams su natūraliaisiais skaičiais galioja sudėties ir daugybos perstatomumo bei jungiamumo, skirstomumo, sudėties su nuliu, daugybos iš vieno dėsniai (veiksmų savybės). Šie dėsniai užrašomi ir raidinėmis išraiškomis. Mokoma(si) padalyti iš dviženklio skaičiaus. Praktikuojamasi naudotis patogiais skaičiavimo metodais (mintinio skaičiavimo strategijomis), siekiant palengvinti skaičiavimus. Sprendžiami įvairaus konteksto probleminiai uždaviniai, kuomet reikia surasti, atsirinkti skaitinę informaciją, išskaidyti uždavinį į dalis, performuluoti uždavinį, taikyti kelis veiksmus, sudaryti skaitinį reiškinį. Mokoma(si) įvardyti atliekamų veiksmų komponentus. Mokoma(si) atpažinti skaičius, kurie dalijasi iš $2, 3, 4, 5, 9, 10, 100$. Apibrėžiamos sąvokos: skaičiaus daliklis, skaičiaus kartotinis; pirminis skaičius, sudėtinis skaičius; lyginis skaičius, nelyginis skaičius. Mokoma(si) atrinkti skaičius iš nurodyto nedidelio skaičių intervalo, kad šie skaičiai atitiktų nurodytą požymį ar kriterijų. Nagrinėjamos situacijos, kuriose sudėtinį skaičių skaidome pirminiais dauginamaisiais, tyrinėjami įvairūs skaičiaus skaidymo pirminiais dauginamaisiais būdai. Sprendžiami probleminiai uždaviniai, kai reikia rasti kelių skaičių (mažiausią) bendrąjį kartotinį, (didžiausią) bendrąjį daliklį.
+Įsitikinama, kad veiksmams su natūraliaisiais skaičiais galioja sudėties ir daugybos perstatomumo bei jungiamumo, skirstomumo, sudėties su nuliu, daugybos iš vieno dėsniai (veiksmų savybės). Šie dėsniai užrašomi ir raidinėmis išraiškomis.
+
+Mokoma(si) padalyti iš dviženklio skaičiaus.
+
+Praktikuojamasi naudotis patogiais skaičiavimo metodais (mintinio skaičiavimo strategijomis), siekiant palengvinti skaičiavimus. Sprendžiami įvairaus konteksto probleminiai uždaviniai, kuomet reikia surasti, atsirinkti skaitinę informaciją, išskaidyti uždavinį į dalis, performuluoti uždavinį, taikyti kelis veiksmus, sudaryti skaitinį reiškinį. Mokoma(si) įvardyti atliekamų veiksmų komponentus.
+
+Mokoma(si) atpažinti skaičius, kurie dalijasi iš $2, 3, 4, 5, 9, 10, 100$.
+
+Apibrėžiamos sąvokos: skaičiaus daliklis, skaičiaus kartotinis; pirminis skaičius, sudėtinis skaičius; lyginis skaičius, nelyginis skaičius.
+
+Mokoma(si) atrinkti skaičius iš nurodyto nedidelio skaičių intervalo, kad šie skaičiai atitiktų nurodytą požymį ar kriterijų.
+
+Nagrinėjamos situacijos, kuriose sudėtinį skaičių skaidome pirminiais dauginamaisiais, tyrinėjami įvairūs skaičiaus skaidymo pirminiais dauginamaisiais būdai.
+
+Sprendžiami probleminiai uždaviniai, kai reikia rasti kelių skaičių (mažiausią) bendrąjį kartotinį, (didžiausią) bendrąjį daliklį.
 
 ### Trupmenos ir dalys
 
 #### Trupmenos
 
-Nagrinėjamos trupmenos $ \frac{m}{n}  $, kurių skaitiklyje ir vardiklyje gali būti bet koks natūralusis skaičius. Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena. Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas. Mokoma(si) trupmenas, kurių vardiklyje yra $10, 100, 1000, … $, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai. Praktikuojamasi dešimtainius skaičius perskaityti, užrašyti žodžiais, skaitmenimis, skyrių suma, pavaizduoti skaičių tiesėje, palyginti, apvalinti.
+Nagrinėjamos trupmenos $\frac{m}{n}$, kurių skaitiklyje ir vardiklyje gali būti bet koks natūralusis skaičius.
+
+Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena.
+
+Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas.
+
+Mokoma(si) trupmenas, kurių vardiklyje yra $10, 100, 1000, … $, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai.
+
+Praktikuojamasi dešimtainius skaičius perskaityti, užrašyti žodžiais, skaitmenimis, skyrių suma, pavaizduoti skaičių tiesėje, palyginti, apvalinti.
 
 #### Veiksmai su trupmenomis
 
-Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės dalys išreikštos trupmenomis su skirtingais vardikliais ir kai trupmeninių dalių suma peržengia vienetą. Trupmenos $ \frac{m}{n}  $ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas. Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) = (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės). Pagrindžiami su trupmenomis $ \frac{m}{n}  $, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius. Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais. Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
+Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės dalys išreikštos trupmenomis su skirtingais vardikliais ir kai trupmeninių dalių suma peržengia vienetą.
+
+Trupmenos $\frac{m}{n}$ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas.
+
+Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) = (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės).
+
+Pagrindžiami su trupmenomis $\frac{m}{n}$, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius.
+
+Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais.
+
+Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
 
 ### Finansiniai skaičiavimai
-
-Procento sąvoka taikoma, sprendžiant uždavinius apie pirkimą, pardavimą, nuolaidas (skaičiuotuvu nesinaudojama).
 
 ## Modeliai ir sąryšiai
 
 ### Dėsningumai
 
-Nagrinėjamos skaičių sekos, kurių kiekvienas kitas narys gaunamas iš prieš jį esančio, atliekant vieną ir tą patį veiksmą (ar kelis veiksmus). Nagrinėjamos lentelės, kuriomis vaizduojami ryšiai tarp skaičių (įvesties ir (ar) išvesties; I ir (ar) O) lentelės ir mokoma(si) šį ryšį apibūdinti, taikyti.
-
-### Algebra
-
-#### Lygtys
+### Modeliai ir sąryšiai. Algebra. Lygtys
 
 Įsitikinama, kad skaitinėms lygybėms būdingos savybės:
 
 jeigu $a = b$, tai $b = a$;
 
-jeigu $a = b$ ir $b = c$, tai $ a = c$;
+jeigu $a = b$ ir $b = c$, tai $a = c$;
 
 jeigu $a = b$, tai $a + c = b + c$;
 
@@ -348,11 +382,9 @@ jeigu $a = b$, tai $a ⋅ c = b ⋅ c$;
 
 jeigu $a = b$ ir $c ≠ 0$, tai $a : c = b : c$.
 
-Mokoma(si) spręsti 1–3 žingsnių lygtis (pirmojo laipsnio) su vienu nežinomuoju, jų sprendimo algoritmą grindžiant skaitinių lygybių savybėmis. Nagrinėjamos tokia pačia lygtimi aprašomos situacijos, parodoma, kad ta pati situacija gali būti aprašyta skirtingomis lygtimis.
+Mokoma(si) spręsti 1–2 žingsnių lygtis (pirmojo laipsnio) su vienu nežinomuoju $ax+b = c$, jų sprendimo algoritmą grindžiant skaitinių lygybių savybėmis.
 
-#### Raidiniai reiškiniai
-
-Apibendrinant nagrinėtus konkrečius pavyzdžius, suformuluojami, užrašomi raidėmis ir taikomi sudėties ir daugybos perstatomumo, jungiamumo, skirstomumo dėsniai (veiksmų savybės), dėsniai su nuliu ir vienetu. Apibrėžiama panašiųjų narių sąvoka. Pagrindžiamos ir taikomos panašiųjų narių sutraukimo, reiškinio prastinimo procedūros. Mokoma(si) sudaryti ir pertvarkyti paprastus raidinius reiškinius, kai tenka atlikti veiksmus su natūraliaisiais skaičiais.
+Nagrinėjamos tokia pačia lygtimi aprašomos situacijos, parodoma, kad ta pati situacija gali būti aprašyta skirtingomis lygtimis.
 
 ## Geometrija ir matavimai
 
@@ -360,23 +392,35 @@ Apibendrinant nagrinėtus konkrečius pavyzdžius, suformuluojami, užrašomi ra
 
 #### Kelias, laikas, greitis
 
-Sprendžiami dviejų kūnų judėjimo ta pačia kryptimi, priešingomis kryptimis, priešpriešinio judėjimo uždaviniai, įskaitant ir situacijas, kuomet objektai pradeda ar baigia judėti skirtingu laiku (atliekami veiksmai – sudėtis, daugyba iš natūraliojo skaičiaus – ir su dešimtainiais skaičiais). Mokantis spręsti judėjimo uždavinius, pasitelkiamos schemos, įvairūs modeliai, aptariama ir taikoma kelio formulė.
+Sprendžiami dviejų kūnų judėjimo ta pačia kryptimi, priešingomis kryptimis, priešpriešinio judėjimo uždaviniai, kuomet objektai pradeda judėti tuo pačiu laiku (atliekami veiksmai – sudėtis, daugyba iš natūraliojo skaičiaus – ir su dešimtainiais skaičiais).
+
+Mokantis spręsti judėjimo uždavinius, pasitelkiamos schemos, įvairūs modeliai, aptariama ir taikoma kelio formulė.
 
 #### Ilgis, plotas, tūris, talpa
 
-Aptariama metrinė matavimo sistema, įvairūs ilgio, ploto, tūrio, talpos matavimo vienetai. Praktinėse situacijose mokoma(si) įvertinti realių objektų dydžius. Matavimo vienetai stambinami ir smulkinami, įskaitant ir atvejus, kai dydžių skaitinės reikšmės yra dešimtainiai skaičiai.
+Aptariama metrinė matavimo sistema, įvairūs ilgio, ploto, tūrio, talpos matavimo vienetai.
+
+Praktinėse situacijose mokoma(si) įvertinti realių objektų dydžius.
+
+Matavimo vienetai stambinami ir smulkinami, įskaitant ir atvejus, kai dydžių skaitinės reikšmės yra dešimtainiai skaičiai.
 
 ### Konstravimas, transformacijos
 
-#### Transformacijos
-
-Apibrėžiamos transformacijos: simetrija tiesės atžvilgiu (atspindys), centrinė simetrija, posūkis, postūmis (lygiagretusis postūmis). Pasitelkiant fizinius modelius, skaitmenines priemones, mokoma(si) užbaigti braižyti figūrą, kad ji būtų simetriška, atkurti simetrišką figūrą iš jos dalies, schema pavaizduoti atliekamas transformacijas.
+Apibrėžiamos transformacijos: simetrija tiesės atžvilgiu (atspindys), centrinė simetrija.
 
 ### Figūros
 
 #### Plokštumos figūros
 
-Susipažįstama su kampų matavimo vienetu – laipsniu (°) ir kampų matavimo įrankiu – matlankiu. Mokoma(si) vizualiai atpažinti smailųjį, statųjį, bukąjį, ištiestinį ir pilnąjį kampus; smailųjį, statųjį ir bukąjį trikampius. Apibrėžiama, kokie kampai vadinami gretutiniais, kryžminiais, mokoma(si) pagrįsti ir taikyti jų savybes. Formuluojama ir pagrindžiama hipotezė apie trikampio ir keturkampio kampų sumą. Paaiškinama, kad teiginį galima pagrįsti įvairiai ir, kad ne kiekvieną teiginio pagrindimą galima laikyti matematiniu įrodymu. Šiam teiginiui iliustruoti galima pateikti ir aptarti kelis kurios nors nagrinėtos figūros savybės pagrindimo būdus. Tyrinėjant trikampių, stačiakampių pavyzdžius, parodoma, kaip, perdėliojant stačiakampio dalis, gali būti gaunamos kitos figūros ir apibūdinamos tokios figūros, kaip lygiagretainis, trapecija, lygiašonė trapecija, rombas.
+Susipažįstama su kampų matavimo vienetu – laipsniu (°) ir kampų matavimo įrankiu – matlankiu.
+
+Mokoma(si) vizualiai atpažinti smailųjį, statųjį, bukąjį, ištiestinį ir pilnąjį kampus; smailųjį, statųjį ir bukąjį trikampius.
+
+Apibrėžiama, kokie kampai vadinami gretutiniais, kryžminiais, mokoma(si) pagrįsti ir taikyti jų savybes.
+
+Formuluojama ir pagrindžiama hipotezė apie trikampio ir keturkampio kampų sumą. Paaiškinama, kad teiginį galima pagrįsti įvairiai ir, kad ne kiekvieną teiginio pagrindimą galima laikyti matematiniu įrodymu. Šiam teiginiui iliustruoti galima pateikti ir aptarti kelis kurios nors nagrinėtos figūros savybės pagrindimo būdus.
+
+Tyrinėjant trikampių, stačiakampių pavyzdžius, parodoma, kaip, perdėliojant stačiakampio dalis, gali būti gaunamos kitos figūros ir apibūdinamos tokios figūros, kaip lygiagretainis, trapecija, lygiašonė trapecija, rombas.
 
 #### Erdvės figūros
 
@@ -384,13 +428,27 @@ Mokoma(si) pavaizduoti kubą ir stačiakampį gretasienį, taip pat suprojektuot
 
 #### Perimetro, ploto, tūrio skaičiavimai
 
-Aptariamos ir taikomos kvadrato ir stačiakampio perimetro ir ploto formulės. Mokoma(si) apskaičiuoti stačiojo trikampio plotą kaip pusę stačiakampio ploto. Sprendžiami sudėtingesni ploto apskaičiavimo uždaviniai, kai plokščioji figūra sudaryta iš kelių žinomų figūrų (stačiojo trikampio, kvadrato, stačiakampio), įskaitant ir tokius, kai derinamos perimetro ir ploto sąvokos. Pagrindžiamos ir taikomos kubo ir stačiakampio gretasienio tūrio formulės. Iš kubų, stačiakampių gretasienių konstruojamos sudėtingesnės figūros. Sprendžiami jų paviršiaus ploto, tūrio apskaičiavimo uždaviniai.
+Aptariamos ir taikomos kvadrato ir stačiakampio perimetro ir ploto formulės.
+
+Mokoma(si) apskaičiuoti stačiojo trikampio plotą kaip pusę stačiakampio ploto.
+
+Sprendžiami sudėtingesni ploto apskaičiavimo uždaviniai, kai plokščioji figūra sudaryta iš kelių žinomų figūrų (stačiojo trikampio, kvadrato, stačiakampio), įskaitant ir tokius, kai derinamos perimetro ir ploto sąvokos.
+
+Pagrindžiamos ir taikomos kubo ir stačiakampio gretasienio tūrio formulės.
+
+Iš kubų, stačiakampių gretasienių konstruojamos sudėtingesnės figūros. Sprendžiami jų paviršiaus ploto, tūrio apskaičiavimo uždaviniai.
 
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
 
-Aptariamos sąvokos: populiacija, imtis, imties vidurkis. Mokoma(si) kelti statistinius klausimus apie artimą aplinką, į kuriuos atsakyti galima, surinkus kokybinius ir kiekybinius duomenis. Aiškinamasi, kokie galėtų būti apklausos ar anketos klausimai; mokoma(si) numatyti galimų atsakymų reikšmes. Išsiaiškinama, kuomet galima apskaičiuoti imties vidurkį ir kokia gautos skaitinės reikšmės prasmė. Nagrinėjamos, interpretuojamos ir tokios situacijos, kai dažnių lentelėje ar stulpelinėje diagramoje pateikiamas labai didelis duomenų skaičius.
+Mokoma(si) kelti statistinius klausimus apie artimą aplinką, į kuriuos atsakyti galima, surinkus kokybinius ir kiekybinius duomenis.
+
+Aiškinamasi, kokie galėtų būti apklausos ar anketos klausimai, aptariami du klausimų tipai (atviri ir uždari).
+
+Išsiaiškinama, kuomet galima apskaičiuoti duomenų vidurkį ir kokia gautos skaitinės reikšmės prasmė.
+
+Mokoma(si) interpretuoti dažnių lenteles ir diagramas, atsakyti į su duomenimis susijusius klausimus.
 
 ### Tikimybės ir jų interpretavimas
 
@@ -398,7 +456,7 @@ Nagrinėjami kasdienių atsitiktinių įvykių, paprasčiausių bandymų (stocha
 
 Apibrėžiama įvykio tikimybės
 
-$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}  $
+$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}$
 
 sąvoka; vienodų baigčių atveju mokoma(si) ją taikyti, kai $n$ neviršija $10$.
 
@@ -410,7 +468,13 @@ sąvoka; vienodų baigčių atveju mokoma(si) ją taikyti, kai $n$ neviršija $1
 
 #### Sveikieji skaičiai
 
-Apibrėžiamos sąvokos: neigiamieji sveikieji skaičiai, teigiamieji sveikieji skaičiai, skaičiui priešingas skaičius; sveikųjų skaičių aibė. Aptariamas sveikųjų skaičių žymėjimas skaičių tiesėje, mokoma(si) užrašyti skaičiui priešingą skaičių. Mokantis palyginti sveikuosius skaičius, pasitelkiamas skaičių tiesės modelis. Apibrėžiama koordinačių plokštuma ir mokoma(si) sveikųjų skaičių poras joje pavaizduoti taškais ir atvirkščiai. Įvedama koordinatinio ketvirčio sąvoka; atkreipiamas dėmesys, kad koordinačių ašys nepriklauso ketvirčiams. Paaiškinama, kad koordinačių metodas – tai procedūra, kurios metu objekto vieta tiesėje arba koordinačių plokštumoje nusakoma skaičiumi ar jų pora. Nagrinėjami šio metodo taikymo realiame gyvenime pavyzdžiai (pavyzdžiui, objekto vietos nustatymas pagal jo koordinates).
+Apibrėžiamos sąvokos: neigiamieji sveikieji skaičiai, teigiamieji sveikieji skaičiai, skaičiui priešingas skaičius; sveikųjų skaičių aibė.
+
+Aptariamas sveikųjų skaičių žymėjimas skaičių tiesėje, mokoma(si) užrašyti skaičiui priešingą skaičių.
+
+Mokantis palyginti sveikuosius skaičius, pasitelkiamas skaičių tiesės modelis.
+
+Apibrėžiama koordinačių plokštuma ir mokoma(si) sveikųjų skaičių poras joje pavaizduoti taškais ir atvirkščiai. Įvedama koordinatinio ketvirčio sąvoka; atkreipiamas dėmesys, kad koordinačių ašys nepriklauso ketvirčiams. Paaiškinama, kad koordinačių metodas – tai procedūra, kurios metu objekto vieta tiesėje arba koordinačių plokštumoje nusakoma skaičiumi ar jų pora. Nagrinėjami šio metodo taikymo realiame gyvenime pavyzdžiai (pavyzdžiui, objekto vietos nustatymas pagal jo koordinates).
 
 #### Veiksmai su sveikaisiais skaičiais
 
@@ -420,13 +484,17 @@ Pateikiamos ir aptariamos veiksmų (sudėties, atimties, daugybos ir dalybos) su
 
 #### Trupmenos
 
-Apibrėžiamos sąvokos: teigiamasis skaičius, neigiamasis skaičius, racionalusis skaičius, skaičiui atvirkštinis skaičius. Įsitikinama, kad kiekvieną trupmeną $\frac{m}{n} ) $ galima užrašyti baigtiniu ar begaliniu periodiniu dešimtainiu skaičiumi.
+Apibrėžiamos sąvokos: teigiamasis skaičius, neigiamasis skaičius, racionalusis skaičius, skaičiui atvirkštinis skaičius. Įsitikinama, kad kiekvieną trupmeną $\frac{m}{n} (m\in \mathbb{Z}, n\in \mathbb{N})$ galima užrašyti baigtiniu ar begaliniu periodiniu dešimtainiu skaičiumi.
 
-Mokoma(si) racionaliuosius skaičius palyginti, suapvalinti nurodytu tikslumu.
+Mokoma(si) racionaliuosius skaičius palyginti, dešimtainius skaičius suapvalinti nurodytu tikslumu.
+
+Mokoma(si) spręsti skaičiaus (dydžio) visumos radimo uždavinius, kai kai yra nurodyta skaičiaus (dydžio) dalis ir tą dalį atitinkanti trupmena ar procentai.
 
 #### Veiksmai su racionaliaisiais skaičiais
 
-Vizualizuojami ir pagrindžiami sudėties, atimties, daugybos, dalybos veiksmai su racionaliaisiais skaičiais. Įsitikinama, kad racionaliesiems skaičiams tinka tie patys dėsniai kaip ir natūraliesiems bei sveikiesiems skaičiams:
+Vizualizuojami ir pagrindžiami sudėties, atimties, daugybos, dalybos veiksmai su racionaliaisiais skaičiais.
+
+Įsitikinama, kad racionaliesiems skaičiams tinka tie patys dėsniai kaip ir natūraliesiems bei sveikiesiems skaičiams:
 
 $(a + b) + c = a + (b + c),\ \ \ a + b = b + a,\ \ \ a + 0 = 0 + a = a$,
 
@@ -438,59 +506,95 @@ Veiksmai su racionaliaisiais skaičiais ir jų savybės taikomi, sprendžiant į
 
 ### Finansiniai skaičiavimai
 
-Sprendžiami uždaviniai, kai vartojamos nuolaidos, procentinės nuolaidos sąvokos; mokoma(si) apskaičiuoti įvairių prekių ir paslaugų vieneto tarifus. Dalyvaudami projektinėse veiklose, mokiniai mokosi priimti skaičiavimais grįstus finansinius sprendimus (pavyzdžiui, planuoti ir valdyti asmeninį savaitės biudžetą), jie susipažįsta su mokesčių rūšimis ir sužino, kaip per mokesčius surinkti pinigai yra panaudojami bendruomenių, visuomenės reikmėms.
+Mokoma(si) procento sąvoką taikyti sprendžiant uždavinius apie pirkimą, pardavimą, nuolaidas (skaičiuotuvu nesinaudojama).
 
 ## Modeliai ir sąryšiai
 
 ### Algebra
 
+#### Raidiniai reiškiniai
+
+. Apibendrinant nagrinėtus konkrečius pavyzdžius, suformuluojami, užrašomi raidėmis ir taikomi sudėties ir daugybos perstatomumo, jungiamumo, skirstomumo dėsniai (veiksmų savybės), dėsniai su nuliu ir vienetu.
+
+Apibrėžiama panašiųjų narių sąvoka. Pagrindžiamos ir taikomos panašiųjų narių sutraukimo, reiškinio prastinimo procedūros.
+
+Mokoma(si) sudaryti ir pertvarkyti paprastus raidinius reiškinius, kai tenka atlikti veiksmus su natūraliaisiais skaičiais.
+
 #### Lygtys
 
-Sprendžiamos 1–4 žingsnių pirmojo laipsnio lygtys su vienu nežinomuoju (lygtyje gali būti ir skliaustų; sprendžiant lygtį, gali būti atliekami veiksmai ir su trupmenomis). Mokoma(si) sudaryti lygtis iš uždavinio sąlygos ar schemos ir tuo atveju, kai nežinomasis sąlygoje nenurodytas.
+Sprendžiamos 1–4 žingsnių pirmojo laipsnio lygtys su vienu nežinomuoju (lygtyje gali būti ir skliaustų; sprendžiant lygtį, gali būti atliekami veiksmai ir su trupmenomis).
+
+Mokoma(si) sudaryti lygtis iš uždavinio sąlygos ar schemos ir tuo atveju, kai nežinomasis sąlygoje nenurodytas.
 
 ### Tiesiniai ir netiesiniai sąryšiai
 
 #### Tiesioginis proporcingumas
 
-Nagrinėjamas tiesioginio proporcingumo sąryšis, mokoma(si) jį aprašyti (įvesties ir (ar) išvesties; I ir (ar) O) lentelėmis, skaičių poromis ir pažymėti taškais koordinačių plokštumoje. Susipažįstama su grafiko sąvoka, formuojami grafiko skaitymo ir braižymo įgūdžiai. Nagrinėjami kasdieniame gyvenime pasitaikantys dydžiai, kuriuos sieja tiesioginis proporcingumas. Apibrėžiamos santykio, proporcijos sąvokos; pagrindžiama ir, sprendžiant uždavinius, taikoma pagrindinė proporcijos savybė ir jos išvados.
+Nagrinėjamas tiesioginio proporcingumo sąryšis, mokoma(si) jį aprašyti (įvesties ir (ar) išvesties; I ir (ar) O) lentelėmis, skaičių poromis ir pažymėti taškais koordinačių plokštumoje.
+
+Susipažįstama su grafiko sąvoka, formuojami grafiko skaitymo ir braižymo įgūdžiai.
+
+Nagrinėjami kasdieniame gyvenime pasitaikantys dydžiai, kuriuos sieja tiesioginis proporcingumas.
+
+Apibrėžiamos santykio, proporcijos sąvokos; pagrindžiama ir, sprendžiant uždavinius, taikoma pagrindinė proporcijos savybė ir jos išvados.
 
 ## Geometrija ir matavimai
 
 ### Konstravimas, transformacijos
 
-#### Transformacijos
-
-Nagrinėjant praktinius pavyzdžius (pavyzdžiui, skirtingo dydžio nuotrauką), aptariama, kaip galima padidinti ar sumažinti objekto vaizdą. Koordinačių plokštumoje arba languotame popieriuje sudaromos didėjančių ar mažėjančių figūrų sekos, mokoma(si) surasti trūkstamus jų narius, apibūdinti taisyklę, kaip yra sudaryta figūrų seka.
-
 #### Braižymas
 
-Skriestuvu ir liniuote mokoma(si) atidėti atkarpai lygią atkarpą, nubraižyti kampui lygų kampą, trikampiui lygų trikampį. Braižant trikampiui lygų trikampį, įsitikinama, kad užduotis atliekama ir turint tik tris tam tikrus trikampio elementus. Apibendrinant pavienius lygių trikampių brėžimo atvejus, suformuluojama taisyklė apie trikampio egzistavimą, suformuluojami trikampių lygumo požymiai, paprasčiausiais atvejais mokoma(si) juos taikyti.
+Skriestuvu ir liniuote mokoma(si) atidėti atkarpai lygią atkarpą, nubraižyti kampui lygų kampą, trikampiui lygų trikampį.
+
+Braižant trikampiui lygų trikampį, įsitikinama, kad užduotis atliekama ir turint tik tris tam tikrus trikampio elementus.
+
+Apibendrinant pavienius lygių trikampių brėžimo atvejus, suformuluojama taisyklė apie trikampio egzistavimą, suformuluojami trikampių lygumo požymiai, paprasčiausiais atvejais mokoma(si) juos taikyti.
 
 ### Figūros
 
 #### Plokštumos figūros
 
-Apibrėžiama, kokios figūros matematikoje vadinamos panašiosiomis. Aiškinama(si), kokie panašiųjų figūrų elementai vadinami atitinkamais, mokoma(si) juos atpažinti. Tyrinėjant panašiuosius trikampius, įsitikinama, kad jų atitinkami kampai yra lygūs, o atitinkamų kraštinių ilgių santykiai lygūs tam pačiam skaičiui (šis skaičius vadinamas trikampių panašumo koeficientu). Apibrėžiama ir taikoma mastelio sąvoka. Suformuluojami trikampių panašumo požymiai. Mokoma(si) rasti panašiųjų trikampių, panašiųjų keturkampių nežinomų kraštinių ilgius, sudarant proporcijas. Pateikiami ir aptariami keli keturkampio kampų sumos radimo būdai.
+Apibrėžiama ir taikoma mastelio sąvoka.
+
+Įsitikinama (matuojant) ir įrodoma (keturkampį jo įstrižaine padalijant į du trikampius), kad keturkampio kampų didumų suma yra lygi 360 laipsnių.
+
+Pateikiami ir aptariami keli keturkampio kampų sumos radimo būdai.
 
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
 
-Mokoma(si) kelti statistinius klausimus, į kuriuos atsakyti galima analizuojant diskrečiuosius duomenis, pateiktus dvigubomis stulpelinėmis diagramomis, linijinėmis diagramomis. Praktikuojamasi išskirti požymį ir numatyti jo reikšmes, rūšiuoti duomenis pagal pasirinktą požymį. Išsiaiškinama, ką vadiname imties moda, mediana. Mokoma(si) apskaičiuoti kiekybinių duomenų vidurkį, modą ir medianą iš duomenų (dažnių) lentelės ar stulpelinės diagramos, aptariama, kuo svarbi kiekviena šių charakteristikų, kaip jos viena kitą papildo. Braižant diagramas ir duomenų lenteles, randant skaitines charakteristikas, pasitelkiamos ir skaitmeninės technologijos.
+Nagrinėjami duomenų rinkiniai pagal du požymius. Mokoma(si) sudaryti dažnių lenteles, braižyti ir interpretuoti dvigubas stulpelines ir linijines diagramas, atsakyti į su duomenimis susijusius klausimus. Praktikuojamasi rūšiuoti duomenis pagal pasirinktą požymį.
+
+Išsiaiškinama, ką vadiname duomenų moda, mediana.
+
+Mokoma(si) apskaičiuoti duomenų vidurkį, modą ir medianą iš duomenų (dažnių) lentelės ar stulpelinės diagramos, aptariama, kuo svarbi kiekviena šių charakteristikų, kaip jos viena kitą papildo.
+
+Braižant diagramas ir sudarant dažnių lenteles, apskaičiuojant skaitines charakteristikas, pasitelkiamos ir skaitmeninės technologijos.
 
 ### Tikimybės ir jų interpretavimas
 
-Apibrėžiama įvykio sąvoka (galimų baigčių rinkinys). Nagrinėjami vieno dviejų etapų bandymai (stochastiniai bandymai) ir su jais susiję nesutaikomi įvykiai. Sudarant baigčių su dviem elementais rinkinius, braižomi galimybių medžiai ir sudaromos galimybių lentelės. Taip pat aptariama, kaip galima apskaičiuoti dviejų etapų bandymų baigčių skaičių, taikant daugybos taisyklę. Apibrėžiami įvykiai: elementarusis, būtinasis, negalimasis.
+Apibrėžiama įvykio sąvoka (galimų baigčių rinkinys).
+
+Nagrinėjami vieno dviejų etapų bandymai (stochastiniai bandymai) ir su jais susiję nesutaikomi įvykiai.
+
+Sudarant baigčių su dviem elementais rinkinius, braižomi galimybių medžiai ir sudaromos galimybių lentelės.
+
+Taip pat aptariama, kaip galima apskaičiuoti dviejų etapų bandymų baigčių skaičių, taikant daugybos taisyklę.
+
+Apibrėžiami įvykiai: elementarusis, būtinasis, negalimasis.
 
 Mokoma(si) taikyti formulę
 
-$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}  $.
+$\mathbf{P}(\mathrm{įvykio}) = \frac{m}{n}$.
 
 Aptariama, kodėl įvykio tikimybė visuomet yra skaičius iš intervalo $[0; 1]$.
 
 Mokoma(si) formuluoti įvykiui priešingą įvykį, pagrindžiamas įvykio ir jam priešingo įvykio tikimybių sąryšis.
 
-Kuriamos ir aptariamos žaidimo taisyklės, numatančios tą pačią laimėjimo tikimybę kiekvienam žaidėjui. Diskutuojama, kaip statistika gali padėti apskaičiuoti apytikrį įvykio tikėtinumą.
+Kuriamos ir aptariamos žaidimo taisyklės, numatančios tą pačią laimėjimo tikimybę kiekvienam žaidėjui.
+
+Diskutuojama, kaip statistika gali padėti apskaičiuoti apytikrį įvykio tikėtinumą.
 
 # 7 klasė
 
@@ -500,11 +604,21 @@ Kuriamos ir aptariamos žaidimo taisyklės, numatančios tą pačią laimėjimo 
 
 #### Laipsnis su sveikuoju rodikliu
 
-Apibrėžiamas laipsnis su natūraliuoju rodikliu. Pagrindžiami ir taikomi laipsnių su vienodais pagrindais ir laipsnių su skirtingais pagrindais, bet tokiais pačiais rodikliais daugybos ir dalybos, taip pat laipsnio kėlimo laipsniu veiksmai. Apibrėžiama laipsnio su nuliniu ir sveikuoju neigiamuoju rodikliu sąvoka. Pagrindžiama, kad laipsniams su sveikaisiais neigiamaisiais rodikliais būdingos tos pačios savybės kaip ir laipsniams su sveikaisiais teigiamaisiais rodikliais. Paaiškinama, kad $a^0=1$, kai $a$ nelygu $0$. Aptariama veiksmų atlikimo tvarka reiškinyje, kai jame yra ir laipsnių. Nagrinėjamos realaus pasaulio situacijos, kai skaičiai užrašyti standartine skaičiaus išraiška $a \cdot10^k$, kai $1 ≤ a<10;\ k$ yra sveikasis skaičius. Mokoma(si) skaičius užrašyti tokiu pavidalu, juos perskaityti, palyginti. (Plačiau standartinio skaičiaus sąvoka taikoma fizikos pamokose.)
+Apibrėžiamas laipsnis su natūraliuoju rodikliu.
+
+Pagrindžiami ir taikomi laipsnių su vienodais pagrindais ir laipsnių su skirtingais pagrindais, bet tokiais pačiais rodikliais daugybos ir dalybos, taip pat laipsnio kėlimo laipsniu veiksmai.
+
+Apibrėžiama laipsnio su nuliniu ir sveikuoju neigiamuoju rodikliu sąvoka.
+
+Pagrindžiama, kad laipsniams su sveikaisiais neigiamaisiais rodikliais būdingos tos pačios savybės kaip ir laipsniams su sveikaisiais teigiamaisiais rodikliais. Paaiškinama, kad $a^0=1$, kai $a$ nelygu $0$.
+
+Aptariama veiksmų atlikimo tvarka reiškinyje, kai jame yra ir laipsnių.
+
+Nagrinėjamos realaus pasaulio situacijos, kai skaičiai užrašyti standartine skaičiaus išraiška $a \cdot10^k$, kai $1 ≤ a<10;\ k$ yra sveikasis skaičius. Mokoma(si) skaičius užrašyti tokiu pavidalu, juos perskaityti, palyginti. (Plačiau standartinio skaičiaus sąvoka taikoma fizikos pamokose.)
 
 ### Finansiniai skaičiavimai
 
-Mokoma(si) spręsti uždavinius, kai skaičius ar dydis kelis kartus tam tikru procentų skaičiumi padidinamas arba sumažinamas. Aptariami moksliniai informacijos šaltiniai, kurie gali padėti planuoti ir pasiekti finansinį tikslą. Mokoma(si) sukurti, sekti ir koreguoti biudžetą, siekiant ilgalaikių finansinių tikslų pagal įvairius scenarijus (pavyzdžiui, mokiniai gali parengti ir apsvarstyti kelis kelionės, renginio, remonto ir pan. biudžeto pasiūlymus). Nagrinėjant bankų ir kitų finansinių institucijų konkrečius siūlymus, aptariama, kas yra palūkanos, palūkanų norma, mokoma(si) jas apskaičiuoti. Mokoma(si) paaiškinti, kaip palūkanų normos gali turėti įtakos taupymui, investicijoms ir galutinei skolinimosi kainai. Nagrinėjami už prekes ir paslaugas apmokėtų sąskaitų pavyzdžiai, įvairių finansinių įstaigų siūlomos paskolų palūkanų normos ir taikomi papildomi mokesčiai; mokoma(si) priimti sprendimą dėl geriausio pasirinkimo varianto iš kelių siūlomų.
+Mokoma(si) spręsti uždavinius, kai skaičius ar dydis kelis kartus tam tikru procentų skaičiumi padidinamas arba sumažinamas.
 
 ## Modeliai ir sąryšiai
 
@@ -530,45 +644,81 @@ jeigu $a > b$ ir $c > 0$, tai $a : c > b : c$;
 
 jeigu $a > b$ ir $c < 0$, tai $a : c < b : c$.
 
-Apibrėžiamos sąvokos: nelygybė su vienu nežinomuoju, nelygybės sprendinys, nelygybės sprendinių aibė, griežta nelygybė, negriežta nelygybė; išsiaiškinama ženklų $≤, ≥ $prasmė. Aptariama, ką reiškia nelygybių sistema, dviguboji nelygybė; mokoma(si) ją užrašyti dviejų nelygybių sistema. Nelygybių su vienu nežinomuoju sprendimo algoritmas pagrindžiamas skaitinių nelygybių savybių taikymu. Praktikuojamasi spręsti dvigubąsias nelygybes, jų sistemas. Atkreipiamas dėmesys į nelygybės ar nelygybių sistemos sprendimo algoritmą; mokoma(si) taisyklingai užrašyti nelygybės ar nelygybių sistemos sprendimą, pavaizduoti gautus sprendinius skaičių tiesėje, užrašyti juos intervalu. Sprendžiami uždaviniai, kai prašoma atrinkti tam tikras sąlygas tenkinančius nelygybių sprendinius.
+Apibrėžiamos sąvokos: nelygybė su vienu nežinomuoju, nelygybės sprendinys, nelygybės sprendinių aibė, griežta nelygybė, negriežta nelygybė; išsiaiškinama ženklų $≤, ≥$ prasmė.
+
+Nelygybių su vienu nežinomuoju sprendimo algoritmas pagrindžiamas skaitinių nelygybių savybių taikymu.
+
+Mokoma(si) taisyklingai užrašyti nelygybės sprendimą, pavaizduoti gautus sprendinius skaičių tiesėje, užrašyti juos intervalu.
+
+Sprendžiami uždaviniai, kai prašoma atrinkti tam tikras sąlygas tenkinančius nelygybių sprendinius.
 
 ### Tiesiniai ir netiesiniai sąryšiai
 
 #### Atvirkštinis proporcingumas
 
-Nagrinėjamos įvesties ir (ar) išvesties (I ir (ar) O) lentelės, kuriomis išreikštas atvirkštinio proporcingumo sąryšis; mokoma(si) tokias lenteles sudaryti ir susieti su uždavinio sąlyga (pavyzdžiui, greitis ir laikas, esant pastoviam keliui; stačiakampio ilgis ir plotis, esant pastoviam plotui ir pan.). Taip pat mokoma(si) tokių lentelių duomenis užrašyti skaičių poromis ir pažymėti taškais koordinačių plokštumoje. Formuojami grafiko skaitymo ir braižymo įgūdžiai. Sprendžiami įvairaus konteksto uždaviniai, kuriuose remiamasi samprata apie tiesioginį ir atvirkštinį proporcingumą.
+Nagrinėjamos įvesties ir (ar) išvesties (I ir (ar) O) lentelės, kuriomis išreikštas atvirkštinio proporcingumo sąryšis; mokoma(si) tokias lenteles sudaryti ir susieti su uždavinio sąlyga (pavyzdžiui, greitis ir laikas, esant pastoviam keliui; stačiakampio ilgis ir plotis, esant pastoviam plotui ir pan.). Taip pat mokoma(si) tokių lentelių duomenis užrašyti skaičių poromis ir pažymėti taškais koordinačių plokštumoje.
+
+Formuojami grafiko skaitymo ir braižymo įgūdžiai.
+
+Sprendžiami įvairaus konteksto uždaviniai, kuriuose remiamasi samprata apie tiesioginį ir atvirkštinį proporcingumą.
 
 ## Geometrija ir matavimai
 
 ### Konstravimas, transformacijos
 
-#### Transformacijos
-
-Mokoma(si) pagrįsti koordinačių plokštumoje pavaizduotų figūrų lygumą, nurodant transformacijų seką, kaip iš vienos figūros buvo gauta kita. Taip pat mokoma(si) šią seką apibūdinti, nurodant pradinės ir gautos figūros koordinates (pavyzdžiui, $(x; y),$ $(x + 2$; $y + 2),$ ...).
-
 #### Braižymas
 
-Fizinėmis ir skaitmeninėmis priemonėmis mokoma(si) rasti atkarpos vidurio tašką, nubrėžti duotai tiesei statmeną tiesę (kai ji eina per nurodytą tašką tiesėje ar šalia jos), padalyti kampą pusiau, pavaizduoti brėžinyje atstumą tarp dviejų taškų, tarp taško ir tiesės, tarp lygiagrečiųjų tiesių. Mokoma(si) brėžinyje atpažinti ar nubrėžti šiuos figūrų elementus: trikampio pusiaukampines, pusiaukraštines, aukštines; lygiagretainio aukštines; trapecijos aukštinę, pagrindus ir šonines kraštines.
+Fizinėmis ir skaitmeninėmis priemonėmis mokoma(si) rasti atkarpos vidurio tašką, nubrėžti duotai tiesei statmeną tiesę (kai ji eina per nurodytą tašką tiesėje ar šalia jos), padalyti kampą pusiau, pavaizduoti brėžinyje atstumą tarp dviejų taškų, tarp taško ir tiesės, tarp lygiagrečiųjų tiesių.
+
+Mokoma(si) brėžinyje atpažinti ar nubrėžti šiuos figūrų elementus:
 
 ### Figūros
 
 #### Plokštumos figūros
 
-Nagrinėjant pavyzdžius, išsiaiškinama, kas yra vadinama apibrėžtimi, teorema, hipoteze, išvada. Nagrinėjami sąlyginių teiginių „jei, tai“ pavyzdžiai, aiškinamasi, kuo teiginio sąlyga skiriasi nuo teiginio išvados. Mokoma(si) formuluoti sąlyginiam teiginiui atvirkštinį teiginį. Nagrinėjant konkrečius atvejus, įsitikinama, kad ne kiekvienas atvirkštinis teiginys yra teisingas. Apibrėžiama lygiagrečių tiesių sąvoka. Nagrinėjami kampai, kurie gaunami dvi lygiagrečias tieses perkirtus trečiąja tiese: atitinkamieji, vidaus priešiniai, vidaus vienašaliai. Aptariami lygiagrečiųjų tiesių požymiai, sprendžiami uždaviniai, susiję su tiesių lygiagretumu. Apibrėžiama, kokie keturkampiai vadinami kvadratais, stačiakampiais, lygiagretainiais, rombais, trapecijomis. Tyrinėjant konkrečius keturkampių pavyzdžius, pastebima, kad skirtingų tipų keturkampiai gali turėti bendrų ir tik jiems būdingų savybių. Aptariamos ir taikomos lygiagretainio, rombo, stačiakampio ir kvadrato savybės, kartu pastebint, kuri figūra yra bendresnės figūrų grupės dalis. Aiškinamasi, ką reiškia klasifikuoti figūras, prisimenamos trikampių rūšys (pagal kampus ir kraštines), klasifikuojami keturkampiai (pagal lygiagrečių kraštinių skaičių). Aptariamos trapecijų rūšys. Žinios apie nagrinėtas plokščiąsias figūras taikomos, sprendžiant paprastus matematinio ir realaus konteksto uždavinius.
+Nagrinėjant pavyzdžius, išsiaiškinama, kas yra vadinama apibrėžtimi, teorema, hipoteze, išvada.
+
+Nagrinėjami sąlyginių teiginių „jei, tai“ pavyzdžiai, aiškinamasi, kuo teiginio sąlyga skiriasi nuo teiginio išvados.
+
+Mokoma(si) formuluoti sąlyginiam teiginiui atvirkštinį teiginį. Nagrinėjant konkrečius atvejus, įsitikinama, kad ne kiekvienas atvirkštinis teiginys yra teisingas.
+
+Apibrėžiama lygiagrečių tiesių sąvoka. Nagrinėjami kampai, kurie gaunami dvi lygiagrečias tieses perkirtus trečiąja tiese: atitinkamieji, vidaus priešiniai, vidaus vienašaliai. Aptariami lygiagrečiųjų tiesių požymiai, sprendžiami uždaviniai, susiję su tiesių lygiagretumu.
+
+Apibrėžiama, kokie keturkampiai vadinami kvadratais, stačiakampiais, lygiagretainiais, rombais, trapecijomis. Tyrinėjant konkrečius keturkampių pavyzdžius, pastebima, kad skirtingų tipų keturkampiai gali turėti bendrų ir tik jiems būdingų savybių.
+
+Aptariamos ir taikomos lygiagretainio, rombo, stačiakampio ir kvadrato savybės, kartu pastebint, kuri figūra yra bendresnės figūrų grupės dalis.
+
+Aiškinamasi, ką reiškia klasifikuoti figūras, prisimenamos trikampių rūšys (pagal kampus ir kraštines), klasifikuojami keturkampiai (pagal lygiagrečių kraštinių skaičių).
+
+Aptariamos trapecijų rūšys.
+
+Žinios apie nagrinėtas plokščiąsias figūras taikomos, sprendžiant paprastus matematinio ir realaus konteksto uždavinius.
 
 #### Erdvės figūros
 
-Nagrinėjant modelius ir brėžinius, mokoma(si) atpažinti stačiąją ar taisyklingąją prizmę, jos aukštinę; taisyklingąją piramidę, jos aukštinę ir apotemą; ritinio aukštinę; kūgio aukštinę ir sudaromąją.
+Nagrinėjant modelius ir brėžinius, mokoma(si) atpažinti
 
 #### Ilgio, ploto, tūrio skaičiavimai
 
-Mokoma(si) apskaičiuoti trikampio, lygiagretainio, trapecijos plotą kaip stačiakampio ar kvadrato ploto dalį. Pagrindžiamos šių figūrų plotų formulės. Tyrinėjant nustatoma, kad apskritimo ilgio ir apskritimo skersmens ilgio santykis apytiksliai lygus $3,14$ (įvedamas skaičius $π$). Aiškinama(si), kaip apskaičiuoti apskritimo ilgį, skritulio plotą, kai yra žinomas jo spindulio ilgis. Sprendžiami skritulio dalies ploto, apskritimo lanko dalies ilgio radimo uždaviniai, pavyzdžiui, ieškoma $ \frac{1}{4}  $ skritulio ploto. Pagrindžiamos ritinio ir kūgio paviršiaus ploto apskaičiavimo formulės. Sprendžiami ritinio, kūgio paviršiaus ploto apskaičiavimo uždaviniai. Mokoma(si) paprastose situacijose taikyti stačiosios prizmės, ritinio, kūgio ir piramidės tūrio formules (šios formulės pateikiamos be įrodymų).
+Mokoma(si) apskaičiuoti trikampio, lygiagretainio, trapecijos plotą kaip stačiakampio ar kvadrato ploto dalį. Pagrindžiamos šių figūrų plotų formulės.
+
+Tyrinėjant nustatoma, kad apskritimo ilgio ir apskritimo skersmens ilgio santykis apytiksliai lygus $3,14$ (įvedamas skaičius $π$). Aiškinama(si), kaip apskaičiuoti apskritimo ilgį, skritulio plotą, kai yra žinomas jo spindulio ilgis. Sprendžiami skritulio dalies ploto, apskritimo lanko dalies ilgio radimo uždaviniai, pavyzdžiui, ieškoma $ \frac{1}{4}  $skritulio ploto.
+
+Pagrindžiamos ritinio ir kūgio paviršiaus ploto apskaičiavimo formulės. Sprendžiami ritinio, kūgio paviršiaus ploto apskaičiavimo uždaviniai.
+
+Mokoma(si) paprastose situacijose taikyti stačiosios prizmės, ritinio, kūgio ir piramidės tūrio formules (šios formulės pateikiamos be įrodymų).
 
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
 
-Aptariamos sąvokos: populiacija ir imtis, imties dydis, reprezentatyvioji imtis, atsitiktinumas. Paaiškinama, kas yra atsitiktinė imties elementų atranka, kaip galima organizuoti atsitiktinę imties elementų atranką (pavyzdžiui, pasinaudoti generatoriais). Susipažįstama su įvairiais imčių sudarymo būdais: sistemine atranka, sluoksnine atranka, lizdine atranka. Aiškinama(si) įvairių rūšių duomenų pobūdis, kaip praktikoje gali būti interpretuojamas duomenų rinkinių kintamumas. Nagrinėjant konkrečias situacijas, aptariami imčių sudarymo ir gautų išvadų apie jas pagrįstumo klausimai (pavyzdžiui, mokoma(si) nuspėti mokykloje vykstančių rinkimų nugalėtoją, remiantis atsitiktinės atrankos tyrimo duomenimis). Mokoma(si) duomenis pateikti skrituline diagrama ir spręsti uždavinius, kai duomenys pateikiami šios rūšies diagramomis.
+Aptariamos sąvokos: populiacija ir imtis, imties dydis, reprezentatyvioji imtis, atsitiktinumas.
+
+Paaiškinama, kas yra atsitiktinis imties elementų ėmimas (atsitiktinė atranka), kaip galima organizuoti atsitiktinį imties elementų ėmimą (atsitiktinę atranką).
+
+Susipažįstama su įvairiais imčių sudarymo būdais: sistemine atranka, sluoksnine atranka, lizdine atranka; nagrinėjami pavyzdžiai.
+
+Mokoma(si) duomenis pateikti skrituline diagrama ir spręsti uždavinius, kai duomenys pateikiami šios rūšies diagramomis.
 
 # 8 klasė
 
@@ -578,19 +728,27 @@ Aptariamos sąvokos: populiacija ir imtis, imties dydis, reprezentatyvioji imtis
 
 #### Kvadratinė ir kubinė šaknys
 
-Apibrėžiamos sąvokos: kvadratinė šaknis, kubinė šaknis. Mokoma(si) apskaičiuoti kvadratinių ir kubinių šaknų reikšmes, kai pošaknyje yra atitinkamų racionaliųjų skaičių kvadratai, kubai. Mokoma(si) rasti kvadratinės ir kubinės šaknies apytikslę reikšmę, įvertinti skaitinio reiškinio, kuriame yra kvadratinė arba kubinė šaknis, reikšmę. Sprendžiami uždaviniai, kai be skaičiuotuvo reikia įvertinti, tarp kokių sveikųjų skaičių yra nurodytoji šaknis (pavyzdžiui, rasti tokį sveikąjį skaičių$a$, su kuriuo teisinga nelygybė $a ≤ \sqrt{111} < a+1$). Praktikuojamasi įkelti teigiamą skaičių į pošaknį ir iškelti jį prieš šaknies ženklą, taip pat sudauginti to paties laipsnio šaknis ar jas padalyti.
+Apibrėžiamos sąvokos: kvadratinė šaknis, kubinė šaknis. Mokoma(si) apskaičiuoti kvadratinių ir kubinių šaknų reikšmes, kai pošaknyje yra atitinkamų racionaliųjų skaičių kvadratai, kubai. Mokoma(si) rasti kvadratinės ir kubinės šaknies apytikslę reikšmę, įvertinti skaitinio reiškinio, kuriame yra kvadratinė arba kubinė šaknis, reikšmę.
+
+Sprendžiami uždaviniai, kai be skaičiuotuvo reikia įvertinti, tarp kokių sveikųjų skaičių yra nurodytoji šaknis (pavyzdžiui, rasti tokį sveikąjį skaičių $a$, su kuriuo teisinga nelygybė $a < \sqrt{111} < a+1$).
+
+Praktikuojamasi įkelti teigiamą skaičių į pošaknį ir iškelti jį prieš šaknies ženklą, taip pat sudauginti to paties laipsnio šaknis ar jas padalyti.
 
 #### Skaičių aibės
 
-Apibrėžiama, kokie skaičiai vadinami racionaliaisiais, iracionaliaisiais, realiaisiais. Aptariamos sąvokos: skaičių aibė, baigtinė aibė, begalinė aibė, aibės poaibis. Nustatomi ryšiai tarp skaičių aibių $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}$. Mokoma(si) pagrįsti ir užrašyti, kuriai skaičių aibei priklauso ar nepriklauso įvairūs skaičiai (pavyzdžiui, $5∈\mathbb{N}$). Mokoma(si) skaičių aibes pavaizduoti simboliais, schemomis, užrašyti, naudojantis aibių teorijos simboliais, intervalais, nelygybėmis, reiškiniais (pavyzdžiui, mokoma(si) reiškiniu užrašyti lyginių, nelyginių natūraliųjų skaičių aibes).
+Apibrėžiama, kokie skaičiai vadinami racionaliaisiais, iracionaliaisiais, realiaisiais.
+
+Aptariamos sąvokos: skaičių aibė, baigtinė aibė, begalinė aibė, aibės poaibis. Nustatomi ryšiai tarp skaičių aibių $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}$. Mokoma(si) pagrįsti ir užrašyti, kuriai skaičių aibei priklauso ar nepriklauso įvairūs skaičiai (pavyzdžiui, $5∈\mathbb{N}$).
+
+Mokoma(si) skaičių aibes pavaizduoti simboliais, schemomis, užrašyti, naudojantis aibių teorijos simboliais, intervalais, nelygybėmis, reiškiniais (pavyzdžiui, mokoma(si) reiškiniu užrašyti lyginių, nelyginių natūraliųjų skaičių aibes).
 
 #### Veiksmai su realiaisiais skaičiais
 
-Aptariama veiksmų su realiaisiais skaičiais atlikimo tvarka. Mokoma(si) apskaičiuoti, palyginti, įvertinti nesudėtingų skaitinių reiškinių reikšmes. Atliekant veiksmus su realiaisiais skaičiais, pirmenybė teikiama sklandžiam mintinio skaičiavimo strategijų taikymui. Kai skaičiai nėra patogūs skaičiuoti, pasitelkiamas skaičiuotuvas.
+Aptariama veiksmų su realiaisiais skaičiais atlikimo tvarka.
+
+Mokoma(si) apskaičiuoti, palyginti, įvertinti nesudėtingų skaitinių reiškinių reikšmes. Atliekant veiksmus su realiaisiais skaičiais, pirmenybė teikiama mintinio skaičiavimo strategijų taikymui. Kai skaičiai nėra patogūs skaičiuoti, pasitelkiamas skaičiuotuvas.
 
 ### Finansiniai skaičiavimai
-
-Mokoma(si) nustatyti ir palyginti valiutų kursus, konvertuoti valiutas, priimti sprendimą dėl mokėjimo būdo, kai galima pasirinkti, kokia valiuta atsiskaityti už prekes ar teikiamas paslaugas. Naudojantis skaitmeninėmis priemonėmis, tyrinėjami paprastų ir sudėtinių palūkanų augimo scenarijai ir aptariama, koks jų poveikis, planuojant ilgalaikį finansavimą (pavyzdžiui, sudaromas paskolos išsimokėjimo planas, taikant paprastuosius arba sudėtinius procentus; skaičiuojama, kokia būtų fiksuotos ir kintamosios palūkanų normos įtaka grąžintinai pinigų sumai). Aptariami galimybių gauti daugiau vertės už tuos pačius pinigus pavyzdžiai (pavyzdžiui, klientų lojalumas, dalyvavimas programose ir pan.). Mokoma(si) sukurti skaičiavimais grįsto geriausio pasirinkimo scenarijų, kuomet palyginamos palūkanų normos, metiniai mokesčiai, atlygiai ir kitos paskatos, kurias siūlo įvairios kredito ar lizingo bendrovės, bankai (pavyzdžiui, apskaičiuojami prekių įsigijimo, perkant kreditu ar lizingu, kainų skirtumai, aptariami kredito ir lizingo privalumai ir trūkumai).
 
 ## Modeliai ir sąryšiai
 
@@ -600,6 +758,12 @@ Mokoma(si) nustatyti ir palyginti valiutų kursus, konvertuoti valiutas, priimti
 
 Apibrėžiamos vienanario, dvinario, trinario, daugianario sąvokos. Aiškinama(si), kaip sudauginti du raidinius reiškinius. Išvedamos ir taikomos greitosios daugybos formulės (kubų formulės nenagrinėjamos). Mokoma(si) paprastais atvejais iš kvadratinio trinario išskirti dvinario kvadratą. Daugianariai skaidomi dauginamaisiais (iškėlimas prieš skliaustus, greitosios daugybos formulių taikymas, grupavimas).
 
+#### Kvadratinės lygtys
+
+. Apibrėžiamos sąvokos: antrojo laipsnio (kvadratinė) lygtis su vienu nežinomuoju ir jos sprendinys.
+
+Mokoma(si) spręsti nepilnas kvadratines lygtis , reiškinį skaidant tiesiniais dauginamaisiais, ir , reiškinį skaidant tiesiniais dauginamaisiais, bei lygčiai suteikiant pavidalą . Sprendžiami įvairaus konteksto uždaviniai, sudarant nepilnas kvadratines lygtis.
+
 #### Lygčių sistemos
 
 Apibrėžiamos sąvokos: lygtis su dviem nežinomaisiais, lygties su dviem nežinomaisiais sprendinys (skaičių pora), praktikuojamasi vieną nežinomąjį išreikšti kitu. Mokoma(si) tiesinės lygties
@@ -608,15 +772,15 @@ $ax + by = c$
 
 sprendinius pavaizduoti grafiškai (taikant ir skaitmenines priemones).
 
-Aptariamos sąvokos: tiesinių lygčių sistema, tiesinių lygčių sistemos sprendinys. Mokoma(si) spręsti tiesinių lygčių sistemas grafiniu, keitimo, sudėties, sulyginimo būdais, tyrinėjama, kiek sprendinių gali turėti tokia sistema.
+Apibrėžiamos sąvokos: tiesinių lygčių sistema, tiesinių lygčių sistemos sprendinys.
 
-Nagrinėjamos įvairios realaus pasaulio situacijos, kurios gali būti modeliuojamos lygčių sistemomis.
+Mokoma(si) spręsti tiesinių lygčių sistemas grafiniu, keitimo, sudėties, sulyginimo būdais, tyrinėjama, kiek sprendinių gali turėti tokia sistema.
+
+#### Nelygybių sistemos
+
+Apibrėžiamos sąvokos: dviejų pirmojo laipsnio nelygybių su vienu nežinomuoju sistema ir jos sprendinys, dviguboji nelygybė ir jos sprendinys. Mokoma(si) spręsti dviejų pirmojo laipsnio nelygybių su vienu nežinomuoju sistemas bei dvigubąsias nelygybes (čia .
 
 ### Tiesiniai ir netiesiniai sąryšiai
-
-#### Tiesinis sąryšis
-
-Nagrinėjamos įvesties ir (ar) išvesties (I ir (ar) O) lentelės, kuriomis išreikštas tiesinis sąryšis, mokoma(si) tokias lenteles sudaryti ir susieti su tekstinio uždavinio sąlyga (pavyzdžiui, kainos, kurią sudaro pastovioji ir kintamoji dalis, apskaičiavimas ir pan.). Tokių lentelių duomenys siejami su grafine jų išraiška, pastebint, kad skaičių poras atitinkantys taškai yra vienoje tiesėje. Sprendžiami įvairaus konteksto uždaviniai, kai dydžiai siejami tiesiniu sąryšiu.
 
 ## Geometrija ir matavimai
 
@@ -624,21 +788,33 @@ Nagrinėjamos įvesties ir (ar) išvesties (I ir (ar) O) lentelės, kuriomis iš
 
 #### Transformacijos
 
-Apibrėžiama vektoriaus (kryptinės atkarpos) sąvoka. Mokoma(si) atpažinti lygius, priešinguosius vektorius, rasti vektorių sumą, skirtumą, padauginti vektorių iš skaičiaus. Šie apibrėžimai taikomi, sprendžiant paprastus geometrinius uždavinius (plačiau vektoriaus sąvoka taikoma fizikos pamokose).
+Apibrėžiama vektoriaus (kryptinės atkarpos) sąvoka.
 
-#### Braižymas
-
-Projektuojama, kaip atrodytų kuriamas objektas, žvelgiant į jį iš viršaus, iš priekio, iš šono. Projektuojamų objektų brėžiniai, numatomi jų vaizdai atliekami kompiuterinėmis programomis. Kuriant ar gaminant modelius, mokomasi naudotis brėžiniais, kuriuose nurodytas mastelis.
+Mokoma(si) atpažinti lygius, priešinguosius vektorius, rasti vektorių sumą, skirtumą, padauginti vektorių iš skaičiaus. Šie apibrėžimai taikomi, sprendžiant paprastus geometrinius uždavinius (plačiau vektoriaus sąvoka taikoma fizikos pamokose).
 
 ### Figūros
 
 #### Plokštumos figūros
 
-Aiškinamasi, kuo matematinis įrodymas skiriasi nuo empirinių pastebėjimų. Pastebima, kad tą patį teiginį galima įrodyti keliais būdais. (Šioms idėjoms iliustruoti labai tinka Pitagoro teorema.) Paaiškinama, kuo tiesioginis įrodymas skiriasi nuo įrodymo prieštaros būdu (pavyzdžiui, prieštaros būdu įrodoma teorema apie taško atžvilgiu simetriškų tiesių lygiagretumą). Įrodomos Pitagoro ir jai atvirkštinė teoremos; mokoma(si) jas taikyti, sprendžiant įvairius uždavinius. Apibrėžiamos sąvokos: trikampio vidurio linija, trapecijos vidurio linija; pagrindžiamos jų savybės. Tyrinėjamos lygiašonio, lygiakraščio trikampio savybės, mokoma(si) jas pagrįsti. Įrodoma statinio priešais 30° kampą savybė. Mokoma(si) taikyti įgytas žinias, sprendžiant įvairius nesudėtingus uždavinius.
+Aiškinamasi, kuo matematinis įrodymas skiriasi nuo empirinių pastebėjimų. Pastebima, kad tą patį teiginį galima įrodyti keliais būdais. (Šioms idėjoms iliustruoti labai tinka Pitagoro teorema.) Paaiškinama, kuo tiesioginis įrodymas skiriasi nuo įrodymo prieštaros būdu (pavyzdžiui, prieštaros būdu įrodoma teorema apie taško atžvilgiu simetriškų tiesių lygiagretumą).
+
+Įrodomos Pitagoro ir jai atvirkštinė teoremos; mokoma(si) jas taikyti, sprendžiant įvairius uždavinius.
+
+Apibrėžiamos sąvokos: trikampio vidurio linija, trapecijos vidurio linija; be įrodymo pateikiamos jų savybės.
+
+Tyrinėjamos lygiašonio, lygiakraščio trikampio savybės, mokoma(si) jas pagrįsti.
+
+Įrodoma statinio priešais 30° kampą savybė.
+
+Mokoma(si) taikyti įgytas žinias, sprendžiant įvairius nesudėtingus uždavinius.
 
 #### Erdvės figūros
 
-Nagrinėjami pavyzdžiai, kaip Pitagoro teorema taikoma erdvinių figūrų elementams apskaičiuoti. Sprendžiami paprasti stačiosios prizmės, taisyklingosios piramidės, ritinio, kūgio, sferos paviršiaus ploto ir tūrio skaičiavimo uždaviniai. Naudojantis fizinėmis ir skaitmeninėmis priemonėmis, gaminami erdvinių figūrų modeliai, atliekami kūrybiniai darbai.
+Nagrinėjami pavyzdžiai, kaip Pitagoro teorema taikoma erdvinių figūrų elementams apskaičiuoti.
+
+Sprendžiami paprasti stačiosios prizmės, taisyklingosios piramidės, ritinio, kūgio, sferos paviršiaus ploto ir tūrio skaičiavimo uždaviniai.
+
+Naudojantis fizinėmis ir skaitmeninėmis priemonėmis, gaminami erdvinių figūrų modeliai, atliekami kūrybiniai darbai.
 
 #### Ilgio, ploto, tūrio skaičiavimai
 
@@ -648,7 +824,15 @@ Sprendžiami įvairūs matematinio ir praktinio turinio uždaviniai, kai turimos
 
 ### Duomenys ir jų interpretavimas
 
-Nagrinėjamos situacijos, kai keliami sudėtingesni statistiniai klausimai. Aiškinamasi, kaip surinkti duomenys grupuojami į vienodo ilgio intervalus. Nagrinėjant konkrečius pavyzdžius, aptariamos histogramos, empirinio tankio sąvokos. Mokoma(si) duomenis suskirstyti į vienodo ilgio intervalus, taip pat įvertinti, koks galėtų būti į intervalus patekusių duomenų vidurkis. Apibrėžiama kvartilio sąvoka. Mokoma(si) surasti duomenų pirmąjį, antrąjį, trečiąjį kvartilius, grafiškai pavaizduoti duomenų išsibarstymą stačiakampe diagrama (su „ūsais“), skaityti ir suprasti tokia diagrama pavaizduotą informaciją. Mokoma(si) interpretuoti duomenis, kai yra išskirčių (stipriai išsiskiriančių duomenų). Nagrinėjant praktines situacijas, aptariama, kaip apskaičiuojamas sukauptasis dažnis, sukauptasis santykinis dažnis. Aiškinamasi, kaip sukauptojo dažnio ir sukauptojo santykinio dažnio lentelės duomenys pavaizduojami sukauptojo dažnio ar sukauptojo santykinio dažnio diagrama, kaip skaityti ir interpretuoti tokiomis diagramomis pateiktus duomenis.
+Mokoma(si) duomenis suskirstyti į vienodo ilgio intervalus, apskaičiuoti į intervalus suskirstytų duomenų vidurkį.
+
+Nagrinėjant konkrečius pavyzdžius, aptariama histogramos sąvoka, paaiškinamas skirtumas nuo stulpelinės diagramos.
+
+Apibrėžiami kvartiliai. Mokoma(si) apskaičiuoti duomenų pirmąjį, antrąjį, trečiąjį kvartilius, skaityti ir suprasti stačiakampe diagrama (su „ūsais“) pavaizduotą informaciją.
+
+Apibrėžiama išskirties sąvoka. Mokoma(si) interpretuoti rezultatus, kai yra išskirčių.
+
+Nagrinėjant praktines situacijas, aptariama, kaip apskaičiuojamas sukauptasis dažnis, sukauptasis santykinis dažnis. Aiškinamasi, kaip sukauptojo dažnio ir sukauptojo santykinio dažnio lentelės duomenys pavaizduojami sukauptojo dažnio ar sukauptojo santykinio dažnio diagrama ir interpretuojami rezultatai.
 
 # 9 (I gimnazijos) klasė
 
@@ -656,33 +840,41 @@ Nagrinėjamos situacijos, kai keliami sudėtingesni statistiniai klausimai. Aiš
 
 ### Dėsningumai
 
-#### Skaičių sekos
-
-Skaičių seka apibrėžiama kaip funkcija, kurios apibrėžimo sritis yra natūraliųjų skaičių aibė $\mathbb{N}$. Paprastais atvejais mokoma(si) skaičių sekas aprašyti ${n}$-tojo nario formule, taip pat rekurentiniu būdu. Sprendžiami įvairaus konteksto uždaviniai, kai nagrinėjami, taikomi, derinami įvairūs skaičių sekų apibūdinimo būdai.
-
 ### Algebra
 
 #### Kvadratinės lygtys
 
-Apibrėžiama antrojo laipsnio (kvadratinė) lygtis su vienu nežinomuoju. Įrodoma ir taikoma kvadratinės lygties sprendinių formulė. Nagrinėjamos diskriminanto reikšmės sąsajos su kvadratinės lygties sprendinių skaičiumi. Sprendžiami įvairaus konteksto uždaviniai, sudarant kvadratines lygtis.
+Įrodoma ir taikoma kvadratinės lygties sprendinių formulė. Nagrinėjamos diskriminanto reikšmės sąsajos su kvadratinės lygties sprendinių skaičiumi. Sprendžiami įvairaus konteksto uždaviniai, sudarant kvadratines lygtis.
 
 #### Raidiniai reiškiniai
 
-Apibrėžiama kvadratinio trinario sąvoka, įrodoma jo skaidymo dauginamaisiais formulė; ji taikoma, sprendžiant uždavinius. Apibrėžiama trupmeninio racionaliojo reiškinio sąvoka, aptariama jo apibrėžimo sritis. Mokoma(si) pritaikyti žinomus sudėties ir daugybos dėsnius, veiksmų su laipsniais ir trupmenomis savybes, pertvarkant, prastinant nesudėtingus trupmeninius racionaliuosius reiškinius.
+Apibrėžiama kvadratinio trinario sąvoka, įrodoma jo skaidymo dauginamaisiais formulė; ji taikoma, sprendžiant uždavinius.
+
+Apibrėžiama trupmeninio racionaliojo reiškinio sąvoka, aptariama jo apibrėžimo sritis.
+
+Mokoma(si) pritaikyti žinomus sudėties ir daugybos dėsnius, veiksmų su laipsniais ir trupmenomis savybes, pertvarkant, prastinant nesudėtingus trupmeninius racionaliuosius reiškinius, kai atliekami aritmetiniai veiksmai ne daugiau kaip su trimis racionaliaisiais reiškiniais.
 
 #### Lygčių sistemos
 
-Mokoma(si) dviejų lygčių sistemas (su dviem nežinomaisiais), kurių viena lygtis yra pirmojo, o kita – ne aukštesnio kaip antrojo laipsnio, spręsti grafiniu ir keitimo būdais. Nagrinėjamos įvairios realaus pasaulio situacijos, kurios gali būti modeliuojamos lygčių sistemomis.
+Mokoma(si) dviejų lygčių sistemas (su dviem nežinomaisiais), kurių viena lygtis yra pirmojo, o kita – ne aukštesnio kaip antrojo laipsnio, spręsti grafiniu ir keitimo būdais.
+
+Nagrinėjamos įvairios realaus pasaulio situacijos, kurios gali būti modeliuojamos lygčių sistemomis.
 
 ### Tiesiniai ir netiesiniai sąryšiai
 
 #### Funkcijos samprata
 
-Apibrėžiamos sąvokos: funkcija, funkcijos argumentas, funkcijos reikšmė, funkcijos apibrėžimo sritis, funkcijos reikšmių sritis, funkcijos grafikas. Mokoma(si) funkciją apibūdinti žodžiais, lentele, grafiku, formule (naudojantis ir skaitmeninėmis priemonėmis), apskaičiuoti ir (ar) nustatyti funkcijos reikšmes, kai yra žinoma funkcijos argumento reikšmė, ir atvirkščiai. Aiškinama(si), kuo funkcijos grafiko eskizas skiriasi nuo grafiko. Mokoma(si) nustatyti funkcijos apibrėžimo sritį, reikšmių sritį, funkcijos grafiko susikirtimo su koordinačių ašimis taškus; intervalus, kuriuose funkcija įgyja teigiamas ir neigiamas reikšmes; yra didėjančioji, mažėjančioji ar pastovioji.
+Apibrėžiamos sąvokos: funkcija, funkcijos argumentas, funkcijos reikšmė, funkcijos apibrėžimo sritis, funkcijos reikšmių sritis, funkcijos grafikas.
+
+Mokoma(si) funkciją apibūdinti žodžiais, lentele, grafiku, formule (naudojantis ir skaitmeninėmis priemonėmis), apskaičiuoti ir (ar) nustatyti funkcijos reikšmes, kai yra žinoma funkcijos argumento reikšmė, ir atvirkščiai.
+
+Mokoma(si) nustatyti funkcijos apibrėžimo sritį, reikšmių sritį, funkcijos grafiko susikirtimo su koordinačių ašimis taškus; intervalus, kuriuose funkcija įgyja teigiamas ir neigiamas reikšmes; yra didėjančioji, mažėjančioji ar pastovioji.
 
 #### Tiesinė ir kvadratinė funkcijos
 
-Sprendžiami uždaviniai, kai realaus gyvenimo situacijoms tyrinėti ir modeliuoti – eksperimento duomenims aprašyti – taikomos (pasitelkiamos) funkcijos. Išnagrinėjus tiesinės funkcijos modeliu aprašomus eksperimento duomenis, yra apibrėžiama tiesinė funkcija
+Sprendžiami uždaviniai, kai realaus gyvenimo situacijoms tyrinėti ir modeliuoti – eksperimento duomenims aprašyti – taikomos (pasitelkiamos) funkcijos.
+
+Išnagrinėjus tiesinės funkcijos modeliu aprašomus eksperimento duomenis, yra apibrėžiama tiesinė funkcija
 
 $y=kx+b$,
 
@@ -710,25 +902,63 @@ $y=kx+b,\ \ \ y=ax^2+bx+c,\ \ \ y=a(x-m)^2+n,\ \ \ y=a(x-x_1 )(x-x_2 )$.
 
 ## Geometrija ir matavimai
 
-### Figūros
+### Geometrija ir matavimai. Figūros
+
+#### Transformacijos
+
+Pateikiama panašiųjų geometrinių figūrų samprata.
+
+Aiškinama(si), kokie panašiųjų figūrų elementai vadinami atitinkamais, mokoma(si) juos atpažinti.
+
+Tyrinėjant panašiuosius trikampius, įsitikinama, kad jų atitinkami kampai yra lygūs, o atitinkamų kraštinių ilgių santykiai yra lygūs tam pačiam skaičiui (šis skaičius vadinamas trikampių panašumo koeficientu).
+
+Apibrėžiami panašieji daugiakampiai, jų panašumo koeficientas.
+
+Suformuluojami trikampių panašumo požymiai.
+
+Mokomasi rasti panašiųjų trikampių, panašiųjų keturkampių nežinomus kraštinių ilgius, sudarant proporcijas.
 
 #### Plokštumos figūros
 
-Apibrėžiami centrinis ir įbrėžtinis kampai. Nagrinėjama centrinio ir įbrėžtinio kampo, kurie kerta tą patį lanką, savybė. Apibrėžiamos sąvokos: apskritimo liestinė, kirstinė, styga; skritulio išpjova, nuopjova. Paaiškinama, kad apskritimo lankas matuojamas ne tik ilgio matavimo vienetais, bet ir laipsniais. Aptariamos ir taikomos savybės: liestinės statmenumo spinduliui, susikertančiųjų liestinių atkarpų iki lietimosi su apskritimu taškų, susikertančiųjų stygų. Mokoma(si) remtis apibrėžimais ir įrodytais teiginiais, sprendžiant įvairius matematinio ir realaus konteksto uždavinius, įrodinėjant kitus teiginius.
+Apibrėžiami centrinis ir įbrėžtinis kampai.
+
+Nagrinėjama centrinio ir įbrėžtinio kampo, kurie kerta tą patį lanką, savybė.
+
+Apibrėžiamos sąvokos: apskritimo liestinė, kirstinė, styga; skritulio išpjova, nuopjova.
+
+Paaiškinama, kad apskritimo lankas matuojamas ne tik ilgio matavimo vienetais, bet ir laipsniais.
+
+Aptariamos ir taikomos savybės: liestinės statmenumo spinduliui, susikertančiųjų liestinių atkarpų iki lietimosi su apskritimu taškų, susikertančiųjų stygų.
+
+Mokoma(si) remtis apibrėžimais ir įrodytais teiginiais, sprendžiant įvairius matematinio ir realaus konteksto uždavinius, įrodinėjant kitus teiginius.
 
 #### Įvadas į trigonometriją
 
-Apibrėžiami sinusas, kosinusas ir tangentas stačiajame trikampyje. Apskaičiuojant panašiųjų trikampių atitinkamų kraštinių ilgių santykius, įsitikinama, kad jų reikšmės nepriklauso nuo trikampio dydžio. Įrodomos lygybės
+Apibrėžiami sinusas, kosinusas ir tangentas stačiajame trikampyje. Apskaičiuojant panašiųjų trikampių atitinkamų kraštinių ilgių santykius, įsitikinama, kad jų reikšmės nepriklauso nuo trikampio dydžio.
+
+Įrodomos lygybės
 
 $\sin^2 (α)+\cos^2 (α)=1,\ \ \ \tg (α) = \frac {\sin⁡(α)} {\cos⁡(α)}$
 
-ir sudaroma kampų $30^\circ,45^\circ, 60^\circ$ trigonometrinių reikšmių lentelė. Mokoma(si) naudotis skaičiuotuvu apskaičiuojant tikslias ir apytiksles smailiojo kampo sinuso, kosinuso, tangento reikšmes. Sprendžiami įvairūs uždaviniai, kai taikomi sinuso, kosinuso, tangento stačiajame trikampyje apibrėžimai (pavyzdžiui, nustatyti objekto aukštį, rasti kelio nuolydį ar lėktuvo pakilimo kampą, apskaičiuoti atstumą iki neprieinamos vietos ir pan.).
+ir jos taikomos, ieškant smailiojo kampo sinuso, kosinuso arba tangento reikšmės, kai žinoma kuri nors kita iš to kampo sinuso, kosinuso ar tangento reikšmių.
+
+Sudaroma kampų $30^\circ,45^\circ, 60^\circ$ trigonometrinių reikšmių lentelė.
+
+Mokoma(si) naudotis skaičiuotuvu, apskaičiuojant tikslias ir apytiksles smailiojo kampo sinuso, kosinuso, tangento reikšmes.
+
+Sprendžiami įvairūs uždaviniai, kai taikomi sinuso, kosinuso, tangento stačiajame trikampyje apibrėžimai (pavyzdžiui, nustatyti objekto aukštį, rasti kelio nuolydį ar lėktuvo pakilimo kampą, apskaičiuoti atstumą iki neprieinamos vietos ir pan.).
 
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
 
-Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryšį tarp dviejų kintamųjų (stebimų požymių) reikšmių. Mokoma(si) iš sklaidos diagramos įvertinti šio ryšio buvimą ar nebuvimą, aptariama, kokiais atvejais kalbama apie kintamųjų koreliacinį ryšį. Detaliau aptariama tiesinė koreliacija. Mokoma(si) užrašyti sklaidos diagramoje pavaizduotos tiesės lygtį ${y = kx+ b}$, interpretuoti šia lygtimi aprašomą duomenų ryšį. Aptariama, kodėl negalime daryti išvados apie tiesinės priklausomybės egzistavimą populiacijoje, jei duomenys imtyje yra neatsitiktiniai ar jų yra per mažai.
+Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryšį tarp dviejų kintamųjų (stebimų požymių) reikšmių.
+
+Mokoma(si) iš sklaidos diagramos įvertinti tiesinio ryšio buvimą ar nebuvimą.
+
+Aptariama tiesinė koreliacija, iš sklaidos diagramos mokoma(si) įvertinti, ar koreliacija yra teigiama, ar yra neigiama, apytikslį koreliacinio ryšio stiprumą (stiprus, vidutinis, silpnas).
+
+Mokoma(si) užrašyti sklaidos diagramoje pavaizduotos tiesės lygtį $y = kx+ b$ (naudojantis diagramoje pavaizduotų taškų koordinatėmis), interpretuoti šia lygtimi aprašomą duomenų ryšį.
 
 # 10 (II gimnazijos) klasė
 
@@ -736,7 +966,11 @@ Nagrinėjamos taškinės (sklaidos) diagramos, vaizduojančios statistinį ryš�
 
 ### Dėsningumai
 
-Nagrinėjamos probleminės situacijos, kuomet nustatomas matematinės informacijos trūkumas ir mokoma(si) ją susirasti, atsirinkti. Sprendžiami uždaviniai, į kuriuos atsakyti galima nevienareikšmiai, kurie turi daugiau negu vieną teisingą atsakymą. Praktikuojamasi sugalvoti naujus klausimus (sąlygą, uždavinį), nustatyti naujo uždavinio ryšį su anksčiau spręstuoju. Sprendžiami uždaviniai, kai skaičius, dydis padalijamas į dvi nelygias dalis, kuriuos sprendžiant reikia remtis proporcingąja dalyba. Nagrinėjama Fibonačio skaičių seka, aukso pjūvio skaičius $Φ = \frac {1 + \sqrt5} 2$, aukso pjūvio seka ($0{,}056; 0{,}090; 0{,}146; 0{,}236; …$). Sprendžiami su procentais ir dydžių santykiais susiję uždaviniai: džiovinimo ir drėkinimo; sudėtinių procentų; lydinių, mišinių, tirpalų.
+Sprendžiami uždaviniai, kai skaičius, dydis padalijamas į dvi nelygias dalis, kuriuos sprendžiant reikia remtis proporcingąja dalyba.
+
+Nagrinėjamas aukso pjūvio skaičius $Φ = \frac {1 + \sqrt5} 2$.
+
+Sprendžiami su procentais ir dydžių santykiais susiję uždaviniai: džiovinimo ir drėkinimo; sudėtinių procentų; lydinių, mišinių, tirpalų.
 
 ### Algebra
 
@@ -758,15 +992,27 @@ Nagrinėjamos lygčių sistemos (su dviem nežinomaisiais), kurių viena lygtis 
 
 #### Plokštumos figūros
 
-Nagrinėjant panašiųjų figūrų perimetrus, plotus, nustatomi dėsningumai, jie pagrindžiami ir taikomi, sprendžiant uždavinius. Tyrinėjamos ir pagrindžiamos trikampio pusiaukampinių, pusiaukraštinių savybės. Apibrėžiamos sąvokos: įbrėžtinis daugiakampis, apibrėžtinis daugiakampis. Suformuluojami ir pagrindžiami teiginiai apie į trikampį įbrėžto apskritimo ir apie trikampį apibrėžto apskritimo centrus. Mokomasi taikyti formules
+Nagrinėjant panašiųjų figūrų perimetrus, plotus, nustatomi dėsningumai, jie pagrindžiami ir taikomi, sprendžiant uždavinius.
+
+Tyrinėjamos ir pagrindžiamos trikampio pusiaukampinių, pusiaukraštinių savybės.
+
+Apibrėžiamos sąvokos: įbrėžtinis daugiakampis, apibrėžtinis daugiakampis.
+
+Suformuluojami ir pagrindžiami teiginiai apie į trikampį įbrėžto apskritimo ir apie trikampį apibrėžto apskritimo centrus. Mokomasi taikyti formules
 
 $S= rp,\ \ \ S=\frac{abc}{4R}$.
 
-Mokomasi pagrįsti ir taikyti įbrėžtinio ir apibrėžtinio keturkampio savybes. Mokomasi remtis apibrėžimais ir įrodytais teiginiais, sprendžiant įvairius matematinio ir realaus konteksto uždavinius, įrodinėjant kitus teiginius.
+Mokomasi pagrįsti ir taikyti įbrėžtinio ir apibrėžtinio keturkampio savybes.
+
+Mokomasi remtis apibrėžimais ir įrodytais teiginiais, sprendžiant įvairius matematinio ir realaus konteksto uždavinius, įrodinėjant kitus teiginius.
 
 #### Įvadas į trigonometriją
 
-Apibrėžiamas vienetinis apskritimas ir posūkio kampas, posūkio kampo sinusas, kosinusas, tangentas, kai $α∈(0^\circ;180^\circ)$. Išsiaiškinama, kaip apskaičiuojamos $120^\circ, 135^\circ, 150^\circ $ kampų sinuso ir kosinuso reikšmės. Apibendrinama, kaip apskaičiuojamos bet kokio smailiojo ar bukojo kampo sinuso, kosinuso reikšmės ir įrodomos formulės:
+Apibrėžiamas vienetinis apskritimas ir posūkio kampas, posūkio kampo sinusas, kosinusas, tangentas, kai $α∈(0^\circ;180^\circ)$.
+
+Išsiaiškinama, kaip apskaičiuojamos $120^\circ, 135^\circ, 150^\circ $kampų sinuso ir kosinuso reikšmės.
+
+Apibendrinama, kaip apskaičiuojamos bet kokio smailiojo ar bukojo kampo sinuso, kosinuso reikšmės ir įrodomos formulės:
 
 $\sin⁡(180^\circ\ –\ α)=\sin⁡(α),\ \ \ \cos⁡(180^\circ\ –\ α)= –\cos⁡(α)$.
 
@@ -774,17 +1020,35 @@ $\sin⁡(180^\circ\ –\ α)=\sin⁡(α),\ \ \ \cos⁡(180^\circ\ –\ α)= –\
 
 $S= \frac12 ab \sin (∠C)$,
 
-kosinusų teorema, sinusų teorema, mokomasi jas taikyti nežinomiems trikampio elementams rasti. Pagrindžiamas sinusų teoremos ir apie trikampį apibrėžto apskritimo spindulio ilgio sąryšis. Praktikuojamasi taikyti šias teoremas, sprendžiant trikampių uždavinius.
+kosinusų teorema, sinusų teorema, mokomasi jas taikyti nežinomiems trikampio elementams rasti.
+
+Pagrindžiamas sinusų teoremos ir apie trikampį apibrėžto apskritimo spindulio ilgio sąryšis. Praktikuojamasi taikyti šias teoremas, sprendžiant trikampių uždavinius.
 
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
 
-Paaiškinama, kaip imties iš populiacijos sudarymas susijęs su pagrįstų išvadų darymu, ką vadiname duomenų rinkinių kintamumu, duomenų pasiskirstymu, kaip galima apibūdinti ir kiekybiškai interpretuoti duomenų rinkinius. Aptariamos sąvokos: dispersija, standartinis nuokrypis, skirstinys, normalusis skirstinys, simetriškasis skirstinys, asimetriškasis skirstinys. Nagrinėjant realaus gyvenimo konteksto pavyzdžius, diskutuojama apie duomenų rinkimą ir analizavimą. Svarstoma, kokias išvadas apie duomenis leidžia daryti jų pasiskirstymą aproksimuojančios kreivės forma ar apskaičiuotos duomenų centro (pavyzdžiui, vidurkio) ir sklaidos (pavyzdžiui, standartinio nuokrypio, kvartilių) charakteristikos. Analizuojamas statistinis patikimumas.
+Aptariamos sąvokos: dispersija, standartinis nuokrypis.
+
+Analizuojami skirtingi duomenų rinkiniai, pavaizduoti histogramomis.
+
+Svarstoma, kokias išvadas leidžia daryti histograma (atkreipiamas dėmesys į jos simetriškumą, asimetriškumą), duomenų centro (vidurkio, modos, medianos), sklaidos (dispersijos, standartinio nuokrypio) charakteristikos.
 
 ### Tikimybės ir jų interpretavimas
 
-Aptariama, kas yra kelių elementų rinkinys, kaip užrašoma tokių rinkinių aibė. Mokoma(si) sudaryti rinkinius, kai elementai imami iš tos pačios aibės ar skirtingų aibių. Nagrinėjami pavyzdžiai, kai elementų tvarka rinkinyje svarbi ir kai nesvarbi. Aiškinama(si), kaip apskaičiuoti rinkinių skaičių, atsižvelgiant į elementų tvarkos rinkinyje svarbą. Aptariama, kada, skaičiuojant rinkinių skaičių, patogu naudotis kombinatorikos sudėties ir daugybos taisyklėmis. Rinkinių sudarymo įgūdžiai taikomi, sprendžiant tikimybių uždavinius. Mokoma(si) įvertinti atsitiktinio įvykio tikimybę, renkant duomenis apie atsitiktinį procesą ir stebint jo ilgalaikį santykinį dažnį bei gautą rezultatą palyginant su teorine šio įvykio tikimybe (pavyzdžiui, šešiasienio kauliuko ridenimas iki 600 kartų ir kauliuko atvirtimo šešiomis akutėmis stebėjimas).
+Aptariama, kas yra kelių elementų rinkinys, kaip užrašoma tokių rinkinių aibė.
+
+Mokoma(si) sudaryti rinkinius, kai elementai imami iš tos pačios aibės ar skirtingų aibių.
+
+Nagrinėjami pavyzdžiai, kai elementų tvarka rinkinyje svarbi ir kai nesvarbi.
+
+Aiškinama(si), kaip apskaičiuoti rinkinių skaičių, atsižvelgiant į elementų tvarkos rinkinyje svarbą.
+
+Aptariama, kada, skaičiuojant rinkinių skaičių, patogu naudotis kombinatorikos sudėties ir daugybos taisyklėmis.
+
+Rinkinių sudarymo įgūdžiai taikomi, sprendžiant tikimybių uždavinius.
+
+Mokoma(si) įvertinti atsitiktinio įvykio tikimybę, renkant duomenis apie atsitiktinį procesą ir stebint jo ilgalaikį santykinį dažnį bei gautą rezultatą palyginant su teorine šio įvykio tikimybe (pavyzdžiui, šešiasienio kauliuko ridenimas iki 600 kartų ir kauliuko atvirtimo šešiomis akutėmis stebėjimas).
 
 # III gimnazijos klasė
 
@@ -818,11 +1082,11 @@ $\sqrt{a^2}=|a|$.
 
 Apibendrinant šaknies sąvoką, pateikiamas $n$-tojo $(n∈\mathbb{N}, n > 1)$ laipsnio šaknies apibrėžimas.
 
-Išsiaiškinama, pagrindžiama, kaip iracionalieji skaičiai $\sqrt a $ $(a∈\mathbb{N})$ atidedami skaičių tiesėje.
+Išsiaiškinama, pagrindžiama, kaip iracionalieji skaičiai $\sqrt a\ (a∈\mathbb{N})$ atidedami skaičių tiesėje.
 
 Praktikuojamasi skaičiuotuvu rasti apytikslę duotojo iracionaliojo skaičiaus $\sqrt [n] a$ reikšmę.
 
-Aiškinamasi, kad $n$-tojo $(n∈\mathbb{N},\,n>3)$ laipsnio šaknims būdingos antrojo ir trečiojo laipsnių šaknų (ir veiksmų su jomis) savybės:
+Aiškinamasi, kad $n$-tojo ($n∈\mathbb{N},\ n>3$) laipsnio šaknims būdingos antrojo ir trečiojo laipsnių šaknų (ir veiksmų su jomis) savybės:
 
 $\sqrt [n] a \cdot \sqrt [n] b = \sqrt [n] {a \cdot b}, \ \ \ \sqrt [n] a : \sqrt [n] b = \sqrt [n] {a : b}, \ \ \ \sqrt [n] {\sqrt [m]a}= \sqrt [n \cdot m] a$.
 
@@ -866,45 +1130,41 @@ $k \cdot \log_c⁡(a)=\log_c⁡(a^k )\ (a >0,\ b>0,\ c>0,\ c≠1,\ k∈\mathbb{Q
 
 paaiškinant, kad šias lygybes galima taikyti ir atbulai. Mokoma(si) šias savybes taikyti, skaičiuojant skaitinių reiškinių su logaritmais reikšmes.
 
-#### Sinusas, kosinusas ir tangentas
+#### Sinusas, kosinusas
 
-Apibrėžiamas posūkio kampas, vienetinis apskritimas ir tangentų tiesė $(x=1)$.
+Apibrėžiamas posūkio kampas, vienetinis apskritimas.
 
-Naudojantis vienetiniu apskritimu, apibrėžiamas posūkio kampo sinusas ir kosinusas. Naudojantis tangentų tiese, apibrėžiamas posūkio kampo tangentas.
+Naudojantis vienetiniu apskritimu, apibrėžiamas posūkio kampo sinusas ir kosinusas.
 
-Praktikuojamasi, naudojantis vienetiniu apskritimu ir tangentų tiese, apskaičiuoti tikslias sinuso, kosinuso, tangento reikšmes, kai posūkio kampas lygus
+Praktikuojamasi, naudojantis vienetiniu apskritimu, apskaičiuoti tikslias sinuso ir kosinuso reikšmes, kai posūkio kampas lygus
 
-$0^\circ,$ $±30^\circ,$ $ ±45^\circ,$ $ ±60^\circ,$ $ ±90^\circ,$ $ ±120^\circ,$ $ ±135^\circ,$ $ ±150^\circ,$ $$ $ ±180^\circ,$ $ ±210^\circ,$ $ ±225^\circ,$ $ ±240^\circ,$ $ ±270^\circ,$ $ ±300^\circ,$ $ ±315^\circ,$ $ ±330^\circ,$ $ ±360^\circ$.
+$0^\circ,$ $±30^\circ,$ $±45^\circ,$ $±60^\circ,$ $±90^\circ,$ $±120^\circ,$ $±135^\circ,$ $±150^\circ,$ $±180^\circ,$ $±210^\circ,$ $±225^\circ,$ $±240^\circ,$ $±270^\circ,$ $±300^\circ,$ $±315^\circ,$ $±330^\circ,$ $±360^\circ$.
 
 Tuo pačiu metodu parodoma, kad skaičiai $\sin⁡(α)$ ir $\cos⁡(α)$ turi prasmę su visomis realiosiomis $α$ reikšmėmis, kodėl $\sin⁡(α)$ ir $\cos (⁡α)$ reikšmės kartojasi kas $360^\circ$ ir visuomet priklauso intervalui $[-1;1].$
 
-Aptariama, kodėl $\tg(α)$ reikšmės yra intervalo $(-∞;+∞)$ skaičiai ir kodėl jos kartojasi kas $180^\circ$.
-
 Įrodomos formulės:
 
-$\sin⁡({-}α)=-\sin⁡(α),\ \ \ \cos⁡({-}α)=\cos⁡(α), \ \ \ \tg⁡({-}α)=-\tg⁡(α)$;
+$\sin({-}α)=-\sin⁡(α),\ \ \ \cos⁡({-}α)=\cos⁡(α);$
 
-$\sin⁡(α+360^\circ ·k)=\sin⁡(α), \ \ \ \cos⁡(α+360^\circ ·k)=\cos⁡(α)$,
+$\sin(α+360^\circ ·k)=\sin⁡(α),\ \ \ \cos⁡(α+360^\circ ·k)=\cos⁡(α),\ \ \ k∈\mathbb{Z},$
 
-$\tg⁡(α+180^\circ ·k)=\tg⁡(α), \ \ k∈\mathbb{Z};$
+ir mokoma(si) jas taikyti.
 
-mokoma(si) jas taikyti.
+Apibrėžiami skaičiai $\arcsin(a)$ ir $\arccos(a)$, pagrindžiant, kodėl $\arcsin(a)∈[-90^\circ;90^\circ]$, $\arccos(a)∈[0^\circ;180^\circ]$, o arksinusas ir arkkosinusas turi prasmę, kai $a∈[-1; 1]$.
 
-Apibrėžiami skaičiai $\arcsin(a)$ ir $\arccos(a)$, pagrindžiant, kodėl $\arcsin(a)∈[-90^\circ;90^\circ]$, $\arccos(a)∈[0;180^\circ]$, o arksinusas ir arkkosinusas turi prasmę, kai $a∈[-1; 1]$.
-
-Apibrėžiami skaičiai $\arctg(a)\ (a ∈\mathbb{R})$, pagrindžiant, kodėl $\arctg(a)∈(-90^\circ;90^\circ)$, o arktangentas turi prasmę visoje realiųjų skaičių aibėje.
-
-Praktikuojamasi apskaičiuoti tikslias ir apytiksles sinuso, kosinuso, tangento ir arksinuso, arkkosinuso, arktangento reikšmes.
+Praktikuojamasi apskaičiuoti tikslias ir apytiksles sinuso, kosinuso ir arksinuso, arkkosinuso reikšmes.
 
 ### Modeliai ir sąryšiai
 
-#### Progresijos
+#### Skaičių sekos. Progresijos
+
+Apibrėžiama skaičių seka, skaičių sekos pirmasis narys, ${n}$-tasis narys, begalinė skaičių seka, baigtinė skaičių seka.
+
+Mokoma(si) skaičių sekas nurodyti ${n}$-tojo nario formule, rekurentiniu būdu.
 
 Apibrėžiama, kokios skaičių sekos vadinamos aritmetinėmis progresijomis ir kokios – geometrinėmis progresijomis.
 
-Apibrėžiamos sąvokos: skaičių sekos pirmasis narys, ${n}$-tasis narys, begalinė skaičių seka, baigtinė skaičių seka, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis.
-
-Randami sekos nariai rekurentiniu būdu.
+Apibrėžiamos sąvokos: aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis.
 
 Praktikuojamasi nustatyti ir pagrįsti, ar seka yra aritmetinė progresija, geometrinė progresija.
 
@@ -958,15 +1218,15 @@ Išsiaiškinami charakteringi taškai, priklausantys šių funkcijų grafikams, 
 
 Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos rodiklinėmis ar logaritminėmis funkcijomis, pavyzdžiai.
 
-. Naudojantis vienetiniu apskritimu, apibrėžiamos bet kokio posūkio kampo (išreikšto laipsniais) sinuso ir kosinuso funkcijos, o naudojantis tangentų tiese
+#### Trigonometrinės funkcijos
 
-, apibrėžiama tangento funkcija.
+. Naudojantis vienetiniu apskritimu, apibrėžiamos bet kokio posūkio kampo (išreikšto laipsniais) sinuso ir kosinuso funkcijos.
 
-Braižomi sinusoidės, kosinusoidės ir tangentoidės grafikų eskizai. Išsiaiškinami charakteringi taškai, priklausantys šių funkcijų grafikams, tiriamos funkcijų savybės. Mokoma(si) atpažinti funkcijas iš jų grafikų eskizų, rasti nurodytas sąlygas, atitinkančias argumento ir funkcijos reikšmes (pavyzdžiui, didžiausią funkcijos reikšmę nurodytame intervale). Praktikuojamasi, naudojantis grafiko eskizu, užrašyti visas argumento reikšmes, su kuriomis funkcija įgyja tam tikrą reikšmę, yra didėjančioji ar mažėjančioji, yra teigiamoji ar neigiamoji.
+Braižomi sinusoidės, kosinusoidės grafikų eskizai. Išsiaiškinami charakteringi taškai, priklausantys šių funkcijų grafikams, tiriamos funkcijų savybės. Mokoma(si) atpažinti funkcijas iš jų grafikų eskizų, rasti nurodytas sąlygas, atitinkančias argumento ir funkcijos reikšmes (pavyzdžiui, didžiausią funkcijos reikšmę nurodytame intervale). Praktikuojamasi, naudojantis grafiko eskizu, užrašyti visas argumento reikšmes, su kuriomis funkcija įgyja tam tikrą reikšmę, yra didėjančioji ar mažėjančioji, yra teigiamoji ar neigiamoji.
 
-Mokoma(si), naudojantis sinuso, kosinuso ir tangento samprata ir (ar) pasitelkus grafinį metodą, spręsti
+Mokoma(si), naudojantis sinuso, kosinuso samprata ir (ar) pasitelkus grafinį metodą, spręsti
 
-$\sin⁡(x)=a,\ \ \ \cos⁡(x)=a,\ \ \ \tg⁡(x)=a$
+$\sin⁡(x)=a,\ \ \ \cos⁡(x)=a$
 
 pavidalo lygtis.
 
@@ -1100,7 +1360,7 @@ $\sqrt {a^2} =|a|\ \ $ ir $\ \ \sqrt [2n] {a^{2n}} = |a|$, kai $n∈\mathbb{N}$.
 
 #### Laipsniai
 
-Įrodomos dvinario trečiojo laipsnio formulės (sumos ir skirtumo kubo). Mokoma(si) naudotis šiomis formulėmis, dvinarį keliant trečiuoju laipsniu ir daugianarį skaidant dauginamaisiais.
+Įrodomos sumos ir skirtumo kubo, kubų sumos ir kubų skirtumo formulės. Mokoma(si) naudotis šiomis formulėmis, dvinarį keliant trečiuoju laipsniu ir daugianarį skaidant dauginamaisiais.
 
 Aiškinama(si) laipsnio su racionaliuoju rodikliu $a^{\frac{m}{n}}\ (a > 0, a \neq 1,\ m \in \mathbb{Z},\ n \in \mathbb{N},\ n > 1)$ samprata, įsitikinama laipsnį su racionaliuoju rodikliu ir šaknį siejančios lygybės
 
@@ -1110,7 +1370,9 @@ teisingumu (keliant abi lygybės puses $n$-tuoju laipsniu).
 
 Aiškinama(si), kada (ir kodėl) tokie laipsniai neturi prasmės.
 
-Mokoma(si) nustatyti, tarp kokių gretimų sveikųjų skaičių yra duotasis laipsnis su racionaliuoju rodikliu, palyginti tokius laipsnius, naudojantis skaičiuotuvu, rasti apytikslę dešimtainę duotojo laipsnio su racionaliuoju rodikliu reikšmę.
+Mokoma(si) nustatyti, tarp kokių gretimų sveikųjų skaičių yra duotasis laipsnis su racionaliuoju rodikliu, palyginti tokius laipsnius.
+
+Naudojantis skaičiuotuvu, mokoma(si) rasti apytikslę dešimtainę duotojo laipsnio su racionaliuoju rodikliu reikšmę.
 
 Pagrindžiama ir įrodoma, kad laipsniams su racionaliaisiais rodikliais (ir veiksmams su tokiais laipsniais) būdingos laipsnių su natūraliaisiais rodikliais (ir veiksmų su tokiais laipsniais) savybės:
 
@@ -1206,11 +1468,13 @@ Praktikuojamasi apskaičiuoti tikslias ir apytiksles (naudojantis skaičiuotuvu)
 
 ### Modeliai ir sąryšiai
 
-#### Progresijos
+#### Skaičių sekos. Progresijos
 
-Apibrėžiama, kokios skaičių sekos vadinamos aritmetinėmis progresijomis ir kokios – geometrinėmis progresijomis.
+Apibrėžiama skaičių seka, skaičių sekos pirmasis narys, $n$-tasis narys, begalinė skaičių seka, baigtinė skaičių seka.
 
-Apibrėžiamos sąvokos: pirmasis skaičių sekos narys, $n$-tasis skaičių sekos narys, begalinė skaičių seka, baigtinė skaičių seka, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis, aritmetinės progresijos $n$-tojo nario formulė ir geometrinės progresijos $n$-tojo nario formulė.
+Mokoma(si) skaičių sekas nurodyti $n$-tojo nario formule, rekurentiniu būdu.
+
+Apibrėžiama, kokios skaičių sekos vadinamos aritmetinėmis progresijomis ir kokios – geometrinėmis progresijomis, aritmetinės progresijos skirtumas, geometrinės progresijos vardiklis, aritmetinės progresijos $n$-tojo nario formulė, geometrinės progresijos $n$-tojo nario formulė.
 
 Nagrinėjamos aritmetinės progresijos ir geometrinės progresijos formulės:
 
@@ -1220,7 +1484,7 @@ $S_n=\frac {a_1 + a_n}2 \cdot n=\frac {2a_1 \ + \ d(n-1)}2 \cdot n$ $(n∈\mathb
 
 $b_n=b_1 \cdot q^{n-1},\ \ \ |b_{n+1}|=\sqrt{b_{n} \cdot b_{n+2}}$,
 
-$ S_n=\frac {b_1 \cdot (q^n-1)}{q-1}=\frac {b_n \cdot q-b_1}{q-1}\ \ (n∈\mathbb{N}, q≠1)$.
+$S_n=\frac {b_1 \cdot (q^n-1)}{q-1}=\frac {b_n \cdot q-b_1}{q-1}\ \ (n∈\mathbb{N}, q≠1)$.
 
 Įrodomos aritmetinės progresijos ir geometrinės progresijos formulės ($n$-tojo nario, viduriniojo nario, pirmųjų $n$ narių sumos).
 
@@ -1256,19 +1520,13 @@ Apibrėžiamos sąvokos: lyginė funkcija; nelyginė funkcija; nei lyginė, nei 
 
 Įvedama sudėtinės funkcijos sąvoka, pateikiama tokių funkcijų pavyzdžių, mokomasi iš duotųjų funkcijų sudaryti sudėtines funkcijas.
 
-Nagrinėjamos funkcijų grafikų transformacijos ir mokomasi, naudojantis žinomu funkcijos $y=f(x)$ grafiku, nubraižyti transformuotos funkcijos grafiką.
+Nagrinėjamos funkcijų grafikų transformacijos ir mokomasi, naudojantis žinomu funkcijos $y=f(x)$ grafiku, nubraižyti transformuotos funkcijos grafiką (naudojantis ne daugiau kaip dviejų transformacijų kompozicija).
 
 Naudojantis skaitmeninėmis priemonėmis, tyrinėjama, kaip atliekamos tokiomis formulėmis aprašomos transformacijos:
 
 $y=f(x)+a, \ \ \ y=f(x+a),\ \ \ y=-f(x),\ \ \ y=a⋅f(x)$,
 
-$ y=f(-x), \ \ \ y=f(a⋅x), \ \ \ y=|f(x)|$.
-
-Skaitiniais pavyzdžiais aiškinama, grafiškai iliustruojama funkcijos $y=f(x)$ ribos apibrėžimo srities vidiniame taške $(x=a)$ sąvoka $(\lim\limits_{x\to\ a}f(x))$ ir ribos, kai $x$ reikšmės neaprėžtai didėja, mažėja $(x→±∞)$ sąvoka $(\lim\limits_{x\to\ ±∞}f(x))$.
-
-Pateikiami ir aptariami ribų skaičiavimo pavyzdžiai, pavyzdžiui:
-
-$\lim\limits_{x \to 2} \frac{1}{x} = \frac{1}{2}, \ \ \lim\limits_{x \to +\infty} \frac{1}{x} = +0,\ \ \lim\limits_{x \to -\infty} \frac{1}{x} = -0,\ \ \lim\limits_{x \to +0} \frac{1}{x} = +\infty,\ \ \lim\limits_{x \to -0} \frac{1}{x} = -\infty$.
+$y=f(-x), \ \ \ y=f(a⋅x), \ \ \ y=|f(x)|$.
 
 Mokoma(si) naudotis funkcijų grafikų eskizais, grafiškai sprendžiant lygtis, nelygybes ir dviejų lygčių su dviem nežinomaisiais sistemas.
 
@@ -1290,13 +1548,13 @@ $y=f(x)=\sqrt[n]x \ \ (n∈\mathbb{N},n>1)$,
 
 aptariant lyginio ir nelyginio šaknies laipsnio funkcijų savybes bei grafikų eskizus.
 
-Mokoma(si) užrašyti šaknies funkcijos $y=f(x)=\sqrt [n]x \ \ (n∈\mathbb{N},n>1)$ formulę, kai yra žinomos grafikui priklausančio taško, nesutampančio su tašku $ (1;1)$, koordinatės.
+Mokoma(si) užrašyti šaknies funkcijos $y=f(x)=\sqrt [n]x \ \ (n∈\mathbb{N},n>1)$ formulę, kai yra žinomos grafikui priklausančio taško, nesutampančio su tašku $(1;1)$, koordinatės.
 
 Naudojantis skaitmeninėmis priemonėmis, nagrinėjama, kaip kinta laipsninės ir šaknies funkcijų grafikai, priklausomai nuo laipsnio rodiklio ir šaknies laipsnio. Naudojantis šių funkcijų grafikų eskizais, mokoma(si) grafiškai spręsti lygtis ir nelygybes
 
 $a\cdot f(kx+b) +c ⋛ 0\ \ (a, k, b, c∈\mathbb{R}, a, k \neq 0)$,
 
-čia$f(x) = x^n \ (n \in \{-4, -3, -2, -1, 1, 2, 3, \dots\})$, $f(x) = \sqrt[n]{x} \ (n∈\mathbb{N},n>1).$
+čia $f(x) = x^n \ (n \in \{-4, -3, -2, -1, 1, 2, 3, \dots\}), \ \ \ $ $f(x) = \sqrt[n]{x} \ (n∈\mathbb{N},n>1).$
 
 Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos laipsninėmis ar šaknies funkcijomis, pavyzdžiai.
 
@@ -1314,7 +1572,7 @@ Išsiaiškinami charakteringi taškai, tiriamos funkcijų savybės. Mokoma(si) a
 
 $a\cdot f(kx+b) +c ⋛ 0\ \ (a, k, b, c∈\mathbb{R}, a, k \neq 0)$,
 
-čia $f(x) = d^x , f(x)=\log_t(x) \ (t>0,t≠1).$
+čia $f(x) = d^x ,\ \ f(x)=\log_t(x)\ \ (t>0,t≠1).$
 
 Nagrinėjami praktinių situacijų, kurios aprašomos ar modeliuojamos rodiklinėmis ar logaritminėmis funkcijomis, pavyzdžiai.
 
@@ -1340,25 +1598,13 @@ $a\cdot f(kx+b)+c⋛0\ \ (a,k,b,c∈\mathbb{R},a,k≠0;\ f(x) = \sin (x), \cos (
 
 #### Racionaliosios lygtys
 
-. Įvedama lygties su parametru sąvoka, mokomasi rasti pirmojo ir antrojo laipsnio parametrinių lygčių
-
-$ax+b=0,\ \ ax^2+bx+c=0\ \ (a,b,c∈\mathbb{R})$
-
-sprendinius.
-
-Nagrinėjamos aukštesnio negu antrojo laipsnio lygtys, kurias galima spręsti, suteikiant pavidalą
+. Nagrinėjamos aukštesnio negu antrojo laipsnio lygtys, kurias galima spręsti, suteikiant pavidalą
 
 $(ax+b)(cx+d)\cdots(kx+q)=0$,
 
 t. y. lygties $f(x)=0$ reiškinį $f(x)$ skaidant dauginamaisiais.
 
 Sprendžiamos bikvadratinės lygtys.
-
-Mokoma(si) spręsti lygtis, suteikiant pavidalą
-
-$\frac{f(x)}{g(x)} =0$.
-
-Aptariama, kad trupmeninę racionaliąją lygtį $\frac{f(x)}{g(x)} =0$ galima spręsti naudojantis trupmenos lygios 0 savybe; naikinant vardiklius, t. y. ją dauginant iš lygtį sudarančių trupmenų bendrojo vardiklio. Analizuojama, kuo šie abu būdai skiriasi.
 
 #### Iracionaliosios lygtys
 
@@ -1386,13 +1632,13 @@ kurias patogu spręsti, įvedant naują nežinomąjį.
 
 #### Logaritminės lygtys
 
-. Nagrinėjamos nesudėtingos lygtys, kurių nežinomasis yra logaritmo (-ų) reiškinyje (-iuose). Aiškinama(si), kad tokias lygtis patogu spręsti, suteikiant joms pavidalą
+. Nagrinėjamos nesudėtingos lygtys, kurių nežinomasis yra logaritmo(-ų) reiškinyje(-iuose). Aiškinama(si), kad tokias lygtis patogu spręsti, suteikiant joms pavidalą
 
 $\log_a(⁡f(x))=\log_a⁡(g(x))$.
 
 Analizuojama, kada ir kodėl būtina atsižvelgti į logaritmo apibrėžimo sritį, gautuosius sprendinius tikrinti (juos įrašant į duotąją lygtį).
 
-Nagrinėjamos nesudėtingos logaritminės lygtys, kurių nežinomasis yra logaritmo (-ų) pagrindo reiškinyje (-iuose), logaritmo reiškinyje ir logaritmo pagrindo reiškinyje. Mokoma(si) spręsti logaritmines lygtis, kurias patogu spręsti, įvedant naują nežinomąjį.
+Nagrinėjamos nesudėtingos logaritminės lygtys, kurių nežinomasis yra logaritmo(-ų) pagrindo reiškinyje(-iuose), logaritmo reiškinyje ir logaritmo pagrindo reiškinyje. Mokoma(si) spręsti logaritmines lygtis, kurias patogu spręsti, įvedant naują nežinomąjį.
 
 #### Lygtys su moduliais
 
@@ -1418,7 +1664,11 @@ Mokoma(si) spręsti daugiau negu dviejų lygčių su daugiau negu dviem nežinom
 
 #### Racionaliosios nelygybės
 
-Aiškinamasi intervalų metodo esmė ir universalumas. Nagrinėjamos antrojo laipsnio, aukštesnio negu antrojo laipsnio nelygybės, praktikuojamasi jas spręsti intervalų metodu. Mokoma(si) trupmenines racionaliąsias nelygybes spręsti, suteikiant pavidalą $\frac{f(x)}{g(x)} ⋛0$, naudojantis intervalų metodu arba nelygybę keičiant nelygybių sistemų visuma. Mokoma(si) spręsti dviejų ar daugiau racionaliųjų nelygybių sistemas bei mišrias lygčių ir nelygybių (su vienu nežinomuoju) sistemas.
+Aiškinamasi intervalų metodo esmė ir universalumas. Nagrinėjamos antrojo laipsnio, aukštesnio negu antrojo laipsnio nelygybės, praktikuojamasi jas spręsti intervalų metodu.
+
+Mokoma(si) trupmenines racionaliąsias nelygybes spręsti, suteikiant pavidalą $\frac{f(x)}{g(x)} ⋛0$, naudojantis intervalų metodu arba nelygybę keičiant nelygybių sistemų visuma.
+
+Mokoma(si) spręsti dviejų racionaliųjų nelygybių sistemas bei mišrias lygčių ir nelygybių (su vienu nežinomuoju) sistemas.
 
 #### Rodiklinės nelygybės
 
@@ -1448,7 +1698,19 @@ Mokoma(si) tokias nelygybes spręsti, naudojantis modulio samprata.
 
 #### Plokštumos vektoriai ir veiksmai su jais
 
-Apibrėžiamas kampas tarp vektorių. Apibrėžiama dviejų vektorių skaliarinė sandauga, mokoma(si) skaliariškai dauginti vektorius. Įrodoma, kad vektoriaus kvadratas (vektoriaus skaliarinė sandauga su pačiu savimi) yra lygus vektoriaus ilgio kvadratui. Primenama, kaip randama vektorių suma (naudojantis trikampio ir lygiagretainio taisyklėmis; paaiškinama daugiakampio taisyklė), vektorių skirtumas, vektoriaus ir skaičiaus sandauga. Mokoma(si) nurodytą daugiakampio vektorių išreikšti kitais nurodytais to daugiakampio vektoriais. Apibrėžiama ir paaiškinama dviejų vektorių skaliarinė sandauga, mokoma(si) skaliariškai dauginti vektorius, pabrėžiant, kad skaliarinės sandaugos rezultatas yra skaičius, o ne vektorius. Veiksmams su vektoriais taikomos žinomos veiksmų su skaičiais savybės:
+Apibrėžiamas kampas tarp vektorių.
+
+Apibrėžiama dviejų vektorių skaliarinė sandauga, mokoma(si) skaliariškai dauginti vektorius.
+
+Įrodoma, kad vektoriaus kvadratas (vektoriaus skaliarinė sandauga su pačiu savimi) yra lygus vektoriaus ilgio kvadratui.
+
+Primenama, kaip randama vektorių suma (naudojantis trikampio ir lygiagretainio taisyklėmis; paaiškinama daugiakampio taisyklė), vektorių skirtumas, vektoriaus ir skaičiaus sandauga.
+
+Mokoma(si) nurodytą daugiakampio vektorių išreikšti kitais nurodytais to daugiakampio vektoriais.
+
+Apibrėžiama ir paaiškinama dviejų vektorių skaliarinė sandauga, mokoma(si) skaliariškai dauginti vektorius, pabrėžiant, kad skaliarinės sandaugos rezultatas yra skaičius, o ne vektorius.
+
+Veiksmams su vektoriais taikomos žinomos veiksmų su skaičiais savybės:
 
 $\vec a +\vec b=\vec b +\vec a ,\ \ \ \vec a+(\vec b +\vec c )=(\vec a +\vec b)+\vec c,\ \ \ c\cdot(\vec a +\vec b )=c\cdot\vec{a}+c\cdot\vec{b}$,
 
@@ -1474,13 +1736,11 @@ Apibrėžiami kolinearieji ir statmenieji vektoriai. Analizuojamos dviejų vekto
 
 #### Trigonometrinės lygtys
 
-Mokomasi tapačiai pertvarkyti skaitinius ir raidinius reiškinius, taikant formules:
+Mokoma(si) tapačiai pertvarkyti skaitinius ir raidinius reiškinius, taikant formules:
 
-$\sin^2 (α)+\cos^2 (α)=1,\ \ \tg⁡(α)= \frac {\sin⁡ (α)} {\cos⁡ (α)}$,
+$\sin^2 (α)+\cos^2 (α)=1,\ \ \sin⁡(-α)=-\sin⁡ (α),\ \ \cos⁡(-α)=\cos⁡ (α),$
 
-$\sin⁡(-α)=-\sin⁡ (α),\ \ \cos⁡(-α)=\cos⁡ (α),\ \ \tg⁡(-α)=-\tg⁡(α), \ \ \ 1+\tg^2 (α)= \frac {1} {\cos^2 (α)}$,
-
-$\sin⁡(α+360° \cdot k)=\sin⁡(α),\ \ \cos⁡(α+360° \cdot k)=\cos⁡(α),\ \ \tg⁡(α+180° \cdot k)=\tg(⁡α)$, $k \in \mathbb{Z}$.
+$\sin⁡(α+360° \cdot k)=\sin⁡(α),\ \ \cos⁡(α+360° \cdot k)=\cos⁡(α),\ \ k \in \mathbb{Z}$.
 
 Nagrinėjami situacijų, kai sudaromos ir sprendžiamos trigonometrinės lygtys, pavyzdžiai.
 
@@ -1488,13 +1748,13 @@ Aptariama, kada patogu trigonometrines lygtis spręsti algebriniu būdu.
 
 Pateikiamos ir aptariamos lygčių
 
-$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos⁡(x)=a\ (a \in [-1; 1]),\ \ \ \tg(⁡x)=a\ (a ∈ \mathbb{R})$
+$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos⁡(x)=a\ (a \in [-1; 1])$
 
 sprendinių formulės.
 
 Mokoma(si) spręsti
 
-$a \cdot f(x)+b=0; čia f(x)= \sin(⁡x), \cos (x), \tg (x);\ a, b ∈ \mathbb{R}, \ a ≠0,$
+$a \cdot f(x)+b=0;\ \ {\rm{kur}}\ f(x)= \sin(⁡x), \cos(x)\ (a, b ∈ \mathbb{R}, \ a ≠0)$
 
 pavidalo lygtis.
 
@@ -1518,7 +1778,7 @@ Be įrodymo pateikiama laipsninės funkcijos $y=f(x)=x^n \ (n ∈\mathbb{Z})$ i�
 
 $(a \cdot f(x))'=a\cdot f' (x)$,
 
-$ (f(x)+g(x))'=f' (x)+g' (x)$,
+$(f(x)+g(x))'=f' (x)+g' (x)$,
 
 $((f(x)-g(x))'=f'(x)-g'(x)$.
 
@@ -1526,9 +1786,11 @@ Mokoma(si) apskaičiuoti funkcijos išvestinės reikšmę duotame taške, spręs
 
 Nagrinėjant konkrečius pavyzdžius, aptariama fizikinė išvestinės prasmė.
 
+#### Funkcijos savybių tyrimas, naudojantis išvestine
+
 Apibrėžiamos sąvokos: funkcijos kritiniai, ekstremumo (minimumo ir maksimumo) taškai, ekstremumai.
 
-Išsiaiškinama, kodėl ir kaip, naudojantis išvestine, galima surasti funkcijos apibrėžimo srities intervalus, kuriuose funkcija yra didėjančioji, mažėjančioji, pastovioji, funkcijos ekstremumus, didžiausiąją ir mažiausiąją reikšmes uždarame intervale.
+Išsiaiškinama, kodėl ir kaip, naudojantis išvestine, galima surasti funkcijos apibrėžimo srities intervalus, kuriuose funkcija yra didėjančioji, mažėjančioji, pastovioji, funkcijos ekstremumus, didžiausiąją ir mažiausiąją funkcijos reikšmes uždarame intervale.
 
 Tiriamos funkcijų, išreiškiamų ne aukštesnio negu trečiojo laipsnio daugianariu, savybės, braižomi jų grafikų eskizai.
 
@@ -1540,11 +1802,7 @@ Praktikuojamasi taikyti išvestines, sprendžiant optimizavimo uždavinius.
 
 Susipažįstama su stereometrijos aksiomomis:
 
-per bet kuriuos du taškus eina vienintelė tiesė; per bet kuriuos tris taškus, nesančius vienoje tiesėje, eina vienintelė plokštuma; jei du tiesės taškai priklauso plokštumai, tai ir tiesė priklauso plokštumai; jei dvi plokštumos turi bendrą tašką, tai jos turi ir bendrą tiesę, kurioje yra visi bendrieji tų plokštumų taškai.
-
 Aptariamos teoremos:
-
-per tiesę ir jai nepriklausantį tašką eina vienintelė plokštuma; per dvi susikertančias tieses eina vienintelė plokštuma; per dvi lygiagrečias tieses eina vienintelė plokštuma.
 
 Mokomasi taikyti šias teoremas.
 
@@ -1552,9 +1810,7 @@ Tyrinėjama ir apibrėžiama, kokios gali būti tiesės ir plokštumos, dviejų 
 
 Nagrinėjami atstumai ir kampai erdvėje:
 
-atstumas tarp dviejų taškų, tarp taško ir tiesės, taško ir plokštumos, dviejų lygiagrečių tiesių, tiesės ir su ja lygiagrečios plokštumos, dviejų lygiagrečių plokštumų; kampai tarp susikertančių ir tarp prasilenkiančių tiesių, tarp tiesės ir plokštumos.
-
-Apibrėžiamas dvisienis kampas, mokomasi jį rasti ar pavaizduoti brėžinyje, modelyje.
+Apibrėžiamas dvisienis kampas, mokoma(si) jį rasti ar pavaizduoti brėžinyje, modelyje.
 
 Apibrėžiama, kokia tiesė vadinama statmeniu plokštumai, įrodomas tiesės ir plokštumos statmenumo požymis.
 
@@ -1580,31 +1836,9 @@ Susipažįstama su taisyklingųjų briaunainių, sukinių pasireiškimo gamtoje 
 
 #### Įvadas į statistinę duomenų analizę
 
-Susipažįstama su statistinės duomenų analizės procesais, kurių metu nustatomas statistinio tyrimo klausimas, renkami, tvarkomi, analizuojami atitinkami duomenys, interpretuojami analizės rezultatai bei daromos išvados. Akcentuojama, kad duomenų analizė yra plačiai taikoma įvairiose srityse, pavyzdžiui, verslo, sveikatos priežiūros, finansų, bei moksliniuose tyrimuose.
-
-Paaiškinama, kad funkcijos gali būti naudojamos duomenims apibūdinti, o jei duomenys susiję tiesiniu ryšiu, tai tas ryšys gali būti modeliuojamas tiese ir šio ryšio stiprumas ir kryptis išreikšti koreliacijos koeficientu. Išsiaiškinama, kad svarbi šio modelio (tiesės) charakteristika – determinacijos koeficientas (R kvadratas). Mokomasi, jį žinant (suradus), priimti sprendimą dėl gauto modelio tinkamumo duomenims aprašyti.
-
-Mokiniai išsiaiškina, kad statistinės analizės tikslas – ištyrus dalį respondentų (imtį), padaryti pagrįstą išvadą apie visą populiaciją.
-
-Aptariami kintamojo, kintamojo matavimo skalių bei duomenų tipai.
-
-Mokoma(si) praktiškai, naudojant skaitmenines technologijas, apskaičiuoti duomenų rinkinio vidurkį, standartinį nuokrypį, interpretuoti, kaip jie charakterizuoja imtį.
-
-Nagrinėjami pavyzdžiai, kai sprendimui dėl kintamųjų ryšio ir jo stiprumo priimti naudojama koreliacija. Atkreipiamas dėmesys, kad koreliacija nepaaiškina priežastingumo. Išsiaiškinama, kaip priimamas sprendimas, kuris kintamasis vadinamas priklausomu kintamuoju, o kuris – aiškinamuoju.
-
-Skaitmeninių technologijų pagalba mokomasi duomenis vaizduoti grafiškai (vizualizuoti).
-
-Mokoma(si) diskutuoti apie statistinio tyrimo struktūrą, duomenų rinkimo sąlygas ir būdą, duomenų analizei taikytus metodus, duomenų santraukas ir padarytas išvadas.
-
 #### Tikimybės ir jų interpretavimas
 
 Sprendžiant uždavinius, naudojamasi tikimybės apibrėžimu ir tikimybių savybėmis:
-
-būtinojo įvykio tikimybė $\mathbf{P}(\mathrm{būtinojo}) = 1 $,
-
-negalimojo įvykio $\mathbf{P}(\mathrm{negalimojo}) = 0 $,
-
-vienas kitam priešingų įvykių tikimybių suma $\mathbf{P}(A)+\mathbf{P}(\overline{A})=1$.
 
 Nagrinėjami paprasčiausi dviejų trijų etapų bandymai (stochastiniai bandymai) ir su jo etapais susiję nepriklausomi ar priklausomi įvykiai (negrąžintinio ir grąžintinio ėmimo atvejai).
 
@@ -1628,13 +1862,13 @@ Praktikuojamasi apskaičiuoti įvykių tikimybes.
 
 #### Trigonometrinės lygtys ir nelygybės
 
-Mokomasi įrodyti trigonometrines formules:
-
-$1+\tg^2 (α)= \frac {1} {\cos^2 (α)}$,
+Mokoma(si) įrodyti trigonometrines formules:
 
 $\sin⁡(α±β)=\sin⁡(α)\cos⁡(β) ±\cos⁡(α)\sin(⁡β)$,
 
 $\cos⁡(α±β)=\cos⁡(α)\cos⁡(β)∓\sin(⁡α)\sin⁡(β)$,
+
+$1+\tg^2 (α)= \frac {1} {\cos^2 (α)}$,
 
 $\tg⁡(α±β)=\frac{ \tg⁡(α)±\tg⁡(β)}{1∓\tg(⁡α)\tg⁡(β)}$,
 
@@ -1646,19 +1880,23 @@ $\cos⁡(2α)=\cos^2 (α)-\sin^2 (α)$.
 
 Naudojantis trigonometrinėmis formulėmis, mokoma(si) tapačiai pertvarkyti trigonometrinius reiškinius.
 
-Nagrinėjami situacijų, kai sudaromos ir sprendžiamos trigonometrinės lygtys, pavyzdžiai. Pateikiamos ir aptariamos lygčių
+Nagrinėjami situacijų, kai sudaromos ir sprendžiamos trigonometrinės lygtys, pavyzdžiai.
 
-$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos(⁡x)=a\ (a \in [-1; 1]), \ \ \ \tg (x)=a\ (a∈\mathbb{R})$
+Pateikiamos ir aptariamos lygčių
 
-sprendinių formulės ir mokoma(si) jomis naudotis, sprendžiant lygtis, kurias galima pertvarkyti į pavidalą:
+$\sin⁡(x)=a\ (a \in [-1; 1]), \ \ \ \cos(⁡x)=a\ (a \in [-1; 1]), \ \ \ \tg(x)=a\ (a∈\mathbb{R})$
+
+sprendinių formulės ir mokoma(si) jomis naudotis, sprendžiant lygtis:
 
 $a \cdot f(kx+b)+c=0\ \ (a,k,b,c∈\mathbb{R},a,k≠0; f(x)= \sin(⁡x), \cos⁡(x), \tg⁡(x))$;
 
-$(a \cdot f(x)+b)(c \cdot g(x)+d)=0\ \ (a,b,c,d∈\mathbb{R},a,c≠0; f(x)= \sin⁡(x), \cos(⁡x), \tg(x))$.
+$(a \cdot f(x)+b)(c \cdot g(x)+d)=0\ \ (a,b,c,d∈\mathbb{R},\ a,c≠0; f(x)= \sin⁡(x), \cos(⁡x), \tg(x))$;
 
-Mokoma(si) rasti sprendinius trigonometrinių nelygybių, kurias galima pertvarkyti į pavidalą:
+trigonometrines lygtis, kurios, naudojantis keitiniu, suvedamos į kvadratines lygtis (antrojo laipsnio homogeninės lygtys nenagrinėjamos).
 
-$a \cdot f(x)+b⋛0\ \ (a,b∈\mathbb{R},a≠0; f(x)=\sin⁡(x), \cos⁡(x), \tg(⁡x))$.
+Mokoma(si) rasti sprendinius trigonometrinių nelygybių:
+
+$a \cdot f(x)+b⋛0\ \ (a,b∈\mathbb{R},\ a≠0; f(x)=\sin⁡(x), \cos⁡(x), \tg(⁡x))$.
 
 Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
@@ -1666,17 +1904,19 @@ Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
 #### Tolydžios funkcijos ir jos ribos samprata
 
-Analizuojama tolydžiosios funkcijos, visuose funkcijos apibrėžimo srities intervaluose, samprata. Formuluojami teiginiai apie tolydžių funkcijų sumos (skirtumo), sandaugos ir dalmens tolydumą.
+. Grafiškai iliustruojama funkcijos $y=f(x)$ ribos sąvoka, kai $x→a\ \ (a\in{\mathbb{R}}),\ x→+∞,\ x→-∞$.
 
-Apibrėžiama tolydžios funkcijos ribos samprata, kai funkcijos argumento reikšmės artėja prie duotosios reikšmės ir kai funkcijos argumento reikšmės tolsta į begalybę ($±∞$).
+Nagrinėjant pavyzdžius, ugdomas intuityvus funkcijos reikšmių artėjimo prie funkcijos ribos, funkcijos tolydumo taške bei intervale supratimas.
 
-Formuluojamos ir aiškinamos funkcijų ribų skaičiavimo taisyklės (ribų savybės): funkcijų sumos (skirtumo), sandaugos ir dalmens.
+Mokoma(si) rasti ribas$ \lim \limits_ {g(x)→0}⁡\frac {f⁡(x)}{g(x)}$, kai suprastinus reiškinį$ \frac {f⁡(x)}{g(x)}$, $ $gaunama tolydi funkcija.
+
+Formuojamos ir aiškinamos funkcijų ribų skaičiavimo taisyklės (ribų savybės): funkcijų sumos, skirtumo, sandaugos ir dalmens ribos, pabrėžiant, kad šios taisyklės taikomos, kai atitinkamos ribos egzistuoja, o dalmens atveju vardiklio riba nėra lygi nuliui.
 
 #### Funkcijos išvestinės samprata
 
-Nagrinėjama funkcijos nepriklausomojo kintamojo (argumento) pokytis ir priklausomojo kintamojo (funkcijos reikšmės) pokytis bei šių pokyčių santykis; tolydžios funkcijos $y=f(x)$ grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))$, sąvoka.
+Nagrinėjama funkcijos nepriklausomojo kintamojo (argumento) pokytis ir priklausomojo kintamojo (funkcijos reikšmės) pokytis bei šių pokyčių santykis; tolydžios funkcijos $y=f(x)$ grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a)$), sąvoka.
 
-Pateikiamas funkcijos $y=f(x)$ išvestinės taške $x=a$ apibrėžimas; išvestinės funkcijos $y=f' (x)$ apibrėžimas; grafiko liestinės ($y=kx+b$), einančios per grafiko tašką, kuriame $x=a,$ krypties koeficiento ir funkcijos išvestinės taške $x=a$ ryšys ($k= f' (a)$); išvedama liestinės lygtis.
+Pateikiamas funkcijos $y=f(x)$ išvestinės taške $x=a$ apibrėžimas; išvestinės funkcijos $y=f' (x)$ apibrėžimas; grafiko liestinės ($y=kx+b$), einančios per grafiko tašką, kuriame $x=a,$ krypties koeficiento ir funkcijos išvestinės taške $x=a$ ryšys ($k= f' (a)=\tg (\alpha$), čia $\alpha$ yra kampas tarp funkcijos grafiko liestinės ir abscisių ašies teigiamos pusašės); išvedama liestinės lygtis.
 
 Naudojantis funkcijos $y=f(x)$ išvestinės funkcijos $y=f' (x)$ apibrėžimu, mokoma(si) rasti tiesinės $y=f(x)=kx+b$ ir kvadratinės $y=f(x)=ax^2+bx+c$ funkcijų išvestines, funkcijos grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))$, lygtį.
 
@@ -1708,19 +1948,13 @@ Sudėtinės funkcijos reiškinio išvestinė lygi
 
 $(f(g(x)))' =f' (g(x))\cdot g' (x)$ (ši formulė pateikiama be įrodymo).
 
-Aiškinamos elementariųjų funkcijų reiškinių išvestinės:
+Be įrodymų pateikiamos elementariųjų funkcijų reiškinių išvestinės:
 
-$(x^n )' =n\cdot x^{n-1}, \ \ (e^x )' =e^x, \ \ (a^x )' =a^x\cdot \ln⁡(a), \ \ ((\ln(⁡x))' =\frac1x, \ \ (\log_a⁡(x) )' =\frac 1{x\cdot \ln(a)}$.
-
-Nagrinėjama riba
-
-$\lim \limits_ {x→0}⁡\frac {\sin⁡(x)}x=1$
-
-ir įsitikinama, kad
+$(x^n )' =n\cdot x^{n-1}, \ \ (e^x )' =e^x, \ \ (a^x )' =a^x\cdot \ln⁡(a), \ \ ((\ln(⁡x))' =\frac1x, \ \ (\log_a⁡(x) )' =\frac 1{x\cdot \ln(a)}$,
 
 $(\sin⁡(x))' =\cos(x), \ \ (\cos⁡(x) )' =-\sin⁡(x),\ \ (\tg⁡(x) )' =\frac 1{\cos^2 (x)}$.
 
-Naudojantis išvestinių skaičiavimo taisyklėmis ir formulėmis, mokomasi apskaičiuoti įvairių reiškinių ir funkcijų išvestines.
+Naudojantis išvestinių skaičiavimo taisyklėmis ir formulėmis, mokoma(si) apskaičiuoti įvairių reiškinių ir funkcijų išvestines.
 
 #### Funkcijos savybių tyrimas, naudojantis išvestine
 
@@ -1730,7 +1964,7 @@ Mokoma(si), naudojantis funkcijos išvestine, apskaičiuoti funkcijos didžiausi
 
 Braižomas ne aukštesnio kaip ketvirtojo laipsnio funkcijos grafiko ($y=ax^4+bx^3+cx^2+dx+e$, $a,b,c,d,e∈\mathbb{R}$) eskizas.
 
-Naudojantis išvestine, sprendžiami optimizavimo uždaviniai.
+Naudojantis išvestine, sprendžiami optimizavimo uždaviniai uždarame ir atvirame intervale.
 
 #### Pirmykštė funkcija ir integralas
 
@@ -1760,9 +1994,9 @@ $∫_a^af(x) \mathrm{d}x=0$.
 
 $∫_a^bf(x) \mathrm{d}x=F(b)-F(a)$
 
-ir mokomasi ją taikyti, sprendžiant uždavinius, susijusius su kreivinių trapecijų plotais.
+ir mokoma(si) ją taikyti, sprendžiant uždavinius, susijusius su kreivinių trapecijų plotais.
 
-Pateikiama formulė, kuri naudojama, skaičiuojant sukinio tūrį, gauto sukant kreivę $y=f(x),x∈[a;b],$ apie $Ox$ ašį
+Pateikiama formulė, kuri naudojama, skaičiuojant sukinio tūrį, gauto sukant kreivę $y=f(x),\ x∈[a;b],$ apie $Ox$ ašį
 
 $V=π∫_a^bf^2 (x) \mathrm{d}x$.
 
@@ -1774,19 +2008,11 @@ Sprendžiami įvairaus konteksto integralų taikymo uždaviniai.
 
 Mokoma(si) stereometrijos aksiomų:
 
-per bet kuriuos du taškus eina vienintelė tiesė; per bet kuriuos tris taškus, nesančius vienoje tiesėje, eina vienintelė plokštuma; jei du tiesės taškai priklauso plokštumai, tai ir tiesė priklauso plokštumai; jei dvi plokštumos turi bendrą tašką, tai jos turi ir bendrą tiesę, kurioje yra visi bendrieji tų plokštumų taškai.
-
 Mokoma(si) įrodyti teoremas:
-
-per tiesę ir jai nepriklausantį tašką eina vienintelė plokštuma; per dvi susikertančias tieses eina vienintelė plokštuma; per dvi lygiagrečias tieses eina vienintelė plokštuma.
 
 Aptariamos erdvės tiesių ir plokštumų tarpusavio padėtys:
 
-erdvės tiesės gali sutapti, kirstis, būti lygiagrečios, prasilenkiančios; plokštumos gali sutapti, būti lygiagrečios, susikertančios; plokštuma ir tiesė gali būti lygiagrečios, tiesė gali kirsti plokštumą, priklausyti plokštumai.
-
 Nagrinėjami atstumai ir kampai erdvėje:
-
-atstumai tarp dviejų taškų, taško ir tiesės, taško ir plokštumos, dviejų lygiagrečių ir prasilenkiančių tiesių, tiesės ir su ja lygiagrečios plokštumos, dviejų lygiagrečių plokštumų; kampai tarp susikertančių ir tarp prasilenkiančių tiesių, tarp tiesės ir plokštumos.
 
 Apibrėžiamas dvisienis kampas, mokoma(si) jį rasti bei pavaizduoti brėžinyje.
 
@@ -1794,7 +2020,9 @@ Apibrėžiama, kokia tiesė vadinama statmeniu plokštumai, įrodomas tiesės ir
 
 Apibrėžiama pasviroji plokštumai ir jos statmenoji projekcija plokštumoje.
 
-Įrodomas tiesės ir plokštumos lygiagretumo požymis. Įrodomos trijų statmenų ir jai atvirkštinė teoremos.
+Įrodomas tiesės ir plokštumos lygiagretumo požymis.
+
+Įrodomos trijų statmenų ir jai atvirkštinė teoremos.
 
 Nagrinėjami ir braižomi stereometrijos brėžiniai bei sprendžiami įvairūs uždaviniai.
 
@@ -1802,13 +2030,9 @@ Nagrinėjami ir braižomi stereometrijos brėžiniai bei sprendžiami įvairūs 
 
 Klasifikuojami erdviniai kūnai.
 
-Briaunainiai: stačiosios prizmės; piramidės (netaisyklingosios ir taisyklingosios), nupjautinės piramidės.
-
-Sukiniai: ritiniai, kūgiai, nupjautiniai kūgiai, sferos, rutuliai ir rutulių nuopjovos.
-
 Mokoma(si) šiuos erdvinius kūnus vaizduoti ir atpažinti.
 
-Apibrėžiamos su erdviniais kūnais susijusios sąvokos: šoninis ir visas paviršius, pagrindas, aukštinė, apotema, sudaromoji, gretasienio įstrižainė; sukinių ašiniai pjūviai, kūgio, ritinio, piramidės pjūviai plokštumomis, lygiagrečiomis su pagrindais; taisyklingosios piramidės pjūviai, einantys per piramidės aukštinę; rutulio pjūviai; gretasienio pjūviai, einantys per gretasienio priešingas briaunas.
+Apibrėžiamos su erdviniais kūnais susijusios sąvokos:
 
 Mokoma(si) apskaičiuoti erdvinių kūnų paviršių plotus ir tūrius, jų pjūvių plotus, perimetrus ir atskirus elementus.
 
@@ -1818,31 +2042,13 @@ Sprendžiami įvairūs su briaunainiais ir sukiniais susiję uždaviniai.
 
 #### Įvadas į statistinę duomenų analizę
 
-Nagrinėdami straipsnius apie mokslo pasiekimus, statistikos ir technologijų vaidmenį šiuolaikiniame pasaulyje, mokiniai sužino, kad funkcijos gali būti naudojamos ir duomenims apibūdinti, o jei duomenys susiję tiesiniu ryšiu, tai tas ryšys gali būti modeliuojamas tiese (regresijos tiese), o jo stiprumas ir kryptis išreikšti koreliacijos koeficientu.
-
-Visas naujas sąvokas mokiniai išsiaiškina, nagrinėdami konkrečius pavyzdžius, o reikiamai skaitinei informacijai gauti pasitelkia skaitmenines technologijas. Mokiniai išsiaiškina, kad statistinės analizės (regresinė analizė yra viena iš jos dalių) tikslas – ištyrus dalį respondentų (imtį), padaryti išvadą apie visą populiaciją.
-
-Mokoma(si) praktiškai, naudojantis skaitmeninėmis technologijomis, apskaičiuoti duomenų rinkinio imties vidurkį, standartinį nuokrypį, interpretuoti, kaip jie charakterizuoja imtį.
-
-Nagrinėjami pavyzdžiai, kai sprendimui dėl kintamųjų ryšio ir jo stiprumo priimti naudojama koreliacija (pavyzdžiui, laiko ir pažymių, amžiaus ir atlyginimo, IQ ir darbo kompiuteriu). Atkreipiamas dėmesys, kad koreliacija nepaaiškina priežastingumo.
-
-Nagrinėjamos paprasčiausios tipinės situacijos, kai gali būti taikoma tiesinė regresija (pavyzdžiui, ar per egzaminą surinktų balų skaičius priklauso nuo socialinio statuso).
-
-Išsiaiškinama, kaip priimamas sprendimas, kuris kintamasis vadinamas priklausomuoju kintamuoju, o kuris – aiškinamuoju (regresoriumi).
-
-Naudojantis skaičiuoklės programa, demonstruojama, kaip atrodo grafinis duomenų rinkinio vaizdas („taškų debesėlis“).
-
-Nagrinėjama problema – ar įmanoma šiuos duomenis aprašyti modeliu (tiese). Išsiaiškinama, kad svarbiausia šio modelio (tiesės) charakteristika – determinacijos koeficientas (R kvadratas) ir mokoma(si), jį žinant (suradus), priimti sprendimą dėl gauto modelio tinkamumo duomenims aprašyti.
-
-Kritiškai peržiūrint statistinių duomenų naudojimą viešojoje žiniasklaidoje ir įvairiose ataskaitose, mokoma(si) diskutuoti apie tyrimo struktūrą, duomenų rinkimo sąlygas ir būdą, duomenų analizei taikytus metodus, duomenų santraukas ir padarytas išvadas.
-
 #### Rinkiniai: kėliniai, gretiniai, deriniai
 
 Nagrinėjami elementų rinkiniai, kurie sudaromi, elementus imant iš vienos aibės, dviejų ar daugiau aibių. Aiškinama(si), kuo skiriasi tokie galimi sudaryti rinkiniai (elementais, elementų tvarka), kaip, naudojantis kombinatorikos daugybos taisykle, galima apskaičiuoti sudaromų rinkinių skaičių (pavyzdžiais iliustruojama kombinatorikos sudėties taisyklė).
 
 Apibrėžiamos sąvokos: kėliniai, gretiniai ir deriniai; pateikiamos ir pagrindžiamos jų skaičių radimo formulės, pastebint šių formulių tarpusavio ryšį.
 
-Pateikiami ir nagrinėjami derinių skaičiaus formulės taikymai – (Bernulio bandymų formulė, Niutono binomo formulė).
+Pateikiami ir nagrinėjami derinių skaičiaus formulės taikymai, pavyzdžiui, Bernulio bandymų formulė, Niutono binomo formulė.
 
 Sprendžiant kombinatorikos uždavinius (nustatant rinkinių skaičių), mokoma(si) naudotis galimybių medžiais, galimybių lentelėmis ar kitaip surašyti reikiamus rinkinius.
 
@@ -1858,20 +2064,12 @@ Mokoma(si) pagrįsti pavyzdžiais ir įrodyti tikimybių savybes: būtinojo įvy
 
 Sprendžiant uždavinius, mokoma(si) apskaičiuoti:
 
-bandymo baigties ar įvykio tikimybę, ją nurodyti intervalo $[0;1]$ skaičiumi ir procentais;
-
-tikimybę, kad atliekant bandymą įvyks kuris nors iš dviejų nesutaikomųjų įvykių;
-
-tikimybę, kad atliekant bandymą įvyks abu tarpusavyje nepriklausomieji įvykiai;
-
-tikimybę, kad atliekant bandymą įvyks kuris nors iš dviejų sutaikomųjų įvykių;
-
-su Bernulio bandymais susijusias tikimybes.
-
 #### Atsitiktiniai dydžiai
 
 Įvedamos atsitiktinio dydžio ir jo skirstinio sąvokos; pateikiama atsitiktinių dydžių ir jų skirstinių pavyzdžių.
 
 Mokoma(si) sudaryti atsitiktinio dydžio skirstinio lentelę, apskaičiuoti jo matematinę viltį (atsitiktinio dydžio vidurkį), standartinį nuokrypį ir dispersiją. Analizuojamos šios skaitinės charakteristikos.
 
-Aptariama, kaip grafiškai atrodo normalusis (Gauso) skirstinys, kokios savybės jam būdingos. Nagrinėjami realių atsitiktinių dydžių, kurių skirstinys yra normalusis, pavyzdžiai.
+Mokoma(si) atpažinti normalųjį (Gauso) skirstinį, nurodyti jo simetrijos ašį, atsitiktinio dydžio vidurkį, bei suprasti formos priklausomybę nuo vidurkio ir standartinio nuokrypio.
+
+Mokoma(si) atpažinti normalųjį skirstinį realaus gyvenimo situacijose ir spręsti su juo susijusius praktinius uždavinius.
