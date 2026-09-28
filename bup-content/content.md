@@ -340,7 +340,7 @@ Nagrinėjamos trupmenos $\frac{m}{n}$, kurių skaitiklyje ir vardiklyje gali bū
 
 Apibrėžiamos sąvokos: taisyklingosios trupmenos, netaisyklingosios trupmenos; mokoma(si) iš netaisyklingosios trupmenos išskirti sveikąją dalį, mišrųjį skaičių užrašyti netaisyklingąja trupmena.
 
-Praktikuojamasi suprastinti, pertvarkyti, palyginti, suapvalinti trupmenas.
+Praktikuojamasi suprastinti, pertvarkyti, palyginti, trupmenas.
 
 Mokoma(si) trupmenas, kurių vardiklyje yra $10, 100, 1000, … $, užrašyti dešimtainiu skaičiumi (su kableliu) ir atvirkščiai.
 
@@ -352,19 +352,15 @@ Praktikuojamasi sudėti ir atimti mišriuosius skaičius, kurių trupmeninės da
 
 Trupmenos $\frac{m}{n}$ daugyba iš natūraliojo skaičiaus apibrėžiama kaip tokių pačių trupmenų sumavimas.
 
-Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) = (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės).
+Naudojant vaizdinius modelius, išsiaiškinama, kodėl bendruoju atveju yra teisinga lygybė $c ⋅ (a : b) =$$ (c ⋅ a) : b$ ir kodėl trupmenoms gali būti taikomi perstatomumo, jungiamumo, skirstomumo, daugybos iš nulio ir vieneto dėsniai (veiksmų savybės).
 
 Pagrindžiami su trupmenomis $\frac{m}{n}$, mišriaisiais skaičiais atliekami sudėties, atimties, daugybos iš natūraliojo skaičiaus veiksmai. Jie taikomi, sprendžiant praktinio turinio uždavinius.
 
 Paaiškinama, kad veiksmams su dešimtainiais skaičiais galioja nagrinėti trupmenų dėsniai, jiems galima pritaikyti dešimtainę pozicinę skaičiavimo sistemą ir atlikti veiksmus panašiai kaip su sveikaisiais skaičiais.
 
-Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies ar visumos radimo uždavinius; skaičiaus nurodytu procentų skaičiumi padidėjimo ar sumažėjimo uždavinius.
-
-### Finansiniai skaičiavimai
+Apibrėžiama procento sąvoka, mokoma(si) ją taikyti, sprendžiant skaičiaus (dydžio) dalies radimo uždavinius.
 
 ## Modeliai ir sąryšiai
-
-### Dėsningumai
 
 ### Modeliai ir sąryšiai. Algebra. Lygtys
 
@@ -1834,8 +1830,6 @@ Susipažįstama su taisyklingųjų briaunainių, sukinių pasireiškimo gamtoje 
 
 ### Duomenys ir tikimybės
 
-#### Įvadas į statistinę duomenų analizę
-
 #### Tikimybės ir jų interpretavimas
 
 Sprendžiant uždavinius, naudojamasi tikimybės apibrėžimu ir tikimybių savybėmis:
@@ -1908,13 +1902,15 @@ Praktikuojamasi rasti trigonometrinės lygties sprendinius nurodytame intervale.
 
 Nagrinėjant pavyzdžius, ugdomas intuityvus funkcijos reikšmių artėjimo prie funkcijos ribos, funkcijos tolydumo taške bei intervale supratimas.
 
-Mokoma(si) rasti ribas$ \lim \limits_ {g(x)→0}⁡\frac {f⁡(x)}{g(x)}$, kai suprastinus reiškinį$ \frac {f⁡(x)}{g(x)}$, $ $gaunama tolydi funkcija.
+Mokoma(si) rasti ribas $\lim_{x \to a} f(x)$, kai taške, kurio $x=a$ , funkcija $y=f(x)$ yra apibrėžta ir tolydi.
 
-Formuojamos ir aiškinamos funkcijų ribų skaičiavimo taisyklės (ribų savybės): funkcijų sumos, skirtumo, sandaugos ir dalmens ribos, pabrėžiant, kad šios taisyklės taikomos, kai atitinkamos ribos egzistuoja, o dalmens atveju vardiklio riba nėra lygi nuliui.
+Mokoma(si) apskaičiuoti ribas $\lim_{g(x) \to 0} \frac {f⁡(x)}{g(x)}$ , kai suprastinus reiškinį $\frac {f⁡(x)}{g(x)}$, gaunama tolydi funkcija.
+
+Formuluojamos ir aiškinamos funkcijų ribų skaičiavimo taisyklės (ribų savybės): funkcijų sumos skirtumo, sandaugos ir dalmens ribos, pabrėžiant, kad šios taisyklės taikomos, kai atitinkamos ribos egzistuoja, o dalmens atveju vardiklio riba nėra lygi nuliui.
 
 #### Funkcijos išvestinės samprata
 
-Nagrinėjama funkcijos nepriklausomojo kintamojo (argumento) pokytis ir priklausomojo kintamojo (funkcijos reikšmės) pokytis bei šių pokyčių santykis; tolydžios funkcijos $y=f(x)$ grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a)$), sąvoka.
+Nagrinėjama funkcijos nepriklausomojo kintamojo (argumento) pokytis ir priklausomojo kintamojo (funkcijos reikšmės) pokytis bei šių pokyčių santykis; tolydžios funkcijos $y=f(x)$ grafiko liestinės, nubrėžtos per grafiko tašką $(a;f(a))$, sąvoka.
 
 Pateikiamas funkcijos $y=f(x)$ išvestinės taške $x=a$ apibrėžimas; išvestinės funkcijos $y=f' (x)$ apibrėžimas; grafiko liestinės ($y=kx+b$), einančios per grafiko tašką, kuriame $x=a,$ krypties koeficiento ir funkcijos išvestinės taške $x=a$ ryšys ($k= f' (a)=\tg (\alpha$), čia $\alpha$ yra kampas tarp funkcijos grafiko liestinės ir abscisių ašies teigiamos pusašės); išvedama liestinės lygtis.
 
@@ -1966,42 +1962,6 @@ Braižomas ne aukštesnio kaip ketvirtojo laipsnio funkcijos grafiko ($y=ax^4+bx
 
 Naudojantis išvestine, sprendžiami optimizavimo uždaviniai uždarame ir atvirame intervale.
 
-#### Pirmykštė funkcija ir integralas
-
-#### Neapibrėžtinis integralas
-
-. Apibrėžiama funkcijos pirmykštė funkcija. Paaiškinama, kad funkcija turi be galo daug pirmykščių funkcijų, o visa jų šeima užrašoma naudojantis neapibrėžtinio integralo ženklu.
-
-Įrodomos pirmykščių funkcijų savybės (funkcijų reiškinių sumos pirmykštės funkcijos, konstantos ir funkcijos reiškinio sandaugos pirmykštės, $y=f(ax+b)$ pirmykštės funkcijos). Mokoma(si) jomis naudotis.
-
-#### Apibrėžtinis integralas
-
-. Apibrėžiama kreivinės trapecijos (koordinačių plokštumos figūros, intervale $[a; b]$ iš viršaus apribotos neneigiamos funkcijos grafiku, abscisių ašimi ir tiesėmis $x=a, x=b$) sąvoka.
-
-Aiškinama(si), kad kreivinės trapecijos plotas nedaug skiriasi nuo ploto figūros, kuri sudaryta iš stačiakampių, kurių pagrindai yra intervalai, gauti padalijus intervalą $[a; b]$ į daug lygių dalių, o kitų kraštinių ilgiai lygūs funkcijos reikšmėms dalijimo taškuose. Sudaromas šios figūros ploto reiškinys (integralinė suma), aiškinama(si), kad intervalų skaičiui augant, šių reiškinių reikšmės artėja prie skaičiaus, kuris vadinamas funkcijos apibrėžtiniu integralu intervale $[a; b]$. Jo reikšmė yra kreivinės trapecijos plotas. Paaiškinama, kad integralines sumas galima sudaryti ir nebūtinai neneigiamoms tolydžioms funkcijoms. Ribinė jų reikšmė vadinama funkcijos apibrėžtiniu integralu intervale $[a; b]$.
-
-Pateikiamos ir paaiškinamos apibrėžtinio integralo savybės:
-
-$∫_a^b(f(x)±g(x)) \mathrm{d}x=∫_a^bf(x) \mathrm{d}x±∫_a^bg(x) \mathrm{d}x, \ \ \ ∫_a^bkf(x) \mathrm{d}x=k∫_a^bf(x) \mathrm{d}x$,
-
-$∫_a^bf(x) \mathrm{d}x=-∫_b^af(x) \mathrm{d}x, \ \ ∫_a^bf(x) \mathrm{d}x=∫_a^cf(x) \mathrm{d}x+∫_c^bf(x) \mathrm{d}x\ (c∈[a;b])$,
-
-$∫_a^af(x) \mathrm{d}x=0$.
-
-#### Integralų taikymai
-
-. Pateikiama ir paaiškinama Niutono-Leibnico formulė
-
-$∫_a^bf(x) \mathrm{d}x=F(b)-F(a)$
-
-ir mokoma(si) ją taikyti, sprendžiant uždavinius, susijusius su kreivinių trapecijų plotais.
-
-Pateikiama formulė, kuri naudojama, skaičiuojant sukinio tūrį, gauto sukant kreivę $y=f(x),\ x∈[a;b],$ apie $Ox$ ašį
-
-$V=π∫_a^bf^2 (x) \mathrm{d}x$.
-
-Sprendžiami įvairaus konteksto integralų taikymo uždaviniai.
-
 ### Geometrija ir matavimai
 
 #### Tiesės, plokštumos, kampai erdvėje
@@ -2039,8 +1999,6 @@ Mokoma(si) apskaičiuoti erdvinių kūnų paviršių plotus ir tūrius, jų pjū
 Sprendžiami įvairūs su briaunainiais ir sukiniais susiję uždaviniai.
 
 ### Duomenys ir tikimybės
-
-#### Įvadas į statistinę duomenų analizę
 
 #### Rinkiniai: kėliniai, gretiniai, deriniai
 
