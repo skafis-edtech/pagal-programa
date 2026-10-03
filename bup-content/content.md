@@ -554,8 +554,6 @@ Apibrėžiama ir taikoma mastelio sąvoka.
 
 Įsitikinama (matuojant) ir įrodoma (keturkampį jo įstrižaine padalijant į du trikampius), kad keturkampio kampų didumų suma yra lygi 360 laipsnių.
 
-Pateikiami ir aptariami keli keturkampio kampų sumos radimo būdai.
-
 ## Duomenys ir tikimybės
 
 ### Duomenys ir jų interpretavimas
@@ -684,7 +682,7 @@ Apibrėžiama, kokie keturkampiai vadinami kvadratais, stačiakampiais, lygiagre
 
 Aptariamos ir taikomos lygiagretainio, rombo, stačiakampio ir kvadrato savybės, kartu pastebint, kuri figūra yra bendresnės figūrų grupės dalis.
 
-Aiškinamasi, ką reiškia klasifikuoti figūras, prisimenamos trikampių rūšys (pagal kampus ir kraštines), klasifikuojami keturkampiai (pagal lygiagrečių kraštinių skaičių).
+Aiškinamasi, ką reiškia klasifikuoti figūras, prisimenamos trikampių rūšys (pagal kampus ir kraštines), klasifikuojami keturkampiai (pagal lygiagrečių kraštinių porų skaičių).
 
 Aptariamos trapecijų rūšys.
 
@@ -1961,6 +1959,42 @@ Mokoma(si), naudojantis funkcijos išvestine, apskaičiuoti funkcijos didžiausi
 Braižomas ne aukštesnio kaip ketvirtojo laipsnio funkcijos grafiko ($y=ax^4+bx^3+cx^2+dx+e$, $a,b,c,d,e∈\mathbb{R}$) eskizas.
 
 Naudojantis išvestine, sprendžiami optimizavimo uždaviniai uždarame ir atvirame intervale.
+
+#### Pirmykštė funkcija ir integralas
+
+#### Neapibrėžtinis integralas
+
+. Apibrėžiama funkcijos pirmykštė funkcija. Paaiškinama, kad funkcija turi be galo daug pirmykščių funkcijų, o visa jų šeima užrašoma naudojantis neapibrėžtinio integralo ženklu.
+
+Įrodomos pirmykščių funkcijų savybės (funkcijų reiškinių sumos pirmykštės funkcijos, konstantos ir funkcijos reiškinio sandaugos pirmykštės, $y=f(ax+b)$ pirmykštės funkcijos). Mokoma(si) jomis naudotis.
+
+#### Apibrėžtinis integralas
+
+. Apibrėžiama kreivinės trapecijos (koordinačių plokštumos figūros, intervale $[a; b]$ iš viršaus apribotos neneigiamos funkcijos grafiku, abscisių ašimi ir tiesėmis $x=a, x=b$) sąvoka.
+
+Aiškinama(si), kad kreivinės trapecijos plotas nedaug skiriasi nuo ploto figūros, kuri sudaryta iš stačiakampių, kurių pagrindai yra intervalai, gauti padalijus intervalą $[a; b]$ į daug lygių dalių, o kitų kraštinių ilgiai lygūs funkcijos reikšmėms dalijimo taškuose. Sudaromas šios figūros ploto reiškinys (integralinė suma), aiškinama(si), kad intervalų skaičiui augant, šių reiškinių reikšmės artėja prie skaičiaus, kuris vadinamas funkcijos apibrėžtiniu integralu intervale $[a; b]$. Jo reikšmė yra kreivinės trapecijos plotas. Paaiškinama, kad integralines sumas galima sudaryti ir nebūtinai neneigiamoms tolydžioms funkcijoms. Ribinė jų reikšmė vadinama funkcijos apibrėžtiniu integralu intervale $[a; b]$.
+
+Pateikiamos ir paaiškinamos apibrėžtinio integralo savybės:
+
+$∫_a^b(f(x)±g(x)) \mathrm{d}x=∫_a^bf(x) \mathrm{d}x±∫_a^bg(x) \mathrm{d}x, \ \ \ ∫_a^bkf(x) \mathrm{d}x=k∫_a^bf(x) \mathrm{d}x$,
+
+$∫_a^bf(x) \mathrm{d}x=-∫_b^af(x) \mathrm{d}x, \ \ ∫_a^bf(x) \mathrm{d}x=∫_a^cf(x) \mathrm{d}x+∫_c^bf(x) \mathrm{d}x\ (c∈[a;b])$,
+
+$∫_a^af(x) \mathrm{d}x=0$.
+
+#### Integralų taikymai
+
+. Pateikiama ir paaiškinama Niutono-Leibnico formulė
+
+$∫_a^bf(x) \mathrm{d}x=F(b)-F(a)$
+
+ir mokoma(si) ją taikyti, sprendžiant uždavinius, susijusius su kreivinių trapecijų plotais.
+
+Pateikiama formulė, kuri naudojama, skaičiuojant sukinio tūrį, gauto sukant kreivę $y=f(x),\ x∈[a;b],$ apie $Ox$ ašį
+
+$V=π∫_a^bf^2 (x) \mathrm{d}x$.
+
+Sprendžiami įvairaus konteksto integralų taikymo uždaviniai.
 
 ### Geometrija ir matavimai
 
