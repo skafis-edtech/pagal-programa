@@ -742,8 +742,6 @@ Aptariama veiksmų su realiaisiais skaičiais atlikimo tvarka.
 
 Mokoma(si) apskaičiuoti, palyginti, įvertinti nesudėtingų skaitinių reiškinių reikšmes. Atliekant veiksmus su realiaisiais skaičiais, pirmenybė teikiama mintinio skaičiavimo strategijų taikymui. Kai skaičiai nėra patogūs skaičiuoti, pasitelkiamas skaičiuotuvas.
 
-### Finansiniai skaičiavimai
-
 ## Modeliai ir sąryšiai
 
 ### Algebra
@@ -773,8 +771,6 @@ Mokoma(si) spręsti tiesinių lygčių sistemas grafiniu, keitimo, sudėties, su
 #### Nelygybių sistemos
 
 Apibrėžiamos sąvokos: dviejų pirmojo laipsnio nelygybių su vienu nežinomuoju sistema ir jos sprendinys, dviguboji nelygybė ir jos sprendinys. Mokoma(si) spręsti dviejų pirmojo laipsnio nelygybių su vienu nežinomuoju sistemas bei dvigubąsias nelygybes (čia .
-
-### Tiesiniai ir netiesiniai sąryšiai
 
 ## Geometrija ir matavimai
 
@@ -831,8 +827,6 @@ Nagrinėjant praktines situacijas, aptariama, kaip apskaičiuojamas sukauptasis 
 # 9 (I gimnazijos) klasė
 
 ## Modeliai ir sąryšiai
-
-### Dėsningumai
 
 ### Algebra
 
