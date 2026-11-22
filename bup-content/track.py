@@ -98,6 +98,25 @@ def emit_para(p, out):
             out.append(f"{text}\n\n")
 
 
+def emit_list(lst, out, depth=0):
+    ordered = lst.name == "ol"
+    lines = []
+    for i, li in enumerate(lst.find_all("li", recursive=False), 1):
+        sublists = li.find_all(["ul", "ol"], recursive=False)
+        for sub in sublists:
+            sub.extract()
+        text = ws(elem_text(li))
+        marker = f"{i}." if ordered else "-"
+        if text:
+            lines.append(f"{'  ' * depth}{marker} {text}\n")
+        for sub in sublists:
+            sub_out = []
+            emit_list(sub, sub_out, depth + 1)
+            lines.append("".join(sub_out).rstrip("\n") + "\n")
+    if lines:
+        out.append("".join(lines) + ("\n" if depth == 0 else ""))
+
+
 def process_content(div, level, out):
     nested = div.find_all("div", class_="collapse-simple", recursive=False)
     if nested:
@@ -107,6 +126,8 @@ def process_content(div, level, out):
         for child in div.children:
             if isinstance(child, Tag) and child.name == "p":
                 emit_para(child, out)
+            elif isinstance(child, Tag) and child.name in ("ul", "ol"):
+                emit_list(child, out)
             elif isinstance(child, NavigableString):
                 text = ws(str(child))
                 if text:

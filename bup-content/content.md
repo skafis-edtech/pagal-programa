@@ -666,6 +666,10 @@ Fizinėmis ir skaitmeninėmis priemonėmis mokoma(si) rasti atkarpos vidurio ta�
 
 Mokoma(si) brėžinyje atpažinti ar nubrėžti šiuos figūrų elementus:
 
+- trikampio pusiaukampines, pusiaukraštines, aukštines;
+- lygiagretainio aukštines;
+- trapecijos aukštinę, pagrindus ir šonines kraštines.
+
 ### Figūros
 
 #### Plokštumos figūros
@@ -691,6 +695,11 @@ Aptariamos trapecijų rūšys.
 #### Erdvės figūros
 
 Nagrinėjant modelius ir brėžinius, mokoma(si) atpažinti
+
+- stačiąją ar taisyklingąją prizmę, jos aukštinę;
+- taisyklingąją piramidę, jos aukštinę ir apotemą;
+- ritinio aukštinę;
+- kūgio aukštinę ir sudaromąją.
 
 #### Ilgio, ploto, tūrio skaičiavimai
 
@@ -1790,13 +1799,25 @@ Praktikuojamasi taikyti išvestines, sprendžiant optimizavimo uždavinius.
 
 Susipažįstama su stereometrijos aksiomomis:
 
+- per bet kuriuos du taškus eina vienintelė tiesė;
+- per bet kuriuos tris taškus, nesančius vienoje tiesėje, eina vienintelė plokštuma;
+- jei du tiesės taškai priklauso plokštumai, tai ir tiesė priklauso plokštumai;
+- jei dvi plokštumos turi bendrą tašką, tai jos turi ir bendrą tiesę, kurioje yra visi bendrieji tų plokštumų taškai.
+
 Aptariamos teoremos:
+
+- per tiesę ir jai nepriklausantį tašką eina vienintelė plokštuma;
+- per dvi susikertančias tieses eina vienintelė plokštuma;
+- per dvi lygiagrečias tieses eina vienintelė plokštuma.
 
 Mokomasi taikyti šias teoremas.
 
 Tyrinėjama ir apibrėžiama, kokios gali būti tiesės ir plokštumos, dviejų plokštumų tarpusavio padėtys.
 
 Nagrinėjami atstumai ir kampai erdvėje:
+
+- atstumas tarp dviejų taškų, taško ir tiesės, taško ir plokštumos, dviejų lygiagrečių tiesių, tiesės ir su ja lygiagrečios plokštumos, dviejų lygiagrečių plokštumų;
+- kampai tarp susikertančių tiesių, tarp tiesės ir plokštumos.
 
 Apibrėžiamas dvisienis kampas, mokoma(si) jį rasti ar pavaizduoti brėžinyje, modelyje.
 
@@ -1825,6 +1846,10 @@ Susipažįstama su taisyklingųjų briaunainių, sukinių pasireiškimo gamtoje 
 #### Tikimybės ir jų interpretavimas
 
 Sprendžiant uždavinius, naudojamasi tikimybės apibrėžimu ir tikimybių savybėmis:
+
+- būtinojo įvykio tikimybė $\mathbf{P}(\mathrm{būtinojo}) = 1 $,
+- negalimojo įvykio $\mathbf{P}(\mathrm{negalimojo}) = 0 $,
+- vienas kitam priešingų įvykių tikimybių suma $\mathbf{P}(A)+\mathbf{P}(\overline{A})=1$.
 
 Nagrinėjami paprasčiausi dviejų trijų etapų bandymai (stochastiniai bandymai) ir su jo etapais susiję nepriklausomi ar priklausomi įvykiai (negrąžintinio ir grąžintinio ėmimo atvejai).
 
@@ -1996,11 +2021,27 @@ Sprendžiami įvairaus konteksto integralų taikymo uždaviniai.
 
 Mokoma(si) stereometrijos aksiomų:
 
+- per bet kuriuos du taškus eina vienintelė tiesė;
+- per bet kuriuos tris taškus, nesančius vienoje tiesėje, eina vienintelė plokštuma;
+- jei du tiesės taškai priklauso plokštumai, tai ir tiesė priklauso plokštumai;
+- jei dvi plokštumos turi bendrą tašką, tai jos turi ir bendrą tiesę, kurioje yra visi bendrieji tų plokštumų taškai.
+
 Mokoma(si) įrodyti teoremas:
+
+- per tiesę ir jai nepriklausantį tašką eina vienintelė plokštuma;
+- per dvi susikertančias tieses eina vienintelė plokštuma;
+- per dvi lygiagrečias tieses eina vienintelė plokštuma.
 
 Aptariamos erdvės tiesių ir plokštumų tarpusavio padėtys:
 
+- erdvės tiesės gali sutapti, kirstis, būti lygiagrečios, prasilenkiančios;
+- plokštumos gali sutapti, būti lygiagrečios, susikertančios;
+- plokštuma ir tiesė gali būti lygiagrečios, tiesė gali kirsti plokštumą, priklausyti plokštumai.
+
 Nagrinėjami atstumai ir kampai erdvėje:
+
+- atstumai tarp dviejų taškų, taško ir tiesės, taško ir plokštumos, dviejų lygiagrečių ir prasilenkiančių tiesių, tiesės ir su ja lygiagrečios plokštumos, dviejų lygiagrečių plokštumų;
+- kampai tarp susikertančių ir tarp prasilenkiančių tiesių, tarp tiesės ir plokštumos.
 
 Apibrėžiamas dvisienis kampas, mokoma(si) jį rasti bei pavaizduoti brėžinyje.
 
@@ -2018,9 +2059,18 @@ Nagrinėjami ir braižomi stereometrijos brėžiniai bei sprendžiami įvairūs 
 
 Klasifikuojami erdviniai kūnai.
 
+- Briaunainiai: stačiosios prizmės; piramidės (netaisyklingosios ir taisyklingosios), nupjautinės piramidės.
+- Sukiniai: ritiniai, kūgiai, nupjautiniai kūgiai, sferos, rutuliai ir rutulių nuopjovos.
+
 Mokoma(si) šiuos erdvinius kūnus vaizduoti ir atpažinti.
 
 Apibrėžiamos su erdviniais kūnais susijusios sąvokos:
+
+- šoninis ir visas paviršius, pagrindas, aukštinė, apotema, sudaromoji, gretasienio įstrižainė;
+- sukinių ašiniai pjūviai, kūgio, ritinio, piramidės pjūviai plokštumomis, lygiagrečiomis su pagrindais;
+- taisyklingosios piramidės pjūviai, einantys per piramidės aukštinę;
+- rutulio pjūviai;
+- gretasienio pjūviai, einantys per gretasienio priešingas briaunas.
 
 Mokoma(si) apskaičiuoti erdvinių kūnų paviršių plotus ir tūrius, jų pjūvių plotus, perimetrus ir atskirus elementus.
 
@@ -2049,6 +2099,12 @@ Analizuojamos sąvokos: klasikinis ir neklasikinis tikimybiniai bandymai, bandym
 Mokoma(si) pagrįsti pavyzdžiais ir įrodyti tikimybių savybes: būtinojo įvykio, negalimojo įvykio, vienas kitam priešingųjų įvykių, visų elementariųjų įvykių sumos, nesutaikomųjų įvykių, nepriklausomųjų įvykių, sutaikomųjų įvykių.
 
 Sprendžiant uždavinius, mokoma(si) apskaičiuoti:
+
+- bandymo baigties ar įvykio tikimybę, ją nurodyti intervalo $[0;1]$ skaičiumi ir procentais;
+- tikimybę, kad atliekant bandymą įvyks kuris nors iš dviejų nesutaikomųjų įvykių;
+- tikimybę, kad atliekant bandymą įvyks abu tarpusavyje nepriklausomieji įvykiai;
+- tikimybę, kad atliekant bandymą įvyks kuris nors iš dviejų sutaikomųjų įvykių;
+- su Bernulio bandymais susijusias tikimybes.
 
 #### Atsitiktiniai dydžiai
 
