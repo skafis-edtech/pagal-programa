@@ -151,6 +151,9 @@ section {
 
 #content {
     overflow: hidden;
+    /* Reach into the section's left padding so heading "#" anchors aren't clipped */
+    padding-left: 16px;
+    margin-left: -16px;
 }
 
 #content img {
@@ -184,4 +187,26 @@ footer {
     #menu-toggle {
         display: block;
     }
+}
+
+/* Heading permalinks */
+
+#content :is(h1, h2, h3, h4, h5, h6) {
+    position: relative;
+    scroll-margin-top: 72px;
+}
+
+#content .heading-anchor {
+    position: absolute;
+    left: -16px;
+    width: 16px;
+    color: rgb(140, 155, 120);
+    text-decoration: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+}
+
+#content :is(h1, h2, h3, h4, h5, h6):hover .heading-anchor,
+#content .heading-anchor:focus {
+    opacity: 1;
 }
